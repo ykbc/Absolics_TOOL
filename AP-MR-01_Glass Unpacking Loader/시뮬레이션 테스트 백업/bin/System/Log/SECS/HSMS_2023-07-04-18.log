@@ -1,0 +1,124 @@
+2023-07-04 18:41:32,453[INFO ]:Before Clear Queue.
+2023-07-04 18:41:32,461[INFO ]:Clear Queue.
+2023-07-04 18:41:32,461[INFO ]:Reset System Bytes to Zero(0).
+2023-07-04 18:41:32,461[INFO ]:Connection Mode : Passive
+2023-07-04 18:41:32,473[INFO ]:Thread State Changed : Working
+2023-07-04 18:41:32,474[INFO ]:Start RunThreadPassive()
+2023-07-04 18:41:32,484[INFO ]:Listening State Changed : Open
+2023-07-04 18:41:32,484[INFO ]:Socket Listener was Started.
+2023-07-04 18:41:32,484[INFO ]:Before Clear Queue.
+2023-07-04 18:41:32,484[INFO ]:Clear Queue.
+2023-07-04 18:41:32,484[INFO ]:Waiting New Connection...
+2023-07-04 18:46:36,835[INFO ]:Before Clear Queue.
+2023-07-04 18:46:36,842[INFO ]:Clear Queue.
+2023-07-04 18:46:36,843[INFO ]:Reset System Bytes to Zero(0).
+2023-07-04 18:46:36,844[INFO ]:Connection Mode : Passive
+2023-07-04 18:46:36,848[INFO ]:Thread State Changed : Working
+2023-07-04 18:46:36,849[INFO ]:Start RunThreadPassive()
+2023-07-04 18:46:36,849[INFO ]:Listening State Changed : Open
+2023-07-04 18:46:36,849[INFO ]:Socket Listener was Started.
+2023-07-04 18:46:36,850[INFO ]:Before Clear Queue.
+2023-07-04 18:46:36,850[INFO ]:Clear Queue.
+2023-07-04 18:46:36,850[INFO ]:Waiting New Connection...
+2023-07-04 18:47:26,670[INFO ]:Before Clear Queue.
+2023-07-04 18:47:26,678[INFO ]:Clear Queue.
+2023-07-04 18:47:26,678[INFO ]:Reset System Bytes to Zero(0).
+2023-07-04 18:47:26,678[INFO ]:Connection Mode : Passive
+2023-07-04 18:47:26,683[INFO ]:Thread State Changed : Working
+2023-07-04 18:47:26,684[INFO ]:Start RunThreadPassive()
+2023-07-04 18:47:26,684[INFO ]:Listening State Changed : Open
+2023-07-04 18:47:26,684[INFO ]:Socket Listener was Started.
+2023-07-04 18:47:26,684[INFO ]:Before Clear Queue.
+2023-07-04 18:47:26,684[INFO ]:Clear Queue.
+2023-07-04 18:47:26,684[INFO ]:Waiting New Connection...
+2023-07-04 18:48:47,527[INFO ]:Before Clear Queue.
+2023-07-04 18:48:47,535[INFO ]:Clear Queue.
+2023-07-04 18:48:47,535[INFO ]:Reset System Bytes to Zero(0).
+2023-07-04 18:48:47,535[INFO ]:Connection Mode : Passive
+2023-07-04 18:48:47,540[INFO ]:Thread State Changed : Working
+2023-07-04 18:48:47,541[INFO ]:Start RunThreadPassive()
+2023-07-04 18:48:47,542[INFO ]:Listening State Changed : Open
+2023-07-04 18:48:47,542[INFO ]:Socket Listener was Started.
+2023-07-04 18:48:47,542[INFO ]:Before Clear Queue.
+2023-07-04 18:48:47,542[INFO ]:Clear Queue.
+2023-07-04 18:48:47,542[INFO ]:Waiting New Connection...
+2023-07-04 18:51:15,308[INFO ]:Before Clear Queue.
+2023-07-04 18:51:15,316[INFO ]:Clear Queue.
+2023-07-04 18:51:15,316[INFO ]:Reset System Bytes to Zero(0).
+2023-07-04 18:51:15,316[INFO ]:Connection Mode : Passive
+2023-07-04 18:51:15,321[INFO ]:Thread State Changed : Working
+2023-07-04 18:51:15,322[INFO ]:Start RunThreadPassive()
+2023-07-04 18:51:15,323[FATAL]:각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+System.Net.Sockets.SocketException (0x80004005): 각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+   위치: System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   위치: System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   위치: System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   위치: Semi.Secs.HSMSLib.RunThreadPassive()
+2023-07-04 18:51:15,331[INFO ]:Listening State Changed : Close
+2023-07-04 18:51:15,331[INFO ]:Finish RunThreadPassive()
+2023-07-04 18:51:15,331[INFO ]:HSMS Send Thread Is Stoped
+2023-07-04 18:51:15,331[INFO ]:Thread State Changed : Stop
+2023-07-04 18:56:04,422[INFO ]:Before Clear Queue.
+2023-07-04 18:56:04,430[INFO ]:Clear Queue.
+2023-07-04 18:56:04,430[INFO ]:Reset System Bytes to Zero(0).
+2023-07-04 18:56:04,431[INFO ]:Connection Mode : Passive
+2023-07-04 18:56:04,435[INFO ]:Thread State Changed : Working
+2023-07-04 18:56:04,436[INFO ]:Start RunThreadPassive()
+2023-07-04 18:56:04,436[FATAL]:각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+System.Net.Sockets.SocketException (0x80004005): 각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+   위치: System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   위치: System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   위치: System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   위치: Semi.Secs.HSMSLib.RunThreadPassive()
+2023-07-04 18:56:04,445[INFO ]:Listening State Changed : Close
+2023-07-04 18:56:04,445[INFO ]:Finish RunThreadPassive()
+2023-07-04 18:56:04,445[INFO ]:HSMS Send Thread Is Stoped
+2023-07-04 18:56:04,445[INFO ]:Thread State Changed : Stop
+2023-07-04 18:56:22,328[INFO ]:Before Clear Queue.
+2023-07-04 18:56:22,335[INFO ]:Clear Queue.
+2023-07-04 18:56:22,335[INFO ]:Reset System Bytes to Zero(0).
+2023-07-04 18:56:22,335[INFO ]:Connection Mode : Passive
+2023-07-04 18:56:22,339[INFO ]:Thread State Changed : Working
+2023-07-04 18:56:22,340[INFO ]:Start RunThreadPassive()
+2023-07-04 18:56:22,341[FATAL]:각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+System.Net.Sockets.SocketException (0x80004005): 각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+   위치: System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   위치: System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   위치: System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   위치: Semi.Secs.HSMSLib.RunThreadPassive()
+2023-07-04 18:56:22,348[INFO ]:Listening State Changed : Close
+2023-07-04 18:56:22,348[INFO ]:Finish RunThreadPassive()
+2023-07-04 18:56:22,348[INFO ]:HSMS Send Thread Is Stoped
+2023-07-04 18:56:22,348[INFO ]:Thread State Changed : Stop
+2023-07-04 18:58:54,335[INFO ]:Before Clear Queue.
+2023-07-04 18:58:54,342[INFO ]:Clear Queue.
+2023-07-04 18:58:54,342[INFO ]:Reset System Bytes to Zero(0).
+2023-07-04 18:58:54,342[INFO ]:Connection Mode : Passive
+2023-07-04 18:58:54,348[INFO ]:Thread State Changed : Working
+2023-07-04 18:58:54,348[INFO ]:Start RunThreadPassive()
+2023-07-04 18:58:54,349[FATAL]:각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+System.Net.Sockets.SocketException (0x80004005): 각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+   위치: System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   위치: System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   위치: System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   위치: Semi.Secs.HSMSLib.RunThreadPassive()
+2023-07-04 18:58:54,355[INFO ]:Listening State Changed : Close
+2023-07-04 18:58:54,355[INFO ]:Finish RunThreadPassive()
+2023-07-04 18:58:54,355[INFO ]:HSMS Send Thread Is Stoped
+2023-07-04 18:58:54,355[INFO ]:Thread State Changed : Stop
+2023-07-04 18:59:11,946[INFO ]:Before Clear Queue.
+2023-07-04 18:59:11,952[INFO ]:Clear Queue.
+2023-07-04 18:59:11,952[INFO ]:Reset System Bytes to Zero(0).
+2023-07-04 18:59:11,952[INFO ]:Connection Mode : Passive
+2023-07-04 18:59:11,965[INFO ]:Thread State Changed : Working
+2023-07-04 18:59:11,965[INFO ]:Start RunThreadPassive()
+2023-07-04 18:59:11,966[FATAL]:각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+System.Net.Sockets.SocketException (0x80004005): 각 소켓 주소(프로토콜/네트워크 주소/포트)는 하나만 사용할 수 있습니다
+   위치: System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   위치: System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   위치: System.Net.Sockets.TcpListener.Start(Int32 backlog)
+   위치: Semi.Secs.HSMSLib.RunThreadPassive()
+2023-07-04 18:59:11,976[INFO ]:Listening State Changed : Close
+2023-07-04 18:59:11,976[INFO ]:Finish RunThreadPassive()
+2023-07-04 18:59:11,976[INFO ]:HSMS Send Thread Is Stoped
+2023-07-04 18:59:11,976[INFO ]:Thread State Changed : Stop

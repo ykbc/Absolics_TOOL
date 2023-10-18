@@ -1,0 +1,235 @@
+2023-07-04 19:11:13,773[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:11:13,804[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 19:11:13,807[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:11:18,788[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.017232], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(1)]
+2023-07-04 19:11:18,789[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:11:18,834[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(2)
+2023-07-04 19:11:18,835[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 01 >
+2023-07-04 19:11:33,879[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:11:33,895[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(3)
+2023-07-04 19:11:33,897[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:11:38,910[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.0317014], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(3)]
+2023-07-04 19:11:38,910[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:11:38,941[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(4)
+2023-07-04 19:11:38,941[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 03 >
+2023-07-04 19:13:10,362[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:13:10,410[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 19:13:10,413[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:13:15,403[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.0387692], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(1)]
+2023-07-04 19:13:15,406[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:13:15,446[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(2)
+2023-07-04 19:13:15,446[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 01 >
+2023-07-04 19:13:30,483[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:13:30,514[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(3)
+2023-07-04 19:13:30,514[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:13:35,514[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.0315912], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(3)]
+2023-07-04 19:13:35,514[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:13:35,545[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(4)
+2023-07-04 19:13:35,545[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 03 >
+2023-07-04 19:13:50,642[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:13:50,688[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(5)
+2023-07-04 19:13:50,688[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:13:56,607[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.9647812], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(5)]
+2023-07-04 19:13:56,607[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:13:56,652[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(6)
+2023-07-04 19:13:56,652[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 05 >
+2023-07-04 19:14:10,771[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:14:10,816[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(7)
+2023-07-04 19:14:10,816[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:14:16,748[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.9774615], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(7)]
+2023-07-04 19:14:16,748[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:14:16,779[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(8)
+2023-07-04 19:14:16,779[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 07 >
+2023-07-04 19:14:30,916[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:14:30,931[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(9)
+2023-07-04 19:14:30,931[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:14:36,835[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.9192365], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(9)]
+2023-07-04 19:14:36,835[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:14:36,895[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(10)
+2023-07-04 19:14:36,895[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 09 >
+2023-07-04 19:14:51,057[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:14:51,101[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(11)
+2023-07-04 19:14:51,101[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:14:56,964[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.9074978], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(11)]
+2023-07-04 19:14:56,964[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:14:56,995[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(12)
+2023-07-04 19:14:56,995[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 0B >
+2023-07-04 19:15:11,203[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:15:11,234[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(14)
+2023-07-04 19:15:11,234[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:15:17,066[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.8626859], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(14)]
+2023-07-04 19:15:17,066[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:15:17,128[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(15)
+2023-07-04 19:15:17,128[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 0E >
+2023-07-04 19:15:31,336[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:15:31,366[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(16)
+2023-07-04 19:15:31,366[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:15:37,156[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.8197888], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(16)]
+2023-07-04 19:15:37,156[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:15:37,217[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(17)
+2023-07-04 19:15:37,217[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 10 >
+2023-07-04 19:15:51,504[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:15:51,566[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(18)
+2023-07-04 19:15:51,566[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:15:57,245[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.7400942], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(18)]
+2023-07-04 19:15:57,245[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:15:57,275[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(19)
+2023-07-04 19:15:57,276[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 12 >
+2023-07-04 19:16:11,635[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:16:11,682[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(20)
+2023-07-04 19:16:11,682[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:16:17,348[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.7126341], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(20)]
+2023-07-04 19:16:17,348[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:16:17,393[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(21)
+2023-07-04 19:16:17,394[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 14 >
+2023-07-04 19:16:31,764[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:16:31,795[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(22)
+2023-07-04 19:16:31,795[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:16:37,445[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.6809215], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(22)]
+2023-07-04 19:16:37,445[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:16:37,506[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(23)
+2023-07-04 19:16:37,507[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 16 >
+2023-07-04 19:16:51,895[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:16:51,911[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(24)
+2023-07-04 19:16:51,911[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:16:57,571[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.6757032], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(24)]
+2023-07-04 19:16:57,571[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:16:57,617[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(25)
+2023-07-04 19:16:57,617[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 18 >
+2023-07-04 19:17:12,052[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:17:12,098[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(26)
+2023-07-04 19:17:12,099[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:17:17,672[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.6198299], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(26)]
+2023-07-04 19:17:17,672[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:17:17,687[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(28)
+2023-07-04 19:17:17,687[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 1A >
+2023-07-04 19:17:32,154[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:17:32,169[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(29)
+2023-07-04 19:17:32,169[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:17:37,773[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.6190475], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(29)]
+2023-07-04 19:17:37,773[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:17:37,819[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(30)
+2023-07-04 19:17:37,819[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 1D >
+2023-07-04 19:17:52,262[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:17:52,278[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(31)
+2023-07-04 19:17:52,278[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [8] "Unpacker">
+    <A [1] "0">
+>
+2023-07-04 19:17:57,867[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.6054558], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(31)]
+2023-07-04 19:17:57,868[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:17:57,928[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(32)
+2023-07-04 19:17:57,928[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 1F >
+2023-07-04 19:18:30,462[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:18:30,474[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 19:18:30,477[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 19:18:30,538[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 19:18:30,539[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 19:25:12,037[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 19:25:22,927[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[10.8921556], Header[SSID(1), B2(129), B3(13), P(0), S(0), SB(1)]
+2023-07-04 19:25:22,927[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 19:25:22,928[INFO ]:Queued SECS2 Message : S9F9
+2023-07-04 19:25:22,931[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 19:25:22,932[INFO ]:SENT SECS2 Message : SSID(1), B2(9), B3(9), P(0), S(0), SB(2)
+2023-07-04 19:25:22,932[INFO ]:>>>S9F9>>>  
+<B [10] 00 01 81 0D 00 00 00 00 00 01 >
+2023-07-04 19:25:22,936[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 19:25:22,936[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>

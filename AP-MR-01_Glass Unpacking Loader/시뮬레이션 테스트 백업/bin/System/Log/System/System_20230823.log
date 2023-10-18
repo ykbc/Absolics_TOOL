@@ -1,0 +1,1174 @@
+Time,Name,Type,MsgType,Text
+2023-08-23 00:31:42.600,,System,Normal,CIM has been executed..
+2023-08-23 00:31:43.195,,System,Normal,Start MasterPLC Thread..
+2023-08-23 00:31:43.307,,System,Normal,MasterPLC connected..
+2023-08-23 00:31:43.797,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 00:31:43.818,,Host,Normal,HSMS Connection Selected.
+2023-08-23 00:34:09.509,,System,Normal,CIM has been executed..
+2023-08-23 00:34:09.851,,System,Normal,Start MasterPLC Thread..
+2023-08-23 00:34:09.957,,System,Normal,MasterPLC connected..
+2023-08-23 00:34:19.018,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 00:34:19.040,,Host,Normal,HSMS Connection Selected.
+2023-08-23 00:34:47.234,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 00:34:47.284,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 00:34:56.534,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 00:34:56.550,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 00:35:11.855,,Booth,Normal,Set TowerLamp 1[1]. by host
+2023-08-23 00:35:11.871,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 00:35:14.331,,Booth,Normal,Set TowerLamp 1[1]. by host
+2023-08-23 00:35:14.346,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 00:35:20.450,,Booth,Error,Set TowerLamp fail. Status[1]
+2023-08-23 00:35:20.451,,Booth,Error,Command[SignalTower] Retry over
+2023-08-23 00:35:23.571,,Booth,Error,Set TowerLamp fail. Status[1]
+2023-08-23 00:35:23.572,,Booth,Error,Command[SignalTower] Retry over
+2023-08-23 00:35:25.405,,Booth,Error,Set TowerLamp fail. Status[1]
+2023-08-23 00:35:25.406,,Booth,Error,Command[SignalTower] Retry over
+2023-08-23 00:36:55.501,,Booth,Error,Set TowerLamp fail. Status[1]
+2023-08-23 00:36:55.503,,Booth,Error,Command[SignalTower] Retry over
+2023-08-23 00:37:05.923,,Booth,Normal,Set TowerLamp 3[1]. by host
+2023-08-23 00:37:05.938,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 00:37:11.510,,Booth,Normal,Set TowerLamp 3[1]. by host
+2023-08-23 00:37:11.526,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 00:37:18.748,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 00:37:18.763,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 00:38:20.110,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 00:38:20.125,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 00:38:30.075,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 00:38:30.090,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 00:38:31.873,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 00:38:31.888,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 00:41:50.028,,System,Normal,CIM has been executed..
+2023-08-23 00:41:50.762,,System,Normal,Start MasterPLC Thread..
+2023-08-23 00:41:50.892,,System,Normal,MasterPLC connected..
+2023-08-23 00:41:51.062,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 00:41:51.094,,Host,Normal,HSMS Connection Selected.
+2023-08-23 00:43:46.808,,System,Normal,CIM has been executed..
+2023-08-23 00:43:48.085,,System,Normal,Start MasterPLC Thread..
+2023-08-23 00:43:48.188,,System,Normal,MasterPLC connected..
+2023-08-23 00:43:52.533,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 00:43:52.547,,Host,Normal,HSMS Connection Selected.
+2023-08-23 00:44:02.358,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 00:44:02.373,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 00:44:13.080,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 00:44:13.095,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 00:47:26.964,,System,Normal,CIM has been executed..
+2023-08-23 00:47:27.531,,System,Normal,Start MasterPLC Thread..
+2023-08-23 00:47:27.662,,System,Normal,MasterPLC connected..
+2023-08-23 00:47:32.418,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 00:47:32.430,,Host,Normal,HSMS Connection Selected.
+2023-08-23 00:47:42.559,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 00:47:42.575,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 00:47:47.835,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 00:47:47.850,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 00:48:58.366,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:48:58.386,,Booth,Normal,Set Time. by host
+2023-08-23 00:48:58.401,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:07.297,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:07.454,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:07.469,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:09.733,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:09.930,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:09.945,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:12.024,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:12.221,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:12.237,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:13.476,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:13.598,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:13.613,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:15.968,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:16.074,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:16.089,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:17.570,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:17.630,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:17.645,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:19.248,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:19.370,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:19.385,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:20.779,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:20.920,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:20.935,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:36.169,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:36.214,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:36.229,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:38.008,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:38.143,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:38.159,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:39.757,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:39.878,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:39.893,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:41.300,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:41.440,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:41.455,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:49:42.828,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:49:42.994,,Booth,Normal,Set Time. by host
+2023-08-23 00:49:43.009,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:50:49.766,,System,Normal,CIM has been executed..
+2023-08-23 00:50:50.109,,System,Normal,Start MasterPLC Thread..
+2023-08-23 00:50:50.212,,System,Normal,MasterPLC connected..
+2023-08-23 00:50:55.895,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 00:50:55.906,,Host,Normal,HSMS Connection Selected.
+2023-08-23 00:51:07.701,,Host,Normal,Receive S1F13
+2023-08-23 00:51:07.777,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 00:53:00.001,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:53:00.070,,Booth,Normal,Set Time. by host
+2023-08-23 00:53:00.086,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:53:00.001,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:53:00.044,,Booth,Normal,Set Time. by host
+2023-08-23 00:53:00.059,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:53:00.001,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:53:00.197,,Booth,Normal,Set Time. by host
+2023-08-23 00:53:00.213,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:53:00.001,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:53:00.151,,Booth,Normal,Set Time. by host
+2023-08-23 00:53:00.167,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:53:00.001,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 00:53:00.074,,Booth,Normal,Set Time. by host
+2023-08-23 00:53:00.089,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 00:55:44.711,,System,Normal,CIM has been executed..
+2023-08-23 00:55:45.406,,System,Normal,Start MasterPLC Thread..
+2023-08-23 00:55:45.522,,System,Normal,MasterPLC connected..
+2023-08-23 00:55:45.705,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 00:55:45.727,,Host,Normal,HSMS Connection Selected.
+2023-08-23 03:56:31.209,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-23 03:56:31.408,,System,Normal,CIM has been executed..
+2023-08-23 03:57:46.075,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-23 03:57:46.364,,System,Normal,CIM has been executed..
+2023-08-23 03:57:46.852,,System,Normal,Start MasterPLC Thread..
+2023-08-23 03:57:46.966,,System,Normal,MasterPLC connected..
+2023-08-23 03:59:30.784,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-23 03:59:30.918,,System,Normal,CIM has been executed..
+2023-08-23 04:02:20.409,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-23 04:02:34.951,,System,Normal,CIM has been executed..
+2023-08-23 04:04:49.198,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-23 04:04:49.346,,System,Normal,CIM has been executed..
+2023-08-23 04:06:15.314,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-23 04:10:44.249,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-23 04:10:48.237,,System,Normal,CIM has been executed..
+2023-08-23 04:11:12.001,,System,Normal,Start MasterPLC Thread..
+2023-08-23 04:11:12.105,,System,Normal,MasterPLC connected..
+2023-08-23 04:14:05.699,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-23 04:14:09.938,,System,Normal,CIM has been executed..
+2023-08-23 04:14:10.299,,System,Normal,Start MasterPLC Thread..
+2023-08-23 04:14:10.415,,System,Normal,MasterPLC connected..
+2023-08-23 04:14:57.936,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 04:14:57.952,,Host,Normal,HSMS Connection Selected.
+2023-08-23 04:14:59.628,,Host,Normal,Receive S1F13
+2023-08-23 04:14:59.698,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 04:19:54.297,,System,Normal,CIM has been executed..
+2023-08-23 04:19:55.561,,System,Normal,Start MasterPLC Thread..
+2023-08-23 04:19:55.666,,System,Normal,MasterPLC connected..
+2023-08-23 04:20:04.080,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 04:20:04.090,,Host,Normal,HSMS Connection Selected.
+2023-08-23 04:20:24.479,,Host,Normal,Receive S1F13
+2023-08-23 04:20:24.554,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 04:29:10.421,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-23 04:29:10.820,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:11.014,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:11.209,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:11.406,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:11.598,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:11.797,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:11.999,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:12.196,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:12.386,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:12.569,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:12.752,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:12.949,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:13.131,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:13.314,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:13.510,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:13.707,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:13.904,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:14.097,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:14.286,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:14.479,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:14.676,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:14.873,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:15.060,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:15.258,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:15.452,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:15.651,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:15.842,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:16.026,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:16.224,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:16.423,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:16.619,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:16.805,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:16.999,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:17.193,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:17.375,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:17.571,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:17.753,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:17.946,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:18.129,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:18.327,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:18.525,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:18.719,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:18.917,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:19.118,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:19.317,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:19.517,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:19.713,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:19.911,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:20.106,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:20.300,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:20.497,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:20.695,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:20.889,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:21.086,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:21.285,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:21.485,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:21.679,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:21.875,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:22.058,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:22.246,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:22.438,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:22.640,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:22.837,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:23.030,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:23.221,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:23.418,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:23.608,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:23.805,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:24.002,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:24.187,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:24.378,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:24.561,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:24.757,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:24.954,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:25.137,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:25.334,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:25.533,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:25.730,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:25.928,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:26.126,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:26.324,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:26.517,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:26.704,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:26.901,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:27.102,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:27.299,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:27.494,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:27.687,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:27.871,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:28.056,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:28.253,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:28.434,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:28.629,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:28.826,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:29.026,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:29.220,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:29.422,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:29.616,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:29.810,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:29.992,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:30.182,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:30.374,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:30.578,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:30.773,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:30.971,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:31.169,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:31.366,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:31.564,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:31.760,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:31.953,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:32.148,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:32.346,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:32.544,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:32.742,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:32.939,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:33.128,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:33.314,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:33.511,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:33.705,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:33.891,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:34.082,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:34.264,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:34.449,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:34.650,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:34.850,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:35.043,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:35.231,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:35.430,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:35.622,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:35.808,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:36.002,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:36.183,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:36.375,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:36.566,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:36.767,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:36.964,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:37.163,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:37.353,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:37.551,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:37.734,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:37.929,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:38.132,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:38.323,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:38.508,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:38.708,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:38.900,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:39.082,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:39.284,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:39.479,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:39.683,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:39.880,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:40.080,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:40.276,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:40.469,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:29:40.668,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-23 04:31:30.434,,System,Normal,CIM has been executed..
+2023-08-23 04:31:31.598,,System,Normal,Start MasterPLC Thread..
+2023-08-23 04:31:31.708,,System,Normal,MasterPLC connected..
+2023-08-23 04:31:40.112,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 04:31:40.121,,Host,Normal,HSMS Connection Selected.
+2023-08-23 04:32:47.742,,System,Normal,CIM has been executed..
+2023-08-23 04:32:48.845,,System,Normal,Start MasterPLC Thread..
+2023-08-23 04:32:48.962,,System,Normal,MasterPLC connected..
+2023-08-23 04:32:54.011,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 04:32:54.022,,Host,Normal,HSMS Connection Selected.
+2023-08-23 07:07:13.493,,System,Normal,CIM has been executed..
+2023-08-23 07:07:13.980,,System,Normal,Start MasterPLC Thread..
+2023-08-23 07:07:14.096,,System,Normal,MasterPLC connected..
+2023-08-23 07:07:22.964,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 07:07:22.975,,Host,Normal,HSMS Connection Selected.
+2023-08-23 08:20:59.913,,System,Normal,CIM has been executed..
+2023-08-23 08:21:02.179,,System,Normal,Start MasterPLC Thread..
+2023-08-23 08:21:02.281,,System,Normal,MasterPLC connected..
+2023-08-23 08:21:02.648,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 08:21:02.681,,Host,Normal,HSMS Connection Selected.
+2023-08-23 08:21:08.541,,Host,Normal,Receive S1F13
+2023-08-23 08:21:08.609,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 08:40:21.709,,System,Normal,CIM has been executed..
+2023-08-23 08:40:22.279,,System,Normal,Start MasterPLC Thread..
+2023-08-23 08:40:22.400,,System,Normal,MasterPLC connected..
+2023-08-23 08:40:24.869,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 08:40:24.877,,Host,Normal,HSMS Connection Selected.
+2023-08-23 08:41:02.830,,Host,Normal,Receive S1F13
+2023-08-23 08:41:02.905,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 08:45:14.452,,System,Normal,CIM has been executed..
+2023-08-23 08:45:15.029,,System,Normal,Start MasterPLC Thread..
+2023-08-23 08:45:15.142,,System,Normal,MasterPLC connected..
+2023-08-23 08:45:20.817,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 08:45:20.827,,Host,Normal,HSMS Connection Selected.
+2023-08-23 08:45:44.203,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-23 08:47:55.367,,Booth,Error,Command[WORK_START] Retry over
+2023-08-23 08:49:55.499,,System,Error,크로스 스레드 작업이 잘못되었습니다. 'chbworkStartOK' 컨트롤이 자신이 만들어진 스레드가 아닌 스레드에서 액세스되었습니다.
+2023-08-23 08:49:55.499,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 08:49:55.500,,Host,Normal,HSMS Disconnected.
+2023-08-23 08:49:57.313,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:49:58.211,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:49:59.099,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:00.787,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:00.986,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:01.185,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:01.384,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:01.580,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:01.780,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:01.978,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:02.171,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:02.355,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:02.536,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:02.726,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:02.919,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:03.104,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:03.304,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:03.497,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:03.695,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:03.875,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:04.066,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:04.258,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:04.457,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:04.650,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:04.834,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:05.016,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:05.215,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:20.269,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:50:29.339,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:51:30.004,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 08:51:33.354,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 08:51:33.358,,Host,Normal,HSMS Connection Selected.
+2023-08-23 08:52:02.389,,System,Error,문자열 참조가 문자열의 인스턴스로 설정되지 않았습니다.
+매개 변수 이름: s
+2023-08-23 10:17:35.057,,System,Normal,CIM has been executed..
+2023-08-23 10:17:35.720,,System,Normal,Start MasterPLC Thread..
+2023-08-23 10:17:35.844,,System,Normal,MasterPLC connected..
+2023-08-23 10:17:45.439,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 10:17:45.455,,Host,Normal,HSMS Connection Selected.
+2023-08-23 10:36:11.117,,System,Normal,CIM has been executed..
+2023-08-23 10:36:11.690,,System,Normal,Start MasterPLC Thread..
+2023-08-23 10:36:11.799,,System,Normal,MasterPLC connected..
+2023-08-23 10:36:19.765,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 10:36:19.776,,Host,Normal,HSMS Connection Selected.
+2023-08-23 10:40:59.016,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 10:41:00.242,,Booth,Normal,Set Time. by host
+2023-08-23 10:41:00.260,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 10:41:46.364,,System,Normal,CIM has been executed..
+2023-08-23 10:41:46.857,,System,Normal,Start MasterPLC Thread..
+2023-08-23 10:41:46.984,,System,Normal,MasterPLC connected..
+2023-08-23 10:41:47.766,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 10:41:47.780,,Host,Normal,HSMS Connection Selected.
+2023-08-23 10:44:00.001,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 10:44:01.100,,Booth,Normal,Set Time. by host
+2023-08-23 10:44:01.112,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 10:41:00.001,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-23 10:41:00.387,,Booth,Normal,Set Time. by host
+2023-08-23 10:41:00.405,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-23 10:50:01.212,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 10:50:01.213,,Host,Normal,HSMS Disconnected.
+2023-08-23 10:50:12.519,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 10:50:12.526,,Host,Normal,HSMS Connection Selected.
+2023-08-23 10:50:14.037,,Host,Normal,Receive S1F13
+2023-08-23 10:50:14.110,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 10:52:46.061,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 10:53:41.055,,Host,Normal,HSMS Disconnected.
+2023-08-23 10:59:04.498,,System,Normal,CIM has been executed..
+2023-08-23 10:59:06.630,,System,Normal,Start MasterPLC Thread..
+2023-08-23 10:59:06.738,,System,Normal,MasterPLC connected..
+2023-08-23 10:59:46.028,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 10:59:46.039,,Host,Normal,HSMS Connection Selected.
+2023-08-23 10:59:46.042,,Host,Normal,HSMS Disconnected.
+2023-08-23 11:00:23.856,,Booth,Normal,TerminalMessageConfirmAck off.
+2023-08-23 11:00:29.578,,Booth,Normal,TerminalMessageConfirmAck off.
+2023-08-23 11:00:30.882,,Booth,Normal,TerminalMessageConfirmAck off.
+2023-08-23 11:00:32.275,,Booth,Normal,TerminalMessageConfirmAck off.
+2023-08-23 11:00:33.704,,Booth,Normal,TerminalMessageConfirmAck off.
+2023-08-23 11:00:38.660,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 11:00:38.712,,Host,Normal,HSMS Connection Selected.
+2023-08-23 11:01:04.271,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:01:04.283,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:01:15.080,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:01:15.097,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:01:20.629,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:01:20.646,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:02:08.875,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:02:08.893,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:04:21.008,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:04:21.024,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:07:26.992,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:07:27.007,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:08:43.703,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:08:43.714,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:11:11.719,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:11:11.736,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:11:46.339,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:11:46.356,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:12:03.997,,Booth,Normal,TerminalMessageConfirmAck off.
+2023-08-23 11:12:32.177,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:12:32.192,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:12:52.824,,Booth,Normal,TerminalMessageConfirmAck off.
+2023-08-23 11:13:05.937,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:13:05.951,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:13:47.894,,Booth,Normal,TerminalMessageConfirmAck off.
+2023-08-23 11:15:56.452,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:15:56.463,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:16:09.319,,Booth,Normal,TerminalMessageConfirmAck off.
+2023-08-23 11:16:37.221,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:16:37.238,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:16:48.734,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:16:48.747,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:17:12.744,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:17:12.758,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:18:42.785,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:18:42.799,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:18:49.331,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:18:49.343,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:18:51.951,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:18:51.964,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:18:54.554,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:18:54.566,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:18:57.143,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:18:57.159,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:18:59.809,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:18:59.820,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:19:03.710,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:19:03.725,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:19:06.296,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:19:06.312,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:19:08.881,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:19:08.898,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:22:46.936,,System,Error,Invalid SubHeader!
+2023-08-23 11:22:47.048,,System,Normal,MasterPLC connected..
+2023-08-23 11:22:53.475,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:22:53.488,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:27:18.445,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:27:18.463,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:27:51.487,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:27:51.504,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:28:01.993,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:28:02.010,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:28:43.532,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:28:43.545,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:28:56.515,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:28:56.533,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:29:48.593,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:29:48.608,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:30:25.068,,Booth,Normal,Set TerminalMessage TID[0] Message[123]. by host
+2023-08-23 11:30:25.081,,Booth,Normal,I/F TerminalMessage Bit On. by host
+2023-08-23 11:30:40.017,,Booth,Normal,TerminalMessageConfirmAck off.
+2023-08-23 11:31:03.744,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:31:03.763,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:31:45.996,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:31:46.015,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:32:29.385,,Booth,Normal,Set TowerLamp 2[1]. by host
+2023-08-23 11:32:29.399,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:32:40.896,,Booth,Normal,Set TowerLamp 1[1]. by host
+2023-08-23 11:32:40.916,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:32:51.031,,Booth,Normal,Set TowerLamp 1[2]. by host
+2023-08-23 11:32:51.047,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:33:00.080,,Booth,Normal,Set TowerLamp 1[0]. by host
+2023-08-23 11:33:00.097,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 11:33:07.599,,Booth,Normal,Set TowerLamp 2[0]. by host
+2023-08-23 11:33:07.613,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-23 12:30:49.558,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 12:30:54.469,,System,Error,Invalid SubHeader!
+2023-08-23 12:30:54.469,,Host,Normal,HSMS Disconnected.
+2023-08-23 12:30:54.610,,System,Normal,MasterPLC connected..
+2023-08-23 12:31:07.560,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 12:31:07.565,,Host,Normal,HSMS Connection Selected.
+2023-08-23 12:34:30.087,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 12:34:30.088,,Host,Normal,HSMS Disconnected.
+2023-08-23 12:34:49.281,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 12:34:49.285,,Host,Normal,HSMS Connection Selected.
+2023-08-23 12:35:25.895,,Booth,Normal,Buzzer 1. by host
+2023-08-23 12:35:32.043,,Booth,Normal,Buzzer 0. by host
+2023-08-23 12:39:13.485,,Booth,Normal,Resume. by host
+2023-08-23 12:39:56.770,,Booth,Normal,Pause. by host
+2023-08-23 12:40:06.950,,Booth,Normal,Pause. by host
+2023-08-23 12:40:12.049,,Booth,Normal,Resume. by host
+2023-08-23 12:42:04.076,,Booth,Normal,Pause. by host
+2023-08-23 12:44:54.162,,Booth,Normal,Resume. by host
+2023-08-23 12:45:06.134,,Booth,Normal,Pause. by host
+2023-08-23 12:47:00.184,,Booth,Normal,Resume. by host
+2023-08-23 12:47:07.305,eTrackStep,TM01,Normal,moduleStart
+2023-08-23 12:47:07.539,eTrackStep,BF01,Normal,moduleStart
+2023-08-23 12:47:08.983,,Booth,Normal,Pause. by host
+2023-08-23 12:52:04.414,,System,Normal,CIM has been executed..
+2023-08-23 12:52:04.954,,System,Normal,Start MasterPLC Thread..
+2023-08-23 12:52:05.066,,System,Normal,MasterPLC connected..
+2023-08-23 12:52:05.610,eTrackStep,BF01,Normal,moduleStart
+2023-08-23 12:52:09.812,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 12:52:09.822,,Host,Normal,HSMS Connection Selected.
+2023-08-23 12:52:16.932,,Host,Normal,Receive S1F13
+2023-08-23 12:52:17.009,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 12:52:34.302,,Booth,Normal,Resume. by host
+2023-08-23 12:53:49.904,eTrackStep,TM01,Normal,moduleStart
+2023-08-23 12:54:30.398,,Booth,Normal,Pause. by host
+2023-08-23 13:07:53.814,,Booth,Normal,Resume. by host
+2023-08-23 13:08:19.788,eTrackStep,TM01,Normal,glassIDRead
+2023-08-23 13:08:19.979,eTrackStep,TM01,Normal,containOn
+2023-08-23 13:08:20.173,eTrackStep,TM01,Normal,occupied
+2023-08-23 13:08:47.045,eTrackStep,BF01,Normal,containOn
+2023-08-23 13:08:47.497,eTrackStep,BF01,Normal,occupied
+2023-08-23 13:42:19.385,eTrackStep,USC01,Normal,moduleStart
+2023-08-23 13:42:23.380,eTrackStep,USC01,Normal,containOn
+2023-08-23 13:42:23.596,eTrackStep,USC01,Normal,occupied
+2023-08-23 13:44:49.078,eTrackStep,USC01,Normal,unoccupied
+2023-08-23 13:44:49.256,eTrackStep,USC01,Normal,none
+2023-08-23 13:48:00.904,eTrackStep,USC01,Normal,moduleStart
+2023-08-23 13:48:04.965,eTrackStep,USC01,Normal,containOn
+2023-08-23 13:48:05.200,eTrackStep,USC01,Normal,occupied
+2023-08-23 13:54:24.003,,System,Normal,CIM has been executed..
+2023-08-23 13:54:26.049,,System,Normal,Start MasterPLC Thread..
+2023-08-23 13:54:26.165,,System,Normal,MasterPLC connected..
+2023-08-23 13:54:28.335,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 13:54:28.345,,Host,Normal,HSMS Connection Selected.
+2023-08-23 13:54:43.004,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-23 13:56:40.229,eTrackStep,TM01,Normal,moduleStart
+2023-08-23 13:57:05.610,eTrackStep,TM01,Normal,glassIDRead
+2023-08-23 13:57:05.812,eTrackStep,TM01,Normal,containOn
+2023-08-23 13:57:12.734,eTrackStep,TM01,Normal,occupied
+2023-08-23 13:57:32.787,eTrackStep,BF01,Normal,moduleStart
+2023-08-23 13:57:33.024,eTrackStep,BF01,Normal,containOn
+2023-08-23 13:57:33.251,eTrackStep,BF01,Normal,occupied
+2023-08-23 13:57:46.639,eTrackStep,USC01,Normal,moduleStart
+2023-08-23 13:57:50.970,eTrackStep,USC01,Normal,containOn
+2023-08-23 13:57:51.198,eTrackStep,USC01,Normal,occupied
+2023-08-23 14:02:20.768,,System,Normal,CIM has been executed..
+2023-08-23 14:02:22.792,,System,Normal,Start MasterPLC Thread..
+2023-08-23 14:02:22.910,,System,Normal,MasterPLC connected..
+2023-08-23 14:02:27.067,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 14:02:27.077,,Host,Normal,HSMS Connection Selected.
+2023-08-23 14:05:52.849,,System,Normal,CIM has been executed..
+2023-08-23 14:05:54.995,,System,Normal,Start MasterPLC Thread..
+2023-08-23 14:05:55.112,,System,Normal,MasterPLC connected..
+2023-08-23 14:05:59.715,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 14:05:59.728,,Host,Normal,HSMS Connection Selected.
+2023-08-23 14:09:44.597,,System,Normal,CIM has been executed..
+2023-08-23 14:09:46.690,,System,Normal,Start MasterPLC Thread..
+2023-08-23 14:09:46.810,,System,Normal,MasterPLC connected..
+2023-08-23 14:09:53.846,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 14:09:53.856,,Host,Normal,HSMS Connection Selected.
+2023-08-23 14:14:06.452,,System,Normal,MasterPLC connected..
+2023-08-23 14:44:13.912,,System,Normal,CIM has been executed..
+2023-08-23 14:44:14.333,,System,Normal,Start MasterPLC Thread..
+2023-08-23 14:44:14.450,,System,Normal,MasterPLC connected..
+2023-08-23 14:44:14.479,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 14:44:14.490,,Host,Normal,HSMS Connection Selected.
+2023-08-23 15:40:42.862,,System,Normal,MasterPLC connected..
+2023-08-23 15:41:12.111,,System,Error,MasterPLC Connect fail. [연결된 구성원으로부터 응답이 없어 연결하지 못했거나. 호스트로부터 응답이 없어 연결이 끊어졌습니다 100.100.100.10:8192]
+2023-08-23 15:41:17.234,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:41:22.350,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:41:27.470,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:41:32.587,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:41:37.699,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:41:42.818,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:41:47.940,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:41:53.062,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:41:58.184,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:03.292,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:08.400,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:13.508,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:18.626,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:23.738,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:28.857,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:33.976,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:39.104,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:44.224,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:49.337,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:54.449,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:42:59.564,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:43:04.682,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:43:09.804,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:43:14.927,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:43:20.042,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:43:25.156,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:43:30.270,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:43:35.387,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:43:40.499,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:43:45.607,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:43:50.718,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:43:55.831,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:00.945,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:06.059,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:11.172,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:16.293,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:21.401,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:26.518,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:31.638,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:36.753,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:41.872,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:46.987,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:52.104,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:44:57.213,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:45:02.335,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:45:07.447,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:45:12.557,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:45:17.672,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:45:22.795,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:50:13.146,,System,Normal,CIM has been executed..
+2023-08-23 15:50:13.710,,System,Normal,Start MasterPLC Thread..
+2023-08-23 15:50:13.826,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:50:18.950,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:50:22.847,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 15:50:22.857,,Host,Normal,HSMS Connection Selected.
+2023-08-23 15:50:24.064,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:50:29.183,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:50:34.299,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:50:39.422,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:50:44.537,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:50:49.656,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:50:54.773,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:50:59.895,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:51:05.004,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:51:10.114,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:51:15.232,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:51:20.340,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:51:25.462,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:51:30.587,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:51:35.706,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:51:40.829,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:51:45.948,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:51:51.059,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:51:56.171,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:01.283,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:06.403,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:11.521,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:16.636,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:21.752,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:26.866,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:31.973,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:37.082,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:42.192,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:47.313,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:52.430,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:52:57.547,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:02.658,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:07.765,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:12.884,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:17.993,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:23.108,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:28.229,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:33.337,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:38.460,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:43.584,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:48.705,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:53.828,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:53:58.949,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:54:04.062,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:54:09.171,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:54:14.283,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:54:19.400,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:54:24.509,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:54:29.633,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:54:34.749,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:54:39.870,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:54:48.230,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:55:01.257,,System,Normal,CIM has been executed..
+2023-08-23 15:55:01.867,,System,Normal,Start MasterPLC Thread..
+2023-08-23 15:55:04.156,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:55:07.832,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 15:55:07.843,,Host,Normal,HSMS Connection Selected.
+2023-08-23 15:55:09.271,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:55:14.388,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:55:26.899,,System,Normal,CIM has been executed..
+2023-08-23 15:55:27.844,,System,Normal,Start MasterPLC Thread..
+2023-08-23 15:55:27.950,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:55:33.070,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:55:33.922,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 15:55:33.931,,Host,Normal,HSMS Connection Selected.
+2023-08-23 15:55:38.185,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:55:43.296,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:55:48.418,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:55:53.526,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:55:58.643,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:56:03.753,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:56:08.873,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:56:13.986,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 15:56:19.390,,System,Normal,MasterPLC connected..
+2023-08-23 15:56:27.308,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD155627308]
+2023-08-23 15:56:27.485,TxVirtualGlassId,BF01,Normal,UNKG202308DD155627296
+2023-08-23 15:56:27.488,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 15:56:27.529,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 15:56:27.698,TxVirtualGlassId,BF01,Normal,
+2023-08-23 15:56:27.700,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 15:58:30.378,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD155830378]
+2023-08-23 15:58:30.550,TxVirtualGlassId,BF01,Normal,UNKG202308DD155830359
+2023-08-23 15:58:30.552,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 15:58:30.605,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 15:58:30.768,TxVirtualGlassId,BF01,Normal,
+2023-08-23 15:58:30.771,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 16:01:43.281,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD160143281]
+2023-08-23 16:01:43.465,TxVirtualGlassId,BF01,Normal,UNKG202308DD160143260
+2023-08-23 16:01:43.467,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 16:01:43.524,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 16:01:43.708,TxVirtualGlassId,BF01,Normal,
+2023-08-23 16:01:43.712,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 16:07:27.494,,System,Normal,CIM has been executed..
+2023-08-23 16:07:28.155,,System,Normal,Start MasterPLC Thread..
+2023-08-23 16:07:28.275,,System,Normal,MasterPLC connected..
+2023-08-23 16:07:34.982,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 16:07:34.992,,Host,Normal,HSMS Connection Selected.
+2023-08-23 16:10:50.984,,Host,Normal,Receive S1F13
+2023-08-23 16:10:51.058,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 16:13:51.594,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD161351594]
+2023-08-23 16:13:51.770,TxVirtualGlassId,BF01,Normal,UNKG202308DD161351580
+2023-08-23 16:13:51.774,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 16:13:51.841,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 16:13:52.018,TxVirtualGlassId,BF01,Normal,
+2023-08-23 16:13:52.021,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 16:30:14.011,,System,Normal,CIM has been executed..
+2023-08-23 16:30:14.594,,System,Normal,Start MasterPLC Thread..
+2023-08-23 16:30:14.729,,System,Normal,MasterPLC connected..
+2023-08-23 16:30:19.770,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 16:30:19.778,,Host,Normal,HSMS Connection Selected.
+2023-08-23 16:32:32.428,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD163232428]
+2023-08-23 16:32:32.597,TxVirtualGlassId,BF01,Normal,UNKG202308DD163232415
+2023-08-23 16:32:32.599,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 16:32:32.661,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 16:32:32.828,TxVirtualGlassId,BF01,Normal,
+2023-08-23 16:32:32.832,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 16:40:10.602,,System,Normal,CIM has been executed..
+2023-08-23 16:40:11.309,,System,Normal,Start MasterPLC Thread..
+2023-08-23 16:40:11.460,,System,Normal,MasterPLC connected..
+2023-08-23 16:40:11.621,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 16:40:11.656,,Host,Normal,HSMS Connection Selected.
+2023-08-23 16:40:59.782,,Host,Normal,Receive S1F13
+2023-08-23 16:40:59.858,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 16:42:19.881,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD164219881]
+2023-08-23 16:42:20.056,TxVirtualGlassId,BF01,Normal,UNKG202308DD164219860
+2023-08-23 16:42:20.058,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 16:42:20.122,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 16:42:20.304,TxVirtualGlassId,BF01,Normal,
+2023-08-23 16:42:20.308,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 16:46:27.194,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-23 16:47:06.856,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD164706856]
+2023-08-23 16:47:07.031,TxVirtualGlassId,BF01,Normal,UNKG202308DD164706845
+2023-08-23 16:47:07.032,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 16:47:07.093,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 16:47:07.262,TxVirtualGlassId,BF01,Normal,
+2023-08-23 16:47:07.263,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 16:49:32.642,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD164932642]
+2023-08-23 16:49:32.814,TxVirtualGlassId,BF01,Normal,UNKG202308DD164932628
+2023-08-23 16:49:32.815,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 16:49:32.874,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 16:49:33.047,TxVirtualGlassId,BF01,Normal,
+2023-08-23 16:49:33.049,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 16:52:32.956,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD165232956]
+2023-08-23 16:52:33.126,TxVirtualGlassId,BF01,Normal,UNKG202308DD165232935
+2023-08-23 16:52:33.127,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 16:52:33.183,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 16:52:33.361,TxVirtualGlassId,BF01,Normal,
+2023-08-23 16:52:33.362,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 16:55:20.416,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD165232935]
+2023-08-23 16:55:20.587,TxVirtualGlassId,BF01,Normal,UNKG202308DD165232935
+2023-08-23 16:55:20.589,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 16:55:20.642,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 16:55:20.815,TxVirtualGlassId,BF01,Normal,
+2023-08-23 16:55:20.817,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 16:58:04.893,,System,Normal,CIM has been executed..
+2023-08-23 16:58:07.210,,System,Normal,Start MasterPLC Thread..
+2023-08-23 16:58:07.317,,System,Normal,MasterPLC connected..
+2023-08-23 16:58:10.848,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 16:58:10.857,,Host,Normal,HSMS Connection Selected.
+2023-08-23 16:59:02.598,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD165902598]
+2023-08-23 16:59:02.778,TxVirtualGlassId,BF01,Normal,UNKG202308DD165902587
+2023-08-23 16:59:02.779,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 16:59:02.843,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 16:59:03.018,TxVirtualGlassId,BF01,Normal,
+2023-08-23 16:59:03.019,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 17:08:48.861,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD170848861]
+2023-08-23 17:08:49.033,TxVirtualGlassId,BF01,Normal,UNKG202308DD170848850
+2023-08-23 17:08:49.034,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 17:08:49.089,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 17:08:49.261,TxVirtualGlassId,BF01,Normal,
+2023-08-23 17:08:49.262,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 17:20:12.446,,System,Normal,CIM has been executed..
+2023-08-23 17:20:13.179,,System,Normal,Start MasterPLC Thread..
+2023-08-23 17:20:13.292,,System,Normal,MasterPLC connected..
+2023-08-23 17:20:14.564,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 17:20:14.598,,Host,Normal,HSMS Connection Selected.
+2023-08-23 17:20:19.584,,Host,Normal,Receive S1F13
+2023-08-23 17:20:19.660,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 17:21:35.200,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD172135200]
+2023-08-23 17:21:35.368,TxVirtualGlassId,BF01,Normal,UNKG202308DD172135185
+2023-08-23 17:21:35.369,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 17:21:35.429,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 17:21:35.598,TxVirtualGlassId,BF01,Normal,
+2023-08-23 17:21:35.599,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 17:30:35.839,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD173035839]
+2023-08-23 17:30:36.015,TxVirtualGlassId,BF01,Normal,UNKG202308DD173035828
+2023-08-23 17:30:36.017,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 17:30:36.111,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 17:30:36.279,TxVirtualGlassId,BF01,Normal,
+2023-08-23 17:30:36.281,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 17:36:21.560,,System,Normal,CIM has been executed..
+2023-08-23 17:36:22.177,,System,Normal,Start MasterPLC Thread..
+2023-08-23 17:36:22.300,,System,Normal,MasterPLC connected..
+2023-08-23 17:36:27.038,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 17:36:27.047,,Host,Normal,HSMS Connection Selected.
+2023-08-23 17:36:47.580,,System,Normal,CIM has been executed..
+2023-08-23 17:36:48.196,,System,Normal,Start MasterPLC Thread..
+2023-08-23 17:36:48.326,,System,Normal,MasterPLC connected..
+2023-08-23 17:36:52.446,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 17:36:52.454,,Host,Normal,HSMS Connection Selected.
+2023-08-23 17:37:13.866,,System,Normal,CIM has been executed..
+2023-08-23 17:37:14.598,,System,Normal,Start MasterPLC Thread..
+2023-08-23 17:37:14.718,,System,Normal,MasterPLC connected..
+2023-08-23 17:37:14.898,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 17:37:14.932,,Host,Normal,HSMS Connection Selected.
+2023-08-23 17:37:19.106,,Host,Normal,Receive S1F13
+2023-08-23 17:37:19.180,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 17:38:19.675,RxGlassLocUnocc,TM01,Normal,True
+2023-08-23 17:38:19.879,RxGlassLocUnocc,TM01,Normal,False
+2023-08-23 17:38:19.880,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-23 17:38:20.277,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-23 17:38:23.969,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD173823969]
+2023-08-23 17:38:24.154,TxVirtualGlassId,BF01,Normal,UNKG202308DD173823949
+2023-08-23 17:38:24.155,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 17:38:24.221,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 17:38:24.389,TxVirtualGlassId,BF01,Normal,
+2023-08-23 17:38:24.390,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 17:38:33.921,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 17:38:34.552,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 17:38:34.893,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 17:38:35.264,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 17:41:02.245,,Host,Normal,Receive S1F13
+2023-08-23 17:41:02.311,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 17:42:01.392,RxGlassLocUnocc,TM01,Normal,True
+2023-08-23 17:42:01.600,RxGlassLocUnocc,TM01,Normal,False
+2023-08-23 17:42:01.602,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-23 17:42:01.993,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-23 17:42:05.474,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD174205474]
+2023-08-23 17:42:05.652,TxVirtualGlassId,BF01,Normal,UNKG202308DD174205461
+2023-08-23 17:42:05.654,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 17:42:05.710,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 17:42:05.875,TxVirtualGlassId,BF01,Normal,
+2023-08-23 17:42:05.877,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 17:46:11.956,RxGlassLocUnocc,TM01,Normal,True
+2023-08-23 17:46:12.162,RxGlassLocUnocc,TM01,Normal,False
+2023-08-23 17:46:12.163,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-23 17:46:12.545,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-23 17:46:16.048,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD174616048]
+2023-08-23 17:46:16.221,TxVirtualGlassId,BF01,Normal,UNKG202308DD174616034
+2023-08-23 17:46:16.223,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 17:46:16.283,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 17:46:16.454,TxVirtualGlassId,BF01,Normal,
+2023-08-23 17:46:16.456,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 17:46:25.999,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 17:46:26.594,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 17:46:26.924,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 17:46:27.321,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 17:51:00.471,RxGlassLocUnocc,TM01,Normal,True
+2023-08-23 17:51:00.675,RxGlassLocUnocc,TM01,Normal,False
+2023-08-23 17:51:00.675,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-23 17:51:01.071,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-23 17:51:04.697,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD175104697]
+2023-08-23 17:51:04.869,TxVirtualGlassId,BF01,Normal,UNKG202308DD175104686
+2023-08-23 17:51:04.869,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 17:51:04.917,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 17:51:05.087,TxVirtualGlassId,BF01,Normal,
+2023-08-23 17:51:05.088,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 17:51:14.449,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 17:51:15.055,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 17:51:15.567,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 17:51:15.943,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 17:59:29.633,,System,Normal,CIM has been executed..
+2023-08-23 17:59:30.300,,System,Normal,Start MasterPLC Thread..
+2023-08-23 17:59:30.423,,System,Normal,MasterPLC connected..
+2023-08-23 17:59:34.570,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 17:59:34.581,,Host,Normal,HSMS Connection Selected.
+2023-08-23 17:59:36.186,,Host,Normal,Receive S1F13
+2023-08-23 17:59:36.263,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 18:00:27.323,RxGlassLocUnocc,TM01,Normal,True
+2023-08-23 18:00:27.525,RxGlassLocUnocc,TM01,Normal,False
+2023-08-23 18:00:27.527,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-23 18:00:27.896,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-23 18:00:31.516,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD180031516]
+2023-08-23 18:00:31.683,TxVirtualGlassId,BF01,Normal,UNKG202308DD180031502
+2023-08-23 18:00:31.684,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 18:00:31.729,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 18:00:31.896,TxVirtualGlassId,BF01,Normal,
+2023-08-23 18:00:31.897,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 18:00:41.417,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:00:42.024,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:00:42.359,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:00:42.742,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:10:20.599,,System,Normal,CIM has been executed..
+2023-08-23 18:10:21.236,,System,Normal,Start MasterPLC Thread..
+2023-08-23 18:10:21.376,,System,Normal,MasterPLC connected..
+2023-08-23 18:10:24.418,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 18:10:24.431,,Host,Normal,HSMS Connection Selected.
+2023-08-23 18:10:27.845,,Host,Normal,Receive S1F13
+2023-08-23 18:10:27.921,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 18:10:41.708,,Host,Normal,Receive S1F13
+2023-08-23 18:10:41.783,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-23 18:11:40.791,RxGlassLocUnocc,TM01,Normal,True
+2023-08-23 18:11:40.806,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-23 18:11:40.989,RxGlassLocUnocc,TM01,Normal,False
+2023-08-23 18:11:40.990,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-23 18:11:41.376,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-23 18:11:45.026,TxGlassIDReadAck,BF01,Normal,on[UNKG202308DD181145026]
+2023-08-23 18:11:45.189,TxVirtualGlassId,BF01,Normal,UNKG202308DD181145011
+2023-08-23 18:11:45.190,TxGlassIDReadAck,BF01,Normal,True
+2023-08-23 18:11:45.244,TxGlassIDReadAck,BF01,Normal,off
+2023-08-23 18:11:45.420,TxVirtualGlassId,BF01,Normal,
+2023-08-23 18:11:45.420,TxGlassIDReadAck,BF01,Normal,False
+2023-08-23 18:11:54.887,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:11:54.900,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:11:55.112,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:11:55.320,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:11:55.495,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:11:55.991,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:11:56.365,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:33:20.570,,System,Normal,CIM has been executed..
+2023-08-23 18:33:21.235,,System,Normal,Start MasterPLC Thread..
+2023-08-23 18:33:21.359,,System,Normal,MasterPLC connected..
+2023-08-23 18:33:26.246,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 18:33:26.256,,Host,Normal,HSMS Connection Selected.
+2023-08-23 18:35:19.528,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:35:20.943,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:36:30.871,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:36:30.886,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:36:32.325,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:36:43.594,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:36:45.018,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:42:52.971,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:42:52.987,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:42:54.422,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:45:46.337,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 18:45:53.763,,Host,Normal,HSMS Disconnected.
+2023-08-23 18:55:24.646,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:55:24.846,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:55:35.998,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:55:36.014,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:04.018,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 18:56:04.027,,Host,Normal,HSMS Connection Selected.
+2023-08-23 18:56:04.029,,Host,Normal,HSMS Disconnected.
+2023-08-23 18:56:04.154,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:04.155,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:04.354,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:10.756,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:10.771,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:13.650,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:13.651,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:13.850,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:18.052,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:18.067,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:18.265,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:18.266,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:18.465,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:19.381,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:19.397,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:19.595,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:19.595,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:19.796,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:20.892,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:20.907,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:21.106,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:21.123,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:21.306,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:22.040,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:22.055,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:22.257,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:22.258,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:22.459,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:23.377,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:23.392,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:23.594,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:23.595,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:23.795,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:24.526,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:24.541,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:24.740,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:24.740,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:24.942,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:25.671,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:25.687,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:25.888,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:25.889,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:26.088,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:26.820,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:26.835,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:27.034,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:27.035,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:27.236,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:27.345,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 18:56:27.349,,Host,Normal,HSMS Connection Selected.
+2023-08-23 18:56:34.340,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:34.355,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:34.554,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:34.555,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:34.753,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:35.665,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:35.681,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:35.880,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:35.881,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:36.081,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:36.998,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:37.014,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:37.210,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:37.211,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:37.408,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:39.598,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:39.796,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:40.711,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:40.912,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:42.015,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:42.212,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:43.124,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:43.322,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:44.418,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:44.616,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:50.091,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:50.106,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:50.306,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:50.307,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:50.506,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:52.015,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:52.030,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:52.226,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:52.228,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:52.425,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:53.524,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:53.539,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:53.738,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:53.739,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:53.938,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:56:55.032,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 18:56:55.048,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 18:56:55.247,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 18:56:55.248,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 18:56:55.448,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 18:59:45.661,,System,Normal,CIM has been executed..
+2023-08-23 18:59:46.407,,System,Normal,Start MasterPLC Thread..
+2023-08-23 18:59:46.513,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 18:59:51.631,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 18:59:56.149,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 18:59:56.162,,Host,Normal,HSMS Connection Selected.
+2023-08-23 18:59:56.752,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 19:07:11.185,,System,Normal,CIM has been executed..
+2023-08-23 19:07:12.055,,System,Normal,Start MasterPLC Thread..
+2023-08-23 19:07:12.173,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 19:07:12.387,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 19:07:12.397,,Host,Normal,HSMS Connection Selected.
+2023-08-23 19:07:17.283,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 19:07:22.408,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 19:07:27.517,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 19:07:32.632,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 19:07:37.750,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-23 19:08:47.129,,System,Normal,CIM has been executed..
+2023-08-23 19:08:47.938,,System,Normal,Start MasterPLC Thread..
+2023-08-23 19:08:48.052,,System,Normal,MasterPLC connected..
+2023-08-23 19:08:49.762,,Host,Normal,HSMS Connected NotSelected.
+2023-08-23 19:08:49.779,,Host,Normal,HSMS Connection Selected.
+2023-08-23 19:08:59.390,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 19:08:59.406,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 19:08:59.604,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 19:08:59.605,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 19:08:59.802,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 19:09:18.976,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 19:09:18.990,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 19:09:19.189,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 19:09:19.189,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 19:09:19.389,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 19:09:20.485,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 19:09:20.501,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 19:09:20.699,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 19:09:20.699,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 19:09:20.898,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 19:09:21.808,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 19:09:21.822,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 19:09:22.021,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 19:09:22.022,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 19:09:22.223,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 19:09:23.324,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 19:09:23.339,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 19:09:23.538,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 19:09:23.539,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 19:09:23.739,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-23 19:09:24.469,RxGlassLocUnocc,BF01,Normal,True
+2023-08-23 19:09:24.484,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-23 19:09:24.682,RxGlassLocUnocc,BF01,Normal,False
+2023-08-23 19:09:24.683,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-23 19:09:24.882,TxGlassLocUnoccAck,BF01,Normal,False

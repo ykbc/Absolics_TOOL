@@ -1,0 +1,1397 @@
+2023-08-30 13:00:28,711[INFO ]:HSMS Timeout Occured : Type[3], TimeSec[45.0991466], Header[SSID(0), B2(133), B3(1), P(0), S(0), SB(3)]
+2023-08-30 13:00:28,712[INFO ]:Queued SECS2 Message : S9F9
+2023-08-30 13:00:28,722[INFO ]:SENT SECS2 Message : SSID(0), B2(9), B3(9), P(0), S(0), SB(5)
+2023-08-30 13:00:28,723[INFO ]:>>>S9F9>>>  
+<B [10] 00 00 85 01 00 00 00 00 00 03 >
+2023-08-30 13:05:13,178[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:05:13,208[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(8)
+2023-08-30 13:05:13,208[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `PortReadyToLoad` 1502 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1502 >
+            <L [2] 
+                <U2 [1] `PortID` 1 >
+                <A [0] `UserId` >
+            >
+        >
+    >
+>
+2023-08-30 13:05:13,251[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(8), Length[3]
+2023-08-30 13:05:13,256[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:05:13,375[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:05:13,436[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(9)
+2023-08-30 13:05:13,436[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1051 >
+            <L [2] 
+                <U2 [1] `EqpState` 1 >
+                <U2 [1] `PreviousEqpState` 2 >
+            >
+        >
+    >
+>
+2023-08-30 13:05:13,482[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(9), Length[3]
+2023-08-30 13:05:13,482[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:05:53,980[INFO ]:Queued SECS2 Message : S1F13
+2023-08-30 13:05:54,013[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-08-30 13:05:54,016[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [14] "1.0.8642.23574">
+>
+2023-08-30 13:05:54,122[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[11]
+2023-08-30 13:05:54,122[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [2] 
+        <A [0] >
+        <A [0] >
+    >
+>
+2023-08-30 13:05:54,637[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:05:54,677[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(2)
+2023-08-30 13:05:54,678[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `PortReadyToLoad` 1502 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1502 >
+            <L [2] 
+                <U2 [1] `PortID` 1 >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:05:54,786[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:05:54,798[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(3)
+2023-08-30 13:05:54,798[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1051 >
+            <L [2] 
+                <U2 [1] `EqpState` 1 >
+                <U2 [1] `PreviousEqpState` 2 >
+            >
+        >
+    >
+>
+2023-08-30 13:05:54,860[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-08-30 13:05:54,860[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:05:54,921[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(3), Length[3]
+2023-08-30 13:05:54,921[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:06:09,312[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:06:09,323[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(4)
+2023-08-30 13:06:09,323[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `PortTransferBlocked` 1503 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1503 >
+            <L [2] 
+                <U2 [1] `PortID` 1 >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:06:09,465[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:06:09,490[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(4), Length[3]
+2023-08-30 13:06:09,490[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:06:09,506[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(5)
+2023-08-30 13:06:09,506[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1051 >
+            <L [2] 
+                <U2 [1] `EqpState` 2 >
+                <U2 [1] `PreviousEqpState` 1 >
+            >
+        >
+    >
+>
+2023-08-30 13:06:09,704[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(5), Length[3]
+2023-08-30 13:06:09,704[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:06:09,893[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:06:09,932[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(6)
+2023-08-30 13:06:09,932[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `TrayIDRead` 1411 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1411 >
+            <L [4] 
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [6] `TrayID` "TRAY-1">
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:06:10,144[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(6), Length[3]
+2023-08-30 13:06:10,144[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:06:11,317[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:06:11,327[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(7)
+2023-08-30 13:06:11,327[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `TrayLoadComplete` 1401 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1401 >
+            <L [3] 
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:06:11,494[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(7), Length[3]
+2023-08-30 13:06:11,494[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:31,316[INFO ]:RECV SECS2 Message : SSID(0), B2(131), B3(41), P(0), S(0), SB(56), Length[560]
+2023-08-30 13:08:31,316[DEBUG]:<<<S3F41 W<<<  
+<L [3] 
+    <A [9] "WorkOrder">
+    <A [10] "ToolTest-1">
+    <L [1] 
+        <L [2] 
+            <A [1] "1">
+            <L [1] 
+                <L [6] 
+                    <L [2] 
+                        <A [10] "sorterType">
+                        <A [0] >
+                    >
+                    <L [2] 
+                        <A [8] "inPortId">
+                        <A [1] "1">
+                    >
+                    <L [2] 
+                        <A [8] "inCarrId">
+                        <A [6] "TRAY-1">
+                    >
+                    <L [2] 
+                        <A [9] "outPortId">
+                        <A [1] "1">
+                    >
+                    <L [2] 
+                        <A [9] "outCarrId">
+                        <A [13] "CSTSAP0113657">
+                    >
+                    <L [1] 
+                        <L [2] 
+                            <L [2] 
+                                <A [4] "PPID">
+                                <A [4] "PPID">
+                            >
+                            <L [2] 
+                                <A [9] "SLOT_DATA">
+                                <L [3] 
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [7] "GLASS01">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [7] "LOT_001">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TTT">
+                                        >
+                                    >
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "2">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [7] "GLASS02">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "2">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [7] "LOT_001">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TTT">
+                                        >
+                                    >
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "3">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [7] "GLASS03">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "3">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [7] "LOT_001">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TTT">
+                                        >
+                                    >
+                                >
+                            >
+                        >
+                    >
+                >
+            >
+        >
+    >
+>
+2023-08-30 13:08:31,335[INFO ]:Queued SECS2 Message : S3F42
+2023-08-30 13:08:31,375[INFO ]:SENT SECS2 Message : SSID(0), B2(3), B3(42), P(0), S(0), SB(56)
+2023-08-30 13:08:31,375[INFO ]:>>>S3F42>>>  
+<B [1] 00 >
+2023-08-30 13:08:40,667[INFO ]:RECV SECS2 Message : SSID(0), B2(130), B3(41), P(0), S(0), SB(58), Length[45]
+2023-08-30 13:08:40,667[DEBUG]:<<<S2F41 W<<<  
+<L [2] 
+    <A [10] "WORK_START">
+    <L [1] 
+        <L [2] 
+            <A [7] "WORK_ID">
+            <A [16] "work202306301331">
+        >
+    >
+>
+2023-08-30 13:08:40,673[INFO ]:Queued SECS2 Message : S2F42
+2023-08-30 13:08:40,698[INFO ]:SENT SECS2 Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(58)
+2023-08-30 13:08:40,698[INFO ]:>>>S2F42>>>  
+<L [2] 
+    <B [1] 04 >
+    <L [0] >
+>
+2023-08-30 13:08:41,053[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:41,064[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(9)
+2023-08-30 13:08:41,064[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `WorkStart` 1301 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1301 >
+            <L [4] 
+                <A [4] `ModuleID` "IP01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [16] `WorkID` "work202306301331">
+            >
+        >
+    >
+>
+2023-08-30 13:08:41,264[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(9), Length[3]
+2023-08-30 13:08:41,264[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:41,511[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:41,552[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(10)
+2023-08-30 13:08:41,552[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ProcessStart` 1311 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1311 >
+            <L [4] 
+                <A [4] `ModuleID` "IP01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [16] `WorkID` "work202306301331">
+            >
+        >
+    >
+>
+2023-08-30 13:08:41,704[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(10), Length[3]
+2023-08-30 13:08:41,704[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:41,869[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:41,918[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(11)
+2023-08-30 13:08:41,918[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1101 >
+            <L [7] 
+                <A [4] `ModuleID` "TM01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `LotID` "LOT_001">
+                <U2 [1] `SlotNo` 1 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:42,070[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(11), Length[3]
+2023-08-30 13:08:42,070[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:42,487[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:42,527[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(12)
+2023-08-30 13:08:42,527[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1201 >
+            <L [2] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:08:42,741[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(12), Length[3]
+2023-08-30 13:08:42,741[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:43,118[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:43,119[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:43,136[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(13)
+2023-08-30 13:08:43,136[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:08:43,136[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(14)
+2023-08-30 13:08:43,136[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1101 >
+            <L [7] 
+                <A [4] `ModuleID` "BF01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `LotID` "LOT_001">
+                <U2 [1] `SlotNo` 1 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:43,285[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:43,318[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(15)
+2023-08-30 13:08:43,318[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:08:43,333[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(13), Length[3]
+2023-08-30 13:08:43,333[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:43,334[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(14), Length[3]
+2023-08-30 13:08:43,334[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:43,461[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:43,470[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(15), Length[3]
+2023-08-30 13:08:43,470[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:43,500[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(16)
+2023-08-30 13:08:43,500[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1102 >
+            <L [5] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `LotID` >
+                <U2 [1] `SlotNo` 0 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:43,684[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(16), Length[3]
+2023-08-30 13:08:43,684[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:43,966[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:43,990[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(17)
+2023-08-30 13:08:43,990[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `GlassIDRead` 1601 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1601 >
+            <L [2] 
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `GlassID` "GLASS01">
+            >
+        >
+    >
+>
+2023-08-30 13:08:44,143[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(17), Length[3]
+2023-08-30 13:08:44,143[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:44,181[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:44,189[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:44,233[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(18)
+2023-08-30 13:08:44,234[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1101 >
+            <L [7] 
+                <A [4] `ModuleID` "TM01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `LotID` "LOT_001">
+                <U2 [1] `SlotNo` 2 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:44,235[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(19)
+2023-08-30 13:08:44,235[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1201 >
+            <L [2] 
+                <A [4] `ModuleID` "BF01">
+                <A [7] `GlassID` "GLASS01">
+            >
+        >
+    >
+>
+2023-08-30 13:08:44,370[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(18), Length[3]
+2023-08-30 13:08:44,370[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:44,370[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(19), Length[3]
+2023-08-30 13:08:44,370[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:44,863[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:44,903[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(20)
+2023-08-30 13:08:44,903[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1201 >
+            <L [2] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:08:45,038[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:45,047[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:45,047[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:45,085[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(21)
+2023-08-30 13:08:45,085[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "BF01">
+                <A [7] `GlassID` "GLASS01">
+            >
+        >
+    >
+>
+2023-08-30 13:08:45,086[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(22)
+2023-08-30 13:08:45,086[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `GlassEnd` 1612 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1612 >
+            <L [6] 
+                <A [5] `ModuleID` "USC01">
+                <A [7] `GlassID` "GLASS01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <U2 [1] `SlotNo` 1 >
+                <A [7] `LotID` "LOT_001">
+            >
+        >
+    >
+>
+2023-08-30 13:08:45,086[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(23)
+2023-08-30 13:08:45,086[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [5] `ModuleID` "USC01">
+                <A [7] `GlassID` "GLASS01">
+            >
+        >
+    >
+>
+2023-08-30 13:08:45,116[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(20), Length[3]
+2023-08-30 13:08:45,116[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:45,228[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:45,228[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:45,253[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(21), Length[3]
+2023-08-30 13:08:45,253[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:45,253[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(22), Length[3]
+2023-08-30 13:08:45,253[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:45,268[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(24)
+2023-08-30 13:08:45,268[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "BF01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:08:45,268[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(25)
+2023-08-30 13:08:45,268[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1101 >
+            <L [7] 
+                <A [5] `ModuleID` "USC01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `LotID` "LOT_001">
+                <U2 [1] `SlotNo` 1 >
+                <A [7] `GlassID` "GLASS01">
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:45,329[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(23), Length[3]
+2023-08-30 13:08:45,329[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:45,391[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(24), Length[3]
+2023-08-30 13:08:45,391[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:45,391[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(25), Length[3]
+2023-08-30 13:08:45,391[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:45,413[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:45,452[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(26)
+2023-08-30 13:08:45,452[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1102 >
+            <L [5] 
+                <A [4] `ModuleID` "BF01">
+                <A [7] `LotID` "LOT_001">
+                <U2 [1] `SlotNo` 2 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:45,602[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:45,604[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(26), Length[3]
+2023-08-30 13:08:45,604[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:45,634[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(27)
+2023-08-30 13:08:45,634[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:08:45,785[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:45,791[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:45,792[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:45,816[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(27), Length[3]
+2023-08-30 13:08:45,816[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:45,816[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(28)
+2023-08-30 13:08:45,816[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:08:45,816[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(29)
+2023-08-30 13:08:45,816[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1201 >
+            <L [2] 
+                <A [5] `ModuleID` "USC01">
+                <A [7] `GlassID` "GLASS01">
+            >
+        >
+    >
+>
+2023-08-30 13:08:45,816[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(30)
+2023-08-30 13:08:45,816[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `GlassStart` 1611 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1611 >
+            <L [6] 
+                <A [5] `ModuleID` "USC01">
+                <A [7] `GlassID` "GLASS01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <U2 [1] `SlotNo` 1 >
+                <A [7] `LotID` "LOT_001">
+            >
+        >
+    >
+>
+2023-08-30 13:08:45,959[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:45,967[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(28), Length[3]
+2023-08-30 13:08:45,967[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:45,967[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(29), Length[3]
+2023-08-30 13:08:45,967[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:45,997[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(31)
+2023-08-30 13:08:45,997[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1102 >
+            <L [5] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `LotID` >
+                <U2 [1] `SlotNo` 0 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:46,043[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(30), Length[3]
+2023-08-30 13:08:46,043[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:46,104[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(31), Length[3]
+2023-08-30 13:08:46,104[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:46,135[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:46,180[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(32)
+2023-08-30 13:08:46,180[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1101 >
+            <L [7] 
+                <A [4] `ModuleID` "BF01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `LotID` "LOT_001">
+                <U2 [1] `SlotNo` 2 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:46,392[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(32), Length[3]
+2023-08-30 13:08:46,392[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:46,656[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:46,667[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(33)
+2023-08-30 13:08:46,667[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1101 >
+            <L [7] 
+                <A [4] `ModuleID` "TM01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `LotID` "LOT_001">
+                <U2 [1] `SlotNo` 3 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:46,835[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(33), Length[3]
+2023-08-30 13:08:46,835[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:46,984[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:47,032[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(34)
+2023-08-30 13:08:47,032[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `GlassIDRead` 1601 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1601 >
+            <L [2] 
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `GlassID` "GLASS02">
+            >
+        >
+    >
+>
+2023-08-30 13:08:47,146[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:47,153[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(35)
+2023-08-30 13:08:47,153[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1201 >
+            <L [2] 
+                <A [4] `ModuleID` "BF01">
+                <A [7] `GlassID` "GLASS02">
+            >
+        >
+    >
+>
+2023-08-30 13:08:47,199[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(34), Length[3]
+2023-08-30 13:08:47,199[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:47,261[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(35), Length[3]
+2023-08-30 13:08:47,261[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:47,311[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:47,336[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(36)
+2023-08-30 13:08:47,336[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1201 >
+            <L [2] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:08:47,488[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(36), Length[3]
+2023-08-30 13:08:47,488[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:54,812[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:54,824[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(37)
+2023-08-30 13:08:54,824[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1102 >
+            <L [5] 
+                <A [5] `ModuleID` "USC01">
+                <A [0] `LotID` >
+                <U2 [1] `SlotNo` 0 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:55,008[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(37), Length[3]
+2023-08-30 13:08:55,008[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:55,143[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:55,189[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(38)
+2023-08-30 13:08:55,189[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "BF01">
+                <A [7] `GlassID` "GLASS02">
+            >
+        >
+    >
+>
+2023-08-30 13:08:55,325[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:55,333[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:55,334[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:55,372[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(38), Length[3]
+2023-08-30 13:08:55,372[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:55,372[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(39)
+2023-08-30 13:08:55,372[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "BF01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:08:55,373[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(40)
+2023-08-30 13:08:55,373[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `GlassEnd` 1612 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1612 >
+            <L [6] 
+                <A [5] `ModuleID` "USC01">
+                <A [7] `GlassID` "GLASS02">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <U2 [1] `SlotNo` 2 >
+                <A [7] `LotID` "LOT_001">
+            >
+        >
+    >
+>
+2023-08-30 13:08:55,373[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(41)
+2023-08-30 13:08:55,373[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [5] `ModuleID` "USC01">
+                <A [7] `GlassID` "GLASS02">
+            >
+        >
+    >
+>
+2023-08-30 13:08:55,503[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:55,511[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:55,555[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(42)
+2023-08-30 13:08:55,555[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1102 >
+            <L [5] 
+                <A [4] `ModuleID` "BF01">
+                <A [7] `LotID` "LOT_001">
+                <U2 [1] `SlotNo` 3 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:55,555[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(43)
+2023-08-30 13:08:55,555[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1101 >
+            <L [7] 
+                <A [5] `ModuleID` "USC01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `LotID` "LOT_001">
+                <U2 [1] `SlotNo` 2 >
+                <A [7] `GlassID` "GLASS02">
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:55,571[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(39), Length[3]
+2023-08-30 13:08:55,571[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:55,571[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(40), Length[3]
+2023-08-30 13:08:55,571[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:55,571[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(41), Length[3]
+2023-08-30 13:08:55,571[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:55,693[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:55,709[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(42), Length[3]
+2023-08-30 13:08:55,709[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:55,709[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(43), Length[3]
+2023-08-30 13:08:55,709[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:55,739[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(44)
+2023-08-30 13:08:55,739[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:08:55,892[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:55,908[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(44), Length[3]
+2023-08-30 13:08:55,908[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:55,923[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(45)
+2023-08-30 13:08:55,923[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:08:56,066[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:56,075[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:56,075[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:56,106[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(46)
+2023-08-30 13:08:56,106[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1102 >
+            <L [5] 
+                <A [4] `ModuleID` "TM01">
+                <A [0] `LotID` >
+                <U2 [1] `SlotNo` 0 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:56,107[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(47)
+2023-08-30 13:08:56,107[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1201 >
+            <L [2] 
+                <A [5] `ModuleID` "USC01">
+                <A [7] `GlassID` "GLASS02">
+            >
+        >
+    >
+>
+2023-08-30 13:08:56,107[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(48)
+2023-08-30 13:08:56,107[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `GlassStart` 1611 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1611 >
+            <L [6] 
+                <A [5] `ModuleID` "USC01">
+                <A [7] `GlassID` "GLASS02">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <U2 [1] `SlotNo` 2 >
+                <A [7] `LotID` "LOT_001">
+            >
+        >
+    >
+>
+2023-08-30 13:08:56,122[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(45), Length[3]
+2023-08-30 13:08:56,122[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:56,255[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:56,259[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(46), Length[3]
+2023-08-30 13:08:56,259[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:56,260[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(47), Length[3]
+2023-08-30 13:08:56,260[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:56,290[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(49)
+2023-08-30 13:08:56,290[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1101 >
+            <L [7] 
+                <A [4] `ModuleID` "BF01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `LotID` "LOT_001">
+                <U2 [1] `SlotNo` 3 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:08:56,336[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(48), Length[3]
+2023-08-30 13:08:56,336[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:56,472[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(49), Length[3]
+2023-08-30 13:08:56,472[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:57,042[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:57,085[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(50)
+2023-08-30 13:08:57,085[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `GlassIDRead` 1601 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1601 >
+            <L [2] 
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `GlassID` "GLASS03">
+            >
+        >
+    >
+>
+2023-08-30 13:08:57,198[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:08:57,207[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(51)
+2023-08-30 13:08:57,207[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1201 >
+            <L [2] 
+                <A [4] `ModuleID` "BF01">
+                <A [7] `GlassID` "GLASS03">
+            >
+        >
+    >
+>
+2023-08-30 13:08:57,237[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(50), Length[3]
+2023-08-30 13:08:57,237[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:08:57,314[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(51), Length[3]
+2023-08-30 13:08:57,314[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:09:25,065[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:09:25,106[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(52)
+2023-08-30 13:09:25,106[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1102 >
+            <L [5] 
+                <A [5] `ModuleID` "USC01">
+                <A [0] `LotID` >
+                <U2 [1] `SlotNo` 0 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:09:25,290[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(52), Length[3]
+2023-08-30 13:09:25,290[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:09:25,395[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:09:25,411[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(53)
+2023-08-30 13:09:25,411[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "BF01">
+                <A [7] `GlassID` "GLASS03">
+            >
+        >
+    >
+>
+2023-08-30 13:09:25,561[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:09:25,578[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(53), Length[3]
+2023-08-30 13:09:25,578[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:09:25,594[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(54)
+2023-08-30 13:09:25,594[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1202 >
+            <L [2] 
+                <A [4] `ModuleID` "BF01">
+                <A [0] `GlassID` >
+            >
+        >
+    >
+>
+2023-08-30 13:09:25,723[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:09:25,731[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:09:25,777[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(55)
+2023-08-30 13:09:25,777[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ProcessEnd` 1312 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1312 >
+            <L [4] 
+                <A [4] `ModuleID` "IP01">
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [16] `WorkID` "work202306301331">
+            >
+        >
+    >
+>
+2023-08-30 13:09:25,777[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(56)
+2023-08-30 13:09:25,777[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1102 >
+            <L [5] 
+                <A [4] `ModuleID` "BF01">
+                <A [0] `LotID` >
+                <U2 [1] `SlotNo` 0 >
+                <A [0] `GlassID` >
+                <A [6] `UserId` "TEST-1">
+            >
+        >
+    >
+>
+2023-08-30 13:09:25,792[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(54), Length[3]
+2023-08-30 13:09:25,792[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:09:25,929[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(55), Length[3]
+2023-08-30 13:09:25,929[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:09:25,929[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(56), Length[3]
+2023-08-30 13:09:25,929[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:10:00,568[INFO ]:Queued SECS2 Message : S5F1
+2023-08-30 13:10:00,571[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:10:00,590[INFO ]:SENT SECS2 Message : SSID(0), B2(133), B3(1), P(0), S(0), SB(58)
+2023-08-30 13:10:00,590[INFO ]:>>>S5F1 W>>>  
+<L [3] 
+    <B [1] 82 >
+    <U4 [1] 801 >
+    <A [30] "USC     Auto    PIN UP  Detect">
+>
+2023-08-30 13:10:00,590[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(59)
+2023-08-30 13:10:00,590[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `AlarmDetected` 1031 >
+    <L [0] >
+>
+2023-08-30 13:10:00,772[INFO ]:RECV SECS2 Message : SSID(0), B2(5), B3(2), P(0), S(0), SB(58), Length[3]
+2023-08-30 13:10:00,772[DEBUG]:<<<S5F2<<<  
+<B [1] 00 >
+2023-08-30 13:10:00,776[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(59), Length[3]
+2023-08-30 13:10:00,776[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:10:12,877[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:10:12,926[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(60)
+2023-08-30 13:10:12,926[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `GlassScrapComplete` 1602 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1602 >
+            <L [2] 
+                <A [6] `TrayID` "TRAY-1">
+                <A [7] `GlassID` "GLASS03">
+            >
+        >
+    >
+>
+2023-08-30 13:10:13,125[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(60), Length[3]
+2023-08-30 13:10:13,125[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-30 13:10:13,176[INFO ]:Queued SECS2 Message : S5F1
+2023-08-30 13:10:13,177[INFO ]:Queued SECS2 Message : S6F11
+2023-08-30 13:10:13,232[INFO ]:SENT SECS2 Message : SSID(0), B2(133), B3(1), P(0), S(0), SB(61)
+2023-08-30 13:10:13,232[INFO ]:>>>S5F1 W>>>  
+<L [3] 
+    <B [1] 02 >
+    <U4 [1] 801 >
+    <A [30] "USC     Auto    PIN UP  Detect">
+>
+2023-08-30 13:10:13,232[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(62)
+2023-08-30 13:10:13,232[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `AlarmCleared` 1032 >
+    <L [0] >
+>
+2023-08-30 13:10:13,416[INFO ]:RECV SECS2 Message : SSID(0), B2(5), B3(2), P(0), S(0), SB(61), Length[3]
+2023-08-30 13:10:13,416[DEBUG]:<<<S5F2<<<  
+<B [1] 00 >
+2023-08-30 13:10:13,417[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(62), Length[3]
+2023-08-30 13:10:13,417[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >

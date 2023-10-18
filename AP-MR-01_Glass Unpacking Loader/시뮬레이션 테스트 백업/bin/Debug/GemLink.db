@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ReportLink">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ReportID" type="xs:unsignedInt" minOccurs="0" />
+                <xs:element name="VID" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="EventLink">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="EventID" type="xs:unsignedInt" minOccurs="0" />
+                <xs:element name="ReportID" type="xs:string" minOccurs="0" />
+                <xs:element name="Enabled" type="xs:boolean" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="ECID">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ECID" type="xs:unsignedInt" minOccurs="0" />
+                <xs:element name="Value" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <NewDataSet>
+      <ReportLink diffgr:id="ReportLink71" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+        <ReportID>1001</ReportID>
+        <VID>201,202</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink72" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+        <ReportID>1002</ReportID>
+        <VID>201,202</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink73" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+        <ReportID>1003</ReportID>
+        <VID>201,202</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink74" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+        <ReportID>1051</ReportID>
+        <VID>203,204</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink75" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+        <ReportID>1061</ReportID>
+        <VID>205,206</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink76" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+        <ReportID>1101</ReportID>
+        <VID>310,312,313,323,314,311,205</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink77" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+        <ReportID>1102</ReportID>
+        <VID>310,323,314,311,205</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink78" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+        <ReportID>1201</ReportID>
+        <VID>310,311</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink79" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+        <ReportID>1202</ReportID>
+        <VID>310,311</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink80" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+        <ReportID>1301</ReportID>
+        <VID>310,312,313,321</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink81" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+        <ReportID>1401</ReportID>
+        <VID>312,313,205</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink82" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+        <ReportID>1402</ReportID>
+        <VID>312,313,205</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink83" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+        <ReportID>1403</ReportID>
+        <VID>312,313,205</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink84" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+        <ReportID>1411</ReportID>
+        <VID>312,313,313,205</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink85" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+        <ReportID>1501</ReportID>
+        <VID>312,205</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink86" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+        <ReportID>1502</ReportID>
+        <VID>312,205</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink87" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+        <ReportID>1503</ReportID>
+        <VID>312,205</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink88" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+        <ReportID>1504</ReportID>
+        <VID>312,205</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink89" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+        <ReportID>1511</ReportID>
+        <VID>312,313,323,205</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink90" msdata:rowOrder="19" diffgr:hasChanges="inserted">
+        <ReportID>1611</ReportID>
+        <VID>310,311,312,313,314,323</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink91" msdata:rowOrder="20" diffgr:hasChanges="inserted">
+        <ReportID>1612</ReportID>
+        <VID>310,311,312,313,314,323</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink92" msdata:rowOrder="21" diffgr:hasChanges="inserted">
+        <ReportID>1601</ReportID>
+        <VID>313,311</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink93" msdata:rowOrder="22" diffgr:hasChanges="inserted">
+        <ReportID>1602</ReportID>
+        <VID>313,311</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink94" msdata:rowOrder="23" diffgr:hasChanges="inserted">
+        <ReportID>1312</ReportID>
+        <VID>310,312,313,321</VID>
+      </ReportLink>
+      <ReportLink diffgr:id="ReportLink95" msdata:rowOrder="24" diffgr:hasChanges="inserted">
+        <ReportID>1311</ReportID>
+        <VID>310,312,313,321</VID>
+      </ReportLink>
+      <EventLink diffgr:id="EventLink465" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+        <EventID>1001</EventID>
+        <ReportID>1001,1001</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink466" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+        <EventID>1002</EventID>
+        <ReportID>1002</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink467" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+        <EventID>1003</EventID>
+        <ReportID>1003</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink468" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+        <EventID>1015</EventID>
+        <ReportID />
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink469" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+        <EventID>1031</EventID>
+        <ReportID />
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink470" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+        <EventID>1032</EventID>
+        <ReportID />
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink471" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+        <EventID>1051</EventID>
+        <ReportID>1051</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink472" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+        <EventID>1061</EventID>
+        <ReportID>1061</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink473" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+        <EventID>1101</EventID>
+        <ReportID>1101</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink474" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+        <EventID>1102</EventID>
+        <ReportID>1102</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink475" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+        <EventID>1201</EventID>
+        <ReportID>1201</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink476" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+        <EventID>1202</EventID>
+        <ReportID>1202</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink477" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+        <EventID>1301</EventID>
+        <ReportID>1301</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink478" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+        <EventID>1311</EventID>
+        <ReportID>1311</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink479" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+        <EventID>1312</EventID>
+        <ReportID>1312</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink480" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+        <EventID>1401</EventID>
+        <ReportID>1401</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink481" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+        <EventID>1402</EventID>
+        <ReportID>1402</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink482" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+        <EventID>1403</EventID>
+        <ReportID>1403</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink483" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+        <EventID>1411</EventID>
+        <ReportID>1411</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink484" msdata:rowOrder="19" diffgr:hasChanges="inserted">
+        <EventID>1412</EventID>
+        <ReportID />
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink485" msdata:rowOrder="20" diffgr:hasChanges="inserted">
+        <EventID>1501</EventID>
+        <ReportID>1501</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink486" msdata:rowOrder="21" diffgr:hasChanges="inserted">
+        <EventID>1502</EventID>
+        <ReportID>1502</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink487" msdata:rowOrder="22" diffgr:hasChanges="inserted">
+        <EventID>1503</EventID>
+        <ReportID>1503</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink488" msdata:rowOrder="23" diffgr:hasChanges="inserted">
+        <EventID>1504</EventID>
+        <ReportID>1504</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink489" msdata:rowOrder="24" diffgr:hasChanges="inserted">
+        <EventID>1511</EventID>
+        <ReportID>1511</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink490" msdata:rowOrder="25" diffgr:hasChanges="inserted">
+        <EventID>1601</EventID>
+        <ReportID>1601</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink491" msdata:rowOrder="26" diffgr:hasChanges="inserted">
+        <EventID>1602</EventID>
+        <ReportID>1602</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink492" msdata:rowOrder="27" diffgr:hasChanges="inserted">
+        <EventID>1611</EventID>
+        <ReportID>1611</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <EventLink diffgr:id="EventLink493" msdata:rowOrder="28" diffgr:hasChanges="inserted">
+        <EventID>1612</EventID>
+        <ReportID>1612</ReportID>
+        <Enabled>true</Enabled>
+      </EventLink>
+      <ECID diffgr:id="ECID1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+        <ECID>102</ECID>
+        <Value>0</Value>
+      </ECID>
+      <ECID diffgr:id="ECID2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+        <ECID>103</ECID>
+        <Value>120</Value>
+      </ECID>
+      <ECID diffgr:id="ECID3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+        <ECID>104</ECID>
+        <Value>10</Value>
+      </ECID>
+      <ECID diffgr:id="ECID4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+        <ECID>105</ECID>
+        <Value>1</Value>
+      </ECID>
+      <ECID diffgr:id="ECID5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+        <ECID>106</ECID>
+        <Value>45</Value>
+      </ECID>
+      <ECID diffgr:id="ECID6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+        <ECID>107</ECID>
+        <Value>10</Value>
+      </ECID>
+      <ECID diffgr:id="ECID7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+        <ECID>108</ECID>
+        <Value>5</Value>
+      </ECID>
+      <ECID diffgr:id="ECID8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+        <ECID>109</ECID>
+        <Value>10</Value>
+      </ECID>
+      <ECID diffgr:id="ECID9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+        <ECID>110</ECID>
+        <Value>5</Value>
+      </ECID>
+      <ECID diffgr:id="ECID10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+        <ECID>111</ECID>
+        <Value>True</Value>
+      </ECID>
+    </NewDataSet>
+  </diffgr:diffgram>
+</DataSet>

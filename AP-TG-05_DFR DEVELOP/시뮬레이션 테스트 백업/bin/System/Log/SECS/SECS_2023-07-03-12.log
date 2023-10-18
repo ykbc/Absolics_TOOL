@@ -1,0 +1,89 @@
+2023-07-03 12:44:33,855[INFO ]:Queued SECS2 Message : S1F13
+2023-07-03 12:44:33,904[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-03 12:44:33,906[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-03 12:44:33,914[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-03 12:44:33,915[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-03 12:45:46,845[INFO ]:Queued SECS2 Message : S1F13
+2023-07-03 12:45:46,872[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-03 12:45:46,874[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-03 12:45:46,918[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-03 12:45:46,918[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-03 12:46:37,811[INFO ]:Queued SECS2 Message : S1F13
+2023-07-03 12:46:37,853[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-03 12:46:37,855[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-03 12:46:37,867[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-03 12:46:37,868[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-03 12:47:19,505[INFO ]:Queued SECS2 Message : S1F13
+2023-07-03 12:47:19,532[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-03 12:47:19,535[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-03 12:47:19,580[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-03 12:47:19,580[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-03 12:48:29,328[INFO ]:Queued SECS2 Message : S1F13
+2023-07-03 12:48:29,352[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-03 12:48:29,355[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-03 12:48:29,400[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-03 12:48:29,401[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-03 12:51:23,411[INFO ]:Queued SECS2 Message : S1F13
+2023-07-03 12:51:23,453[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-03 12:51:23,455[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-03 12:51:23,501[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-03 12:51:23,501[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-03 12:57:44,983[INFO ]:Queued SECS2 Message : S6F11
+2023-07-03 12:57:45,013[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(5)
+2023-07-03 12:57:45,013[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-03 12:57:45,074[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(5), Length[3]
+2023-07-03 12:57:45,074[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >

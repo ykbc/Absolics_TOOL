@@ -1,0 +1,590 @@
+2023-08-23 04:14:58,029[INFO ]:Queued SECS2 Message : S1F13
+2023-08-23 04:14:58,062[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-08-23 04:14:58,065[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [13] "1.0.8635.7622">
+>
+2023-08-23 04:14:58,107[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-23 04:14:58,107[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-08-23 04:14:59,627[INFO ]:RECV SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(8,764), Length[2]
+2023-08-23 04:14:59,627[DEBUG]:<<<S1F13 W<<<  
+<L [0] >
+2023-08-23 04:14:59,629[INFO ]:Queued SECS2 Message : S1F14
+2023-08-23 04:14:59,638[INFO ]:SENT SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(8,764)
+2023-08-23 04:14:59,639[INFO ]:>>>S1F14>>>  
+<L [2] 
+    <B [1] 00 >
+    <L [2] 
+        <A [3] "UPK">
+        <A [13] "1.0.8635.7622">
+    >
+>
+2023-08-23 04:14:59,698[INFO ]:RECV SECS2 Message : SSID(0), B2(129), B3(17), P(0), S(0), SB(8,766), Length[0]
+2023-08-23 04:14:59,698[DEBUG]:<<<S1F17 W<<<  
+
+2023-08-23 04:14:59,699[INFO ]:Queued SECS2 Message : S1F18
+2023-08-23 04:14:59,759[INFO ]:SENT SECS2 Message : SSID(0), B2(1), B3(18), P(0), S(0), SB(8,766)
+2023-08-23 04:14:59,759[INFO ]:>>>S1F18>>>  
+<B [1] 02 >
+2023-08-23 04:15:05,468[INFO ]:RECV SECS2 Message : SSID(0), B2(131), B3(41), P(0), S(0), SB(8,768), Length[434]
+2023-08-23 04:15:05,468[DEBUG]:<<<S3F41 W<<<  
+<L [3] 
+    <A [9] "WorkOrder">
+    <A [8] "AP-MR-01">
+    <L [1] 
+        <L [2] 
+            <A [1] "0">
+            <L [1] 
+                <L [6] 
+                    <L [2] 
+                        <A [10] "sorterType">
+                        <A [0] >
+                    >
+                    <L [2] 
+                        <A [8] "inPortId">
+                        <A [1] "1">
+                    >
+                    <L [2] 
+                        <A [8] "inCarrId">
+                        <A [6] "TRAY-1">
+                    >
+                    <L [2] 
+                        <A [9] "outPortId">
+                        <A [1] "2">
+                    >
+                    <L [2] 
+                        <A [9] "outCarrId">
+                        <A [1] "0">
+                    >
+                    <L [1] 
+                        <L [2] 
+                            <L [2] 
+                                <A [4] "PPID">
+                                <A [6] "RCP001">
+                            >
+                            <L [2] 
+                                <A [9] "SLOT_DATA">
+                                <L [2] 
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [10] "GlassID-01">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "6">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [13] "LOT_230217005">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TBT">
+                                        >
+                                    >
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "2">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [10] "GlassID-02">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "7">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [13] "LOT_230217005">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TBT">
+                                        >
+                                    >
+                                >
+                            >
+                        >
+                    >
+                >
+            >
+        >
+    >
+>
+2023-08-23 04:15:05,710[INFO ]:Queued SECS2 Message : S3F42
+2023-08-23 04:15:05,728[INFO ]:SENT SECS2 Message : SSID(0), B2(3), B3(42), P(0), S(0), SB(8,768)
+2023-08-23 04:15:05,728[INFO ]:>>>S3F42>>>  
+<B [1] 02 >
+2023-08-23 04:20:04,096[INFO ]:Queued SECS2 Message : S1F13
+2023-08-23 04:20:04,144[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-08-23 04:20:04,147[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [13] "1.0.8635.7622">
+>
+2023-08-23 04:20:04,167[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-23 04:20:04,167[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-08-23 04:20:24,478[INFO ]:RECV SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(8,790), Length[2]
+2023-08-23 04:20:24,478[DEBUG]:<<<S1F13 W<<<  
+<L [0] >
+2023-08-23 04:20:24,480[INFO ]:Queued SECS2 Message : S1F14
+2023-08-23 04:20:24,494[INFO ]:SENT SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(8,790)
+2023-08-23 04:20:24,494[INFO ]:>>>S1F14>>>  
+<L [2] 
+    <B [1] 00 >
+    <L [2] 
+        <A [3] "UPK">
+        <A [13] "1.0.8635.7622">
+    >
+>
+2023-08-23 04:20:24,554[INFO ]:RECV SECS2 Message : SSID(0), B2(129), B3(17), P(0), S(0), SB(8,792), Length[0]
+2023-08-23 04:20:24,554[DEBUG]:<<<S1F17 W<<<  
+
+2023-08-23 04:20:24,554[INFO ]:Queued SECS2 Message : S1F18
+2023-08-23 04:20:24,614[INFO ]:SENT SECS2 Message : SSID(0), B2(1), B3(18), P(0), S(0), SB(8,792)
+2023-08-23 04:20:24,615[INFO ]:>>>S1F18>>>  
+<B [1] 02 >
+2023-08-23 04:20:27,365[INFO ]:RECV SECS2 Message : SSID(0), B2(131), B3(41), P(0), S(0), SB(8,794), Length[434]
+2023-08-23 04:20:27,365[DEBUG]:<<<S3F41 W<<<  
+<L [3] 
+    <A [9] "WorkOrder">
+    <A [8] "AP-MR-01">
+    <L [1] 
+        <L [2] 
+            <A [1] "0">
+            <L [1] 
+                <L [6] 
+                    <L [2] 
+                        <A [10] "sorterType">
+                        <A [0] >
+                    >
+                    <L [2] 
+                        <A [8] "inPortId">
+                        <A [1] "1">
+                    >
+                    <L [2] 
+                        <A [8] "inCarrId">
+                        <A [6] "TRAY-1">
+                    >
+                    <L [2] 
+                        <A [9] "outPortId">
+                        <A [1] "2">
+                    >
+                    <L [2] 
+                        <A [9] "outCarrId">
+                        <A [1] "0">
+                    >
+                    <L [1] 
+                        <L [2] 
+                            <L [2] 
+                                <A [4] "PPID">
+                                <A [6] "RCP001">
+                            >
+                            <L [2] 
+                                <A [9] "SLOT_DATA">
+                                <L [2] 
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [10] "GlassID-01">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "6">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [13] "LOT_230217005">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TBT">
+                                        >
+                                    >
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "2">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [10] "GlassID-02">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "7">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [13] "LOT_230217005">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TBT">
+                                        >
+                                    >
+                                >
+                            >
+                        >
+                    >
+                >
+            >
+        >
+    >
+>
+2023-08-23 04:20:27,400[INFO ]:Queued SECS2 Message : S3F42
+2023-08-23 04:20:27,448[INFO ]:SENT SECS2 Message : SSID(0), B2(3), B3(42), P(0), S(0), SB(8,794)
+2023-08-23 04:20:27,448[INFO ]:>>>S3F42>>>  
+<B [1] 02 >
+2023-08-23 04:21:15,648[INFO ]:RECV SECS2 Message : SSID(0), B2(131), B3(41), P(0), S(0), SB(8,800), Length[434]
+2023-08-23 04:21:15,648[DEBUG]:<<<S3F41 W<<<  
+<L [3] 
+    <A [9] "WorkOrder">
+    <A [8] "AP-MR-01">
+    <L [1] 
+        <L [2] 
+            <A [1] "0">
+            <L [1] 
+                <L [6] 
+                    <L [2] 
+                        <A [10] "sorterType">
+                        <A [0] >
+                    >
+                    <L [2] 
+                        <A [8] "inPortId">
+                        <A [1] "1">
+                    >
+                    <L [2] 
+                        <A [8] "inCarrId">
+                        <A [6] "TRAY-1">
+                    >
+                    <L [2] 
+                        <A [9] "outPortId">
+                        <A [1] "2">
+                    >
+                    <L [2] 
+                        <A [9] "outCarrId">
+                        <A [1] "0">
+                    >
+                    <L [1] 
+                        <L [2] 
+                            <L [2] 
+                                <A [4] "PPID">
+                                <A [6] "RCP001">
+                            >
+                            <L [2] 
+                                <A [9] "SLOT_DATA">
+                                <L [2] 
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [10] "GlassID-01">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "6">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [13] "LOT_230217005">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TBT">
+                                        >
+                                    >
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "2">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [10] "GlassID-02">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "7">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [13] "LOT_230217005">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TBT">
+                                        >
+                                    >
+                                >
+                            >
+                        >
+                    >
+                >
+            >
+        >
+    >
+>
+2023-08-23 04:21:33,956[INFO ]:Queued SECS2 Message : S3F42
+2023-08-23 04:21:38,045[INFO ]:SENT SECS2 Message : SSID(0), B2(3), B3(42), P(0), S(0), SB(8,800)
+2023-08-23 04:21:38,045[INFO ]:>>>S3F42>>>  
+<B [1] 02 >
+2023-08-23 04:28:16,560[INFO ]:Queued SECS2 Message : S6F11
+2023-08-23 04:28:16,563[INFO ]:Queued SECS2 Message : S6F11
+2023-08-23 04:28:16,604[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(5)
+2023-08-23 04:28:16,604[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `PortTransferBlocked` 1503 >
+    <L [0] >
+>
+2023-08-23 04:28:16,605[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(6)
+2023-08-23 04:28:16,605[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `TrayLoadComplete` 1401 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1401 >
+            <L [3] 
+                <U2 [1] `PortID` 1 >
+                <A [6] `TrayID` "TRAY-1">
+                <A [0] `UserId` >
+            >
+        >
+    >
+>
+2023-08-23 04:28:16,680[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(5), Length[3]
+2023-08-23 04:28:16,680[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-23 04:28:16,681[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(6), Length[3]
+2023-08-23 04:28:16,681[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-23 04:28:16,772[INFO ]:Queued SECS2 Message : S6F11
+2023-08-23 04:28:16,786[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(7)
+2023-08-23 04:28:16,786[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1051 >
+            <L [2] 
+                <U2 [1] `EqpState` 2 >
+                <U2 [1] `PreviousEqpState` 1 >
+            >
+        >
+    >
+>
+2023-08-23 04:28:16,832[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(7), Length[3]
+2023-08-23 04:28:16,832[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-23 04:28:59,781[INFO ]:RECV SECS2 Message : SSID(0), B2(131), B3(41), P(0), S(0), SB(8,860), Length[434]
+2023-08-23 04:28:59,781[DEBUG]:<<<S3F41 W<<<  
+<L [3] 
+    <A [9] "WorkOrder">
+    <A [8] "AP-MR-01">
+    <L [1] 
+        <L [2] 
+            <A [1] "0">
+            <L [1] 
+                <L [6] 
+                    <L [2] 
+                        <A [10] "sorterType">
+                        <A [0] >
+                    >
+                    <L [2] 
+                        <A [8] "inPortId">
+                        <A [1] "1">
+                    >
+                    <L [2] 
+                        <A [8] "inCarrId">
+                        <A [6] "TRAY-1">
+                    >
+                    <L [2] 
+                        <A [9] "outPortId">
+                        <A [1] "2">
+                    >
+                    <L [2] 
+                        <A [9] "outCarrId">
+                        <A [1] "0">
+                    >
+                    <L [1] 
+                        <L [2] 
+                            <L [2] 
+                                <A [4] "PPID">
+                                <A [6] "RCP001">
+                            >
+                            <L [2] 
+                                <A [9] "SLOT_DATA">
+                                <L [2] 
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [10] "GlassID-01">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "6">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [13] "LOT_230217005">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TBT">
+                                        >
+                                    >
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "2">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [10] "GlassID-02">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "7">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [13] "LOT_230217005">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TBT">
+                                        >
+                                    >
+                                >
+                            >
+                        >
+                    >
+                >
+            >
+        >
+    >
+>
+2023-08-23 04:29:10,420[INFO ]:Queued SECS2 Message : S3F42
+2023-08-23 04:29:10,423[INFO ]:SENT SECS2 Message : SSID(0), B2(3), B3(42), P(0), S(0), SB(8,860)
+2023-08-23 04:29:10,423[INFO ]:>>>S3F42>>>  
+<B [1] 00 >
+2023-08-23 04:31:40,128[INFO ]:Queued SECS2 Message : S1F13
+2023-08-23 04:31:40,176[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-08-23 04:31:40,177[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [13] "1.0.8635.8144">
+>
+2023-08-23 04:31:40,269[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-23 04:31:40,270[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-08-23 04:32:54,059[INFO ]:Queued SECS2 Message : S1F13
+2023-08-23 04:32:54,075[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-08-23 04:32:54,077[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [13] "1.0.8635.8183">
+>
+2023-08-23 04:32:54,107[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-23 04:32:54,107[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>

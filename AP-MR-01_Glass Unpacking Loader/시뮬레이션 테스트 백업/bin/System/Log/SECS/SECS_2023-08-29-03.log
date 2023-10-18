@@ -1,0 +1,107 @@
+2023-08-29 03:08:43,719[INFO ]:Queued SECS2 Message : S1F13
+2023-08-29 03:08:43,745[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-08-29 03:08:43,748[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [13] "1.0.8641.5624">
+>
+2023-08-29 03:08:43,807[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-29 03:08:43,808[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-08-29 03:13:45,860[INFO ]:Queued SECS2 Message : S1F13
+2023-08-29 03:13:45,890[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-08-29 03:13:45,891[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [13] "1.0.8641.5807">
+>
+2023-08-29 03:13:45,984[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-29 03:13:45,984[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-08-29 03:29:45,955[INFO ]:Queued SECS2 Message : S1F13
+2023-08-29 03:29:45,989[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-08-29 03:29:45,991[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [13] "1.0.8641.6286">
+>
+2023-08-29 03:29:46,002[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-29 03:29:46,003[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-08-29 03:29:52,581[INFO ]:Queued SECS2 Message : S5F1
+2023-08-29 03:29:52,583[INFO ]:Queued SECS2 Message : S6F11
+2023-08-29 03:29:52,609[INFO ]:SENT SECS2 Message : SSID(0), B2(133), B3(1), P(0), S(0), SB(2)
+2023-08-29 03:29:52,609[INFO ]:>>>S5F1 W>>>  
+<L [3] 
+    <B [1] 02 >
+    <U4 [1] 1 >
+    <A [13] "MCP EMO Error">
+>
+2023-08-29 03:29:52,609[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(3)
+2023-08-29 03:29:52,609[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `AlarmCleared` 1032 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 103 >
+            <L [4] 
+                <A [8] `ModuleID` "AP-MR-01">
+                <B [1] `ALCD` 02 >
+                <U4 [1] `ALID` 1 >
+                <A [13] `ALTX` "MCP EMO Error">
+            >
+        >
+    >
+>
+2023-08-29 03:29:52,670[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(3), Length[3]
+2023-08-29 03:29:52,670[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-29 03:30:38,277[INFO ]:HSMS Timeout Occured : Type[3], TimeSec[45.6953963], Header[SSID(0), B2(133), B3(1), P(0), S(0), SB(2)]
+2023-08-29 03:30:38,277[INFO ]:Queued SECS2 Message : S9F9
+2023-08-29 03:30:38,336[INFO ]:SENT SECS2 Message : SSID(0), B2(9), B3(9), P(0), S(0), SB(4)
+2023-08-29 03:30:38,336[INFO ]:>>>S9F9>>>  
+<B [10] 00 00 85 01 00 00 00 00 00 02 >
+2023-08-29 03:30:56,024[INFO ]:Queued SECS2 Message : S5F1
+2023-08-29 03:30:56,025[INFO ]:Queued SECS2 Message : S6F11
+2023-08-29 03:30:56,039[INFO ]:SENT SECS2 Message : SSID(0), B2(133), B3(1), P(0), S(0), SB(5)
+2023-08-29 03:30:56,039[INFO ]:>>>S5F1 W>>>  
+<L [3] 
+    <B [1] 82 >
+    <U4 [1] 1 >
+    <A [13] "MCP EMO Error">
+>
+2023-08-29 03:30:56,039[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(6)
+2023-08-29 03:30:56,039[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `AlarmDetected` 1031 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 103 >
+            <L [4] 
+                <A [8] `ModuleID` "AP-MR-01">
+                <B [1] `ALCD` 02 >
+                <U4 [1] `ALID` 1 >
+                <A [13] `ALTX` "MCP EMO Error">
+            >
+        >
+    >
+>
+2023-08-29 03:30:56,068[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(6), Length[3]
+2023-08-29 03:30:56,068[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-29 03:31:41,692[INFO ]:HSMS Timeout Occured : Type[3], TimeSec[45.6685473], Header[SSID(0), B2(133), B3(1), P(0), S(0), SB(5)]
+2023-08-29 03:31:41,692[INFO ]:Queued SECS2 Message : S9F9
+2023-08-29 03:31:41,707[INFO ]:SENT SECS2 Message : SSID(0), B2(9), B3(9), P(0), S(0), SB(7)
+2023-08-29 03:31:41,707[INFO ]:>>>S9F9>>>  
+<B [10] 00 00 85 01 00 00 00 00 00 05 >

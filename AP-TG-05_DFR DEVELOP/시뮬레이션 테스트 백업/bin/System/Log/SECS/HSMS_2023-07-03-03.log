@@ -1,0 +1,710 @@
+2023-07-03 03:00:20,478[INFO ]:Received LinkTest Request.
+2023-07-03 03:00:20,480[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,279), Length[0]
+2023-07-03 03:00:20,480[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,279), Length[0]
+2023-07-03 03:00:20,480[INFO ]:Message Stat : Queue[1], Sent[0], Recv[8]
+2023-07-03 03:00:20,539[INFO ]:Sent LinkTest Response.
+2023-07-03 03:00:20,539[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,279), Length[0]
+2023-07-03 03:00:52,053[INFO ]:Received LinkTest Request.
+2023-07-03 03:00:52,053[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,283), Length[0]
+2023-07-03 03:00:52,054[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,283), Length[0]
+2023-07-03 03:00:52,054[INFO ]:Message Stat : Queue[1], Sent[0], Recv[8]
+2023-07-03 03:00:52,084[INFO ]:Sent LinkTest Response.
+2023-07-03 03:00:52,084[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,283), Length[0]
+2023-07-03 03:01:23,580[INFO ]:Received LinkTest Request.
+2023-07-03 03:01:23,580[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,287), Length[0]
+2023-07-03 03:01:23,580[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,287), Length[0]
+2023-07-03 03:01:23,580[INFO ]:Message Stat : Queue[1], Sent[0], Recv[8]
+2023-07-03 03:01:23,626[INFO ]:Sent LinkTest Response.
+2023-07-03 03:01:23,626[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,287), Length[0]
+2023-07-03 03:01:50,009[INFO ]:Send LinkTest Request.
+2023-07-03 03:01:50,009[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(40), Length[0]
+2023-07-03 03:01:50,009[INFO ]:Message Stat : Queue[1], Sent[0], Recv[7]
+2023-07-03 03:01:50,024[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(40), Length[0]
+2023-07-03 03:01:50,086[INFO ]:Received LinkTest Response.
+2023-07-03 03:01:50,086[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(40), Length[0]
+2023-07-03 03:02:22,143[INFO ]:Received LinkTest Request.
+2023-07-03 03:02:22,143[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,293), Length[0]
+2023-07-03 03:02:22,143[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,293), Length[0]
+2023-07-03 03:02:22,143[INFO ]:Message Stat : Queue[1], Sent[0], Recv[9]
+2023-07-03 03:02:22,187[INFO ]:Sent LinkTest Response.
+2023-07-03 03:02:22,187[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,293), Length[0]
+2023-07-03 03:02:53,734[INFO ]:Received LinkTest Request.
+2023-07-03 03:02:53,734[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,297), Length[0]
+2023-07-03 03:02:53,734[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,297), Length[0]
+2023-07-03 03:02:53,734[INFO ]:Message Stat : Queue[1], Sent[0], Recv[9]
+2023-07-03 03:02:53,794[INFO ]:Sent LinkTest Response.
+2023-07-03 03:02:53,794[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,297), Length[0]
+2023-07-03 03:03:25,262[INFO ]:Received LinkTest Request.
+2023-07-03 03:03:25,262[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,301), Length[0]
+2023-07-03 03:03:25,262[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,301), Length[0]
+2023-07-03 03:03:25,262[INFO ]:Message Stat : Queue[1], Sent[0], Recv[9]
+2023-07-03 03:03:25,307[INFO ]:Sent LinkTest Response.
+2023-07-03 03:03:25,307[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,301), Length[0]
+2023-07-03 03:03:51,771[INFO ]:Send LinkTest Request.
+2023-07-03 03:03:51,771[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(41), Length[0]
+2023-07-03 03:03:51,771[INFO ]:Message Stat : Queue[1], Sent[0], Recv[8]
+2023-07-03 03:03:51,816[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(41), Length[0]
+2023-07-03 03:03:51,847[INFO ]:Received LinkTest Response.
+2023-07-03 03:03:51,847[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(41), Length[0]
+2023-07-03 03:04:22,408[INFO ]:Received LinkTest Request.
+2023-07-03 03:04:22,408[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,307), Length[0]
+2023-07-03 03:04:22,408[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,307), Length[0]
+2023-07-03 03:04:22,408[INFO ]:Message Stat : Queue[1], Sent[0], Recv[10]
+2023-07-03 03:04:22,439[INFO ]:Sent LinkTest Response.
+2023-07-03 03:04:22,440[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,307), Length[0]
+2023-07-03 03:04:53,889[INFO ]:Received LinkTest Request.
+2023-07-03 03:04:53,889[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,311), Length[0]
+2023-07-03 03:04:53,889[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,311), Length[0]
+2023-07-03 03:04:53,889[INFO ]:Message Stat : Queue[1], Sent[0], Recv[10]
+2023-07-03 03:04:53,935[INFO ]:Sent LinkTest Response.
+2023-07-03 03:04:53,935[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,311), Length[0]
+2023-07-03 03:05:25,483[INFO ]:Received LinkTest Request.
+2023-07-03 03:05:25,483[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,315), Length[0]
+2023-07-03 03:05:25,483[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,315), Length[0]
+2023-07-03 03:05:25,483[INFO ]:Message Stat : Queue[1], Sent[0], Recv[10]
+2023-07-03 03:05:25,545[INFO ]:Sent LinkTest Response.
+2023-07-03 03:05:25,545[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,315), Length[0]
+2023-07-03 03:05:53,480[INFO ]:Send LinkTest Request.
+2023-07-03 03:05:53,480[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(42), Length[0]
+2023-07-03 03:05:53,480[INFO ]:Message Stat : Queue[1], Sent[0], Recv[9]
+2023-07-03 03:05:53,540[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(42), Length[0]
+2023-07-03 03:05:53,601[INFO ]:Received LinkTest Response.
+2023-07-03 03:05:53,601[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(42), Length[0]
+2023-07-03 03:06:25,551[INFO ]:Received LinkTest Request.
+2023-07-03 03:06:25,551[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,321), Length[0]
+2023-07-03 03:06:25,551[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,321), Length[0]
+2023-07-03 03:06:25,551[INFO ]:Message Stat : Queue[1], Sent[0], Recv[11]
+2023-07-03 03:06:25,611[INFO ]:Sent LinkTest Response.
+2023-07-03 03:06:25,611[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,321), Length[0]
+2023-07-03 03:06:57,065[INFO ]:Received LinkTest Request.
+2023-07-03 03:06:57,065[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,325), Length[0]
+2023-07-03 03:06:57,065[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,325), Length[0]
+2023-07-03 03:06:57,065[INFO ]:Message Stat : Queue[1], Sent[0], Recv[11]
+2023-07-03 03:06:57,095[INFO ]:Sent LinkTest Response.
+2023-07-03 03:06:57,095[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,325), Length[0]
+2023-07-03 03:07:28,646[INFO ]:Received LinkTest Request.
+2023-07-03 03:07:28,646[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,329), Length[0]
+2023-07-03 03:07:28,646[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,329), Length[0]
+2023-07-03 03:07:28,646[INFO ]:Message Stat : Queue[1], Sent[0], Recv[11]
+2023-07-03 03:07:28,691[INFO ]:Sent LinkTest Response.
+2023-07-03 03:07:28,691[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,329), Length[0]
+2023-07-03 03:07:55,165[INFO ]:Send LinkTest Request.
+2023-07-03 03:07:55,165[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(43), Length[0]
+2023-07-03 03:07:55,165[INFO ]:Message Stat : Queue[1], Sent[0], Recv[10]
+2023-07-03 03:07:55,196[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(43), Length[0]
+2023-07-03 03:07:55,227[INFO ]:Received LinkTest Response.
+2023-07-03 03:07:55,227[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(43), Length[0]
+2023-07-03 03:08:27,211[INFO ]:Received LinkTest Request.
+2023-07-03 03:08:27,211[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,335), Length[0]
+2023-07-03 03:08:27,211[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,335), Length[0]
+2023-07-03 03:08:27,211[INFO ]:Message Stat : Queue[1], Sent[0], Recv[12]
+2023-07-03 03:08:27,272[INFO ]:Sent LinkTest Response.
+2023-07-03 03:08:27,272[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,335), Length[0]
+2023-07-03 03:08:58,831[INFO ]:Received LinkTest Request.
+2023-07-03 03:08:58,831[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,339), Length[0]
+2023-07-03 03:08:58,831[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,339), Length[0]
+2023-07-03 03:08:58,831[INFO ]:Message Stat : Queue[1], Sent[0], Recv[12]
+2023-07-03 03:08:58,847[INFO ]:Sent LinkTest Response.
+2023-07-03 03:08:58,847[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,339), Length[0]
+2023-07-03 03:09:30,367[INFO ]:Received LinkTest Request.
+2023-07-03 03:09:30,367[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,343), Length[0]
+2023-07-03 03:09:30,367[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,343), Length[0]
+2023-07-03 03:09:30,367[INFO ]:Message Stat : Queue[1], Sent[0], Recv[12]
+2023-07-03 03:09:30,413[INFO ]:Sent LinkTest Response.
+2023-07-03 03:09:30,413[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,343), Length[0]
+2023-07-03 03:09:56,794[INFO ]:Send LinkTest Request.
+2023-07-03 03:09:56,794[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(44), Length[0]
+2023-07-03 03:09:56,794[INFO ]:Message Stat : Queue[1], Sent[0], Recv[11]
+2023-07-03 03:09:56,853[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(44), Length[0]
+2023-07-03 03:09:56,869[INFO ]:Received LinkTest Response.
+2023-07-03 03:09:56,869[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(44), Length[0]
+2023-07-03 03:10:27,486[INFO ]:Received LinkTest Request.
+2023-07-03 03:10:27,486[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,349), Length[0]
+2023-07-03 03:10:27,486[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,349), Length[0]
+2023-07-03 03:10:27,486[INFO ]:Message Stat : Queue[1], Sent[0], Recv[13]
+2023-07-03 03:10:27,501[INFO ]:Sent LinkTest Response.
+2023-07-03 03:10:27,501[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,349), Length[0]
+2023-07-03 03:10:59,033[INFO ]:Received LinkTest Request.
+2023-07-03 03:10:59,033[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,353), Length[0]
+2023-07-03 03:10:59,033[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,353), Length[0]
+2023-07-03 03:10:59,033[INFO ]:Message Stat : Queue[1], Sent[0], Recv[13]
+2023-07-03 03:10:59,064[INFO ]:Sent LinkTest Response.
+2023-07-03 03:10:59,064[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,353), Length[0]
+2023-07-03 03:11:30,595[INFO ]:Received LinkTest Request.
+2023-07-03 03:11:30,595[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,357), Length[0]
+2023-07-03 03:11:30,595[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,357), Length[0]
+2023-07-03 03:11:30,595[INFO ]:Message Stat : Queue[1], Sent[0], Recv[13]
+2023-07-03 03:11:30,657[INFO ]:Sent LinkTest Response.
+2023-07-03 03:11:30,657[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,357), Length[0]
+2023-07-03 03:11:58,482[INFO ]:Send LinkTest Request.
+2023-07-03 03:11:58,482[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(45), Length[0]
+2023-07-03 03:11:58,482[INFO ]:Message Stat : Queue[1], Sent[0], Recv[12]
+2023-07-03 03:11:58,497[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(45), Length[0]
+2023-07-03 03:11:58,558[INFO ]:Received LinkTest Response.
+2023-07-03 03:11:58,558[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(45), Length[0]
+2023-07-03 03:12:29,235[INFO ]:Received LinkTest Request.
+2023-07-03 03:12:29,235[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,363), Length[0]
+2023-07-03 03:12:29,235[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,363), Length[0]
+2023-07-03 03:12:29,235[INFO ]:Message Stat : Queue[1], Sent[0], Recv[14]
+2023-07-03 03:12:29,265[INFO ]:Sent LinkTest Response.
+2023-07-03 03:12:29,265[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,363), Length[0]
+2023-07-03 03:13:00,747[INFO ]:Received LinkTest Request.
+2023-07-03 03:13:00,747[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,367), Length[0]
+2023-07-03 03:13:00,747[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,367), Length[0]
+2023-07-03 03:13:00,747[INFO ]:Message Stat : Queue[1], Sent[0], Recv[14]
+2023-07-03 03:13:00,761[INFO ]:Sent LinkTest Response.
+2023-07-03 03:13:00,761[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,367), Length[0]
+2023-07-03 03:13:32,302[INFO ]:Received LinkTest Request.
+2023-07-03 03:13:32,303[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,371), Length[0]
+2023-07-03 03:13:32,303[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,371), Length[0]
+2023-07-03 03:13:32,303[INFO ]:Message Stat : Queue[1], Sent[0], Recv[14]
+2023-07-03 03:13:32,347[INFO ]:Sent LinkTest Response.
+2023-07-03 03:13:32,347[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,371), Length[0]
+2023-07-03 03:14:00,171[INFO ]:Send LinkTest Request.
+2023-07-03 03:14:00,171[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(46), Length[0]
+2023-07-03 03:14:00,171[INFO ]:Message Stat : Queue[1], Sent[0], Recv[13]
+2023-07-03 03:14:00,186[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(46), Length[0]
+2023-07-03 03:14:00,247[INFO ]:Received LinkTest Response.
+2023-07-03 03:14:00,247[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(46), Length[0]
+2023-07-03 03:14:32,368[INFO ]:Received LinkTest Request.
+2023-07-03 03:14:32,368[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,377), Length[0]
+2023-07-03 03:14:32,368[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,377), Length[0]
+2023-07-03 03:14:32,368[INFO ]:Message Stat : Queue[1], Sent[0], Recv[15]
+2023-07-03 03:14:32,429[INFO ]:Sent LinkTest Response.
+2023-07-03 03:14:32,429[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,377), Length[0]
+2023-07-03 03:15:03,894[INFO ]:Received LinkTest Request.
+2023-07-03 03:15:03,894[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,381), Length[0]
+2023-07-03 03:15:03,894[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,381), Length[0]
+2023-07-03 03:15:03,894[INFO ]:Message Stat : Queue[1], Sent[0], Recv[15]
+2023-07-03 03:15:03,925[INFO ]:Sent LinkTest Response.
+2023-07-03 03:15:03,925[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,381), Length[0]
+2023-07-03 03:15:35,445[INFO ]:Received LinkTest Request.
+2023-07-03 03:15:35,445[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,385), Length[0]
+2023-07-03 03:15:35,445[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,385), Length[0]
+2023-07-03 03:15:35,445[INFO ]:Message Stat : Queue[1], Sent[0], Recv[15]
+2023-07-03 03:15:35,504[INFO ]:Sent LinkTest Response.
+2023-07-03 03:15:35,504[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,385), Length[0]
+2023-07-03 03:16:01,784[INFO ]:Send LinkTest Request.
+2023-07-03 03:16:01,784[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(47), Length[0]
+2023-07-03 03:16:01,784[INFO ]:Message Stat : Queue[1], Sent[0], Recv[14]
+2023-07-03 03:16:01,800[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(47), Length[0]
+2023-07-03 03:16:01,815[INFO ]:Received LinkTest Response.
+2023-07-03 03:16:01,815[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(47), Length[0]
+2023-07-03 03:16:32,498[INFO ]:Received LinkTest Request.
+2023-07-03 03:16:32,498[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,391), Length[0]
+2023-07-03 03:16:32,498[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,391), Length[0]
+2023-07-03 03:16:32,498[INFO ]:Message Stat : Queue[1], Sent[0], Recv[16]
+2023-07-03 03:16:32,544[INFO ]:Sent LinkTest Response.
+2023-07-03 03:16:32,544[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,391), Length[0]
+2023-07-03 03:17:04,033[INFO ]:Received LinkTest Request.
+2023-07-03 03:17:04,033[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,395), Length[0]
+2023-07-03 03:17:04,033[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,395), Length[0]
+2023-07-03 03:17:04,033[INFO ]:Message Stat : Queue[1], Sent[0], Recv[16]
+2023-07-03 03:17:04,094[INFO ]:Sent LinkTest Response.
+2023-07-03 03:17:04,094[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,395), Length[0]
+2023-07-03 03:17:35,561[INFO ]:Received LinkTest Request.
+2023-07-03 03:17:35,561[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,399), Length[0]
+2023-07-03 03:17:35,561[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,399), Length[0]
+2023-07-03 03:17:35,561[INFO ]:Message Stat : Queue[1], Sent[0], Recv[16]
+2023-07-03 03:17:35,592[INFO ]:Sent LinkTest Response.
+2023-07-03 03:17:35,592[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,399), Length[0]
+2023-07-03 03:18:03,485[INFO ]:Send LinkTest Request.
+2023-07-03 03:18:03,485[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(48), Length[0]
+2023-07-03 03:18:03,485[INFO ]:Message Stat : Queue[1], Sent[0], Recv[15]
+2023-07-03 03:18:03,501[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(48), Length[0]
+2023-07-03 03:18:03,531[INFO ]:Received LinkTest Response.
+2023-07-03 03:18:03,531[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(48), Length[0]
+2023-07-03 03:18:34,199[INFO ]:Received LinkTest Request.
+2023-07-03 03:18:34,199[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,405), Length[0]
+2023-07-03 03:18:34,199[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,405), Length[0]
+2023-07-03 03:18:34,199[INFO ]:Message Stat : Queue[1], Sent[0], Recv[17]
+2023-07-03 03:18:34,260[INFO ]:Sent LinkTest Response.
+2023-07-03 03:18:34,260[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,405), Length[0]
+2023-07-03 03:19:05,772[INFO ]:Received LinkTest Request.
+2023-07-03 03:19:05,772[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,409), Length[0]
+2023-07-03 03:19:05,772[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,409), Length[0]
+2023-07-03 03:19:05,772[INFO ]:Message Stat : Queue[1], Sent[0], Recv[17]
+2023-07-03 03:19:05,817[INFO ]:Sent LinkTest Response.
+2023-07-03 03:19:05,817[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,409), Length[0]
+2023-07-03 03:19:37,334[INFO ]:Received LinkTest Request.
+2023-07-03 03:19:37,334[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,413), Length[0]
+2023-07-03 03:19:37,334[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,413), Length[0]
+2023-07-03 03:19:37,334[INFO ]:Message Stat : Queue[1], Sent[0], Recv[17]
+2023-07-03 03:19:37,395[INFO ]:Sent LinkTest Response.
+2023-07-03 03:19:37,395[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,413), Length[0]
+2023-07-03 03:20:05,147[INFO ]:Send LinkTest Request.
+2023-07-03 03:20:05,147[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(49), Length[0]
+2023-07-03 03:20:05,147[INFO ]:Message Stat : Queue[1], Sent[0], Recv[16]
+2023-07-03 03:20:05,177[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(49), Length[0]
+2023-07-03 03:20:05,180[INFO ]:Received LinkTest Response.
+2023-07-03 03:20:05,180[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(49), Length[0]
+2023-07-03 03:20:05,180[INFO ]:clear RecvQueue's items that over the life time.
+2023-07-03 03:20:37,368[INFO ]:Received LinkTest Request.
+2023-07-03 03:20:37,368[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,419), Length[0]
+2023-07-03 03:20:37,368[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,419), Length[0]
+2023-07-03 03:20:37,368[INFO ]:Message Stat : Queue[1], Sent[0], Recv[2]
+2023-07-03 03:20:37,383[INFO ]:Sent LinkTest Response.
+2023-07-03 03:20:37,383[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,419), Length[0]
+2023-07-03 03:21:08,917[INFO ]:Received LinkTest Request.
+2023-07-03 03:21:08,917[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,423), Length[0]
+2023-07-03 03:21:08,917[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,423), Length[0]
+2023-07-03 03:21:08,917[INFO ]:Message Stat : Queue[1], Sent[0], Recv[2]
+2023-07-03 03:21:08,933[INFO ]:Sent LinkTest Response.
+2023-07-03 03:21:08,933[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,423), Length[0]
+2023-07-03 03:21:40,473[INFO ]:Received LinkTest Request.
+2023-07-03 03:21:40,473[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,427), Length[0]
+2023-07-03 03:21:40,473[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,427), Length[0]
+2023-07-03 03:21:40,473[INFO ]:Message Stat : Queue[1], Sent[0], Recv[2]
+2023-07-03 03:21:40,518[INFO ]:Sent LinkTest Response.
+2023-07-03 03:21:40,518[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,427), Length[0]
+2023-07-03 03:22:06,852[INFO ]:Send LinkTest Request.
+2023-07-03 03:22:06,852[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(50), Length[0]
+2023-07-03 03:22:06,852[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-07-03 03:22:06,883[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(50), Length[0]
+2023-07-03 03:22:06,887[INFO ]:Received LinkTest Response.
+2023-07-03 03:22:06,887[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(50), Length[0]
+2023-07-03 03:22:37,618[INFO ]:Received LinkTest Request.
+2023-07-03 03:22:37,618[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,433), Length[0]
+2023-07-03 03:22:37,618[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,433), Length[0]
+2023-07-03 03:22:37,618[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-07-03 03:22:37,649[INFO ]:Sent LinkTest Response.
+2023-07-03 03:22:37,649[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,433), Length[0]
+2023-07-03 03:23:09,144[INFO ]:Received LinkTest Request.
+2023-07-03 03:23:09,144[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,437), Length[0]
+2023-07-03 03:23:09,144[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,437), Length[0]
+2023-07-03 03:23:09,144[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-07-03 03:23:09,204[INFO ]:Sent LinkTest Response.
+2023-07-03 03:23:09,204[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,437), Length[0]
+2023-07-03 03:23:40,684[INFO ]:Received LinkTest Request.
+2023-07-03 03:23:40,684[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,441), Length[0]
+2023-07-03 03:23:40,684[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,441), Length[0]
+2023-07-03 03:23:40,684[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-07-03 03:23:40,715[INFO ]:Sent LinkTest Response.
+2023-07-03 03:23:40,715[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,441), Length[0]
+2023-07-03 03:24:08,440[INFO ]:Send LinkTest Request.
+2023-07-03 03:24:08,441[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(51), Length[0]
+2023-07-03 03:24:08,441[INFO ]:Message Stat : Queue[1], Sent[0], Recv[2]
+2023-07-03 03:24:08,486[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(51), Length[0]
+2023-07-03 03:24:08,516[INFO ]:Received LinkTest Response.
+2023-07-03 03:24:08,516[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(51), Length[0]
+2023-07-03 03:24:39,262[INFO ]:Received LinkTest Request.
+2023-07-03 03:24:39,262[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,447), Length[0]
+2023-07-03 03:24:39,262[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,447), Length[0]
+2023-07-03 03:24:39,262[INFO ]:Message Stat : Queue[1], Sent[0], Recv[4]
+2023-07-03 03:24:39,293[INFO ]:Sent LinkTest Response.
+2023-07-03 03:24:39,293[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,447), Length[0]
+2023-07-03 03:25:10,840[INFO ]:Received LinkTest Request.
+2023-07-03 03:25:10,840[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,451), Length[0]
+2023-07-03 03:25:10,840[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,451), Length[0]
+2023-07-03 03:25:10,840[INFO ]:Message Stat : Queue[1], Sent[0], Recv[4]
+2023-07-03 03:25:10,885[INFO ]:Sent LinkTest Response.
+2023-07-03 03:25:10,885[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,451), Length[0]
+2023-07-03 03:25:42,402[INFO ]:Received LinkTest Request.
+2023-07-03 03:25:42,402[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,455), Length[0]
+2023-07-03 03:25:42,402[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,455), Length[0]
+2023-07-03 03:25:42,402[INFO ]:Message Stat : Queue[1], Sent[0], Recv[4]
+2023-07-03 03:25:42,432[INFO ]:Sent LinkTest Response.
+2023-07-03 03:25:42,432[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,455), Length[0]
+2023-07-03 03:26:10,092[INFO ]:Send LinkTest Request.
+2023-07-03 03:26:10,092[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(52), Length[0]
+2023-07-03 03:26:10,092[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-07-03 03:26:10,122[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(52), Length[0]
+2023-07-03 03:26:10,153[INFO ]:Received LinkTest Response.
+2023-07-03 03:26:10,153[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(52), Length[0]
+2023-07-03 03:26:41,049[INFO ]:Received LinkTest Request.
+2023-07-03 03:26:41,049[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,461), Length[0]
+2023-07-03 03:26:41,049[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,461), Length[0]
+2023-07-03 03:26:41,049[INFO ]:Message Stat : Queue[1], Sent[0], Recv[5]
+2023-07-03 03:26:41,079[INFO ]:Sent LinkTest Response.
+2023-07-03 03:26:41,079[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,461), Length[0]
+2023-07-03 03:27:12,652[INFO ]:Received LinkTest Request.
+2023-07-03 03:27:12,652[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,465), Length[0]
+2023-07-03 03:27:12,652[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,465), Length[0]
+2023-07-03 03:27:12,652[INFO ]:Message Stat : Queue[1], Sent[0], Recv[5]
+2023-07-03 03:27:12,714[INFO ]:Sent LinkTest Response.
+2023-07-03 03:27:12,714[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,465), Length[0]
+2023-07-03 03:27:44,227[INFO ]:Received LinkTest Request.
+2023-07-03 03:27:44,227[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,469), Length[0]
+2023-07-03 03:27:44,227[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,469), Length[0]
+2023-07-03 03:27:44,227[INFO ]:Message Stat : Queue[1], Sent[0], Recv[5]
+2023-07-03 03:27:44,273[INFO ]:Sent LinkTest Response.
+2023-07-03 03:27:44,273[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,469), Length[0]
+2023-07-03 03:28:11,856[INFO ]:Send LinkTest Request.
+2023-07-03 03:28:11,856[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(53), Length[0]
+2023-07-03 03:28:11,856[INFO ]:Message Stat : Queue[1], Sent[0], Recv[4]
+2023-07-03 03:28:11,915[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(53), Length[0]
+2023-07-03 03:28:11,931[INFO ]:Received LinkTest Response.
+2023-07-03 03:28:11,931[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(53), Length[0]
+2023-07-03 03:28:42,846[INFO ]:Received LinkTest Request.
+2023-07-03 03:28:42,846[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,475), Length[0]
+2023-07-03 03:28:42,846[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,475), Length[0]
+2023-07-03 03:28:42,846[INFO ]:Message Stat : Queue[1], Sent[0], Recv[6]
+2023-07-03 03:28:42,876[INFO ]:Sent LinkTest Response.
+2023-07-03 03:28:42,876[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,475), Length[0]
+2023-07-03 03:29:14,420[INFO ]:Received LinkTest Request.
+2023-07-03 03:29:14,420[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,479), Length[0]
+2023-07-03 03:29:14,420[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,479), Length[0]
+2023-07-03 03:29:14,420[INFO ]:Message Stat : Queue[1], Sent[0], Recv[6]
+2023-07-03 03:29:14,481[INFO ]:Sent LinkTest Response.
+2023-07-03 03:29:14,481[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,479), Length[0]
+2023-07-03 03:29:45,988[INFO ]:Received LinkTest Request.
+2023-07-03 03:29:45,988[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,483), Length[0]
+2023-07-03 03:29:45,988[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,483), Length[0]
+2023-07-03 03:29:45,988[INFO ]:Message Stat : Queue[1], Sent[0], Recv[6]
+2023-07-03 03:29:46,006[INFO ]:Sent LinkTest Response.
+2023-07-03 03:29:46,006[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,483), Length[0]
+2023-07-03 03:30:13,515[INFO ]:Send LinkTest Request.
+2023-07-03 03:30:13,515[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(54), Length[0]
+2023-07-03 03:30:13,515[INFO ]:Message Stat : Queue[1], Sent[0], Recv[5]
+2023-07-03 03:30:13,575[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(54), Length[0]
+2023-07-03 03:30:13,637[INFO ]:Received LinkTest Response.
+2023-07-03 03:30:13,637[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(54), Length[0]
+2023-07-03 03:30:44,672[INFO ]:Received LinkTest Request.
+2023-07-03 03:30:44,673[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,489), Length[0]
+2023-07-03 03:30:44,673[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,489), Length[0]
+2023-07-03 03:30:44,673[INFO ]:Message Stat : Queue[1], Sent[0], Recv[7]
+2023-07-03 03:30:44,688[INFO ]:Sent LinkTest Response.
+2023-07-03 03:30:44,688[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,489), Length[0]
+2023-07-03 03:31:16,211[INFO ]:Received LinkTest Request.
+2023-07-03 03:31:16,211[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,493), Length[0]
+2023-07-03 03:31:16,211[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,493), Length[0]
+2023-07-03 03:31:16,211[INFO ]:Message Stat : Queue[1], Sent[0], Recv[7]
+2023-07-03 03:31:16,257[INFO ]:Sent LinkTest Response.
+2023-07-03 03:31:16,257[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,493), Length[0]
+2023-07-03 03:31:47,799[INFO ]:Received LinkTest Request.
+2023-07-03 03:31:47,799[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,497), Length[0]
+2023-07-03 03:31:47,799[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,497), Length[0]
+2023-07-03 03:31:47,799[INFO ]:Message Stat : Queue[1], Sent[0], Recv[7]
+2023-07-03 03:31:47,829[INFO ]:Sent LinkTest Response.
+2023-07-03 03:31:47,830[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,497), Length[0]
+2023-07-03 03:32:15,192[INFO ]:Send LinkTest Request.
+2023-07-03 03:32:15,192[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(55), Length[0]
+2023-07-03 03:32:15,192[INFO ]:Message Stat : Queue[1], Sent[0], Recv[6]
+2023-07-03 03:32:15,238[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(55), Length[0]
+2023-07-03 03:32:15,269[INFO ]:Received LinkTest Response.
+2023-07-03 03:32:15,269[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(55), Length[0]
+2023-07-03 03:32:46,403[INFO ]:Received LinkTest Request.
+2023-07-03 03:32:46,403[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,503), Length[0]
+2023-07-03 03:32:46,403[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,503), Length[0]
+2023-07-03 03:32:46,403[INFO ]:Message Stat : Queue[1], Sent[0], Recv[8]
+2023-07-03 03:32:46,448[INFO ]:Sent LinkTest Response.
+2023-07-03 03:32:46,449[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,503), Length[0]
+2023-07-03 03:33:17,923[INFO ]:Received LinkTest Request.
+2023-07-03 03:33:17,923[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,507), Length[0]
+2023-07-03 03:33:17,923[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,507), Length[0]
+2023-07-03 03:33:17,923[INFO ]:Message Stat : Queue[1], Sent[0], Recv[8]
+2023-07-03 03:33:17,938[INFO ]:Sent LinkTest Response.
+2023-07-03 03:33:17,938[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,507), Length[0]
+2023-07-03 03:33:49,433[INFO ]:Received LinkTest Request.
+2023-07-03 03:33:49,433[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,511), Length[0]
+2023-07-03 03:33:49,433[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,511), Length[0]
+2023-07-03 03:33:49,433[INFO ]:Message Stat : Queue[1], Sent[0], Recv[8]
+2023-07-03 03:33:49,494[INFO ]:Sent LinkTest Response.
+2023-07-03 03:33:49,494[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,511), Length[0]
+2023-07-03 03:34:16,845[INFO ]:Send LinkTest Request.
+2023-07-03 03:34:16,845[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(56), Length[0]
+2023-07-03 03:34:16,845[INFO ]:Message Stat : Queue[1], Sent[0], Recv[7]
+2023-07-03 03:34:16,890[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(56), Length[0]
+2023-07-03 03:34:16,906[INFO ]:Received LinkTest Response.
+2023-07-03 03:34:16,906[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(56), Length[0]
+2023-07-03 03:34:48,102[INFO ]:Received LinkTest Request.
+2023-07-03 03:34:48,102[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,517), Length[0]
+2023-07-03 03:34:48,102[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,517), Length[0]
+2023-07-03 03:34:48,102[INFO ]:Message Stat : Queue[1], Sent[0], Recv[9]
+2023-07-03 03:34:48,148[INFO ]:Sent LinkTest Response.
+2023-07-03 03:34:48,148[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,517), Length[0]
+2023-07-03 03:35:19,634[INFO ]:Received LinkTest Request.
+2023-07-03 03:35:19,634[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,521), Length[0]
+2023-07-03 03:35:19,634[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,521), Length[0]
+2023-07-03 03:35:19,634[INFO ]:Message Stat : Queue[1], Sent[0], Recv[9]
+2023-07-03 03:35:19,665[INFO ]:Sent LinkTest Response.
+2023-07-03 03:35:19,665[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,521), Length[0]
+2023-07-03 03:35:51,227[INFO ]:Received LinkTest Request.
+2023-07-03 03:35:51,227[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,525), Length[0]
+2023-07-03 03:35:51,227[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,525), Length[0]
+2023-07-03 03:35:51,227[INFO ]:Message Stat : Queue[1], Sent[0], Recv[9]
+2023-07-03 03:35:51,242[INFO ]:Sent LinkTest Response.
+2023-07-03 03:35:51,242[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,525), Length[0]
+2023-07-03 03:36:18,572[INFO ]:Send LinkTest Request.
+2023-07-03 03:36:18,572[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(57), Length[0]
+2023-07-03 03:36:18,572[INFO ]:Message Stat : Queue[1], Sent[0], Recv[8]
+2023-07-03 03:36:18,587[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(57), Length[0]
+2023-07-03 03:36:18,602[INFO ]:Received LinkTest Response.
+2023-07-03 03:36:18,602[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(57), Length[0]
+2023-07-03 03:36:49,843[INFO ]:Received LinkTest Request.
+2023-07-03 03:36:49,843[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,531), Length[0]
+2023-07-03 03:36:49,843[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,531), Length[0]
+2023-07-03 03:36:49,843[INFO ]:Message Stat : Queue[1], Sent[0], Recv[10]
+2023-07-03 03:36:49,857[INFO ]:Sent LinkTest Response.
+2023-07-03 03:36:49,857[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,531), Length[0]
+2023-07-03 03:37:21,386[INFO ]:Received LinkTest Request.
+2023-07-03 03:37:21,386[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,535), Length[0]
+2023-07-03 03:37:21,386[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,535), Length[0]
+2023-07-03 03:37:21,386[INFO ]:Message Stat : Queue[1], Sent[0], Recv[10]
+2023-07-03 03:37:21,430[INFO ]:Sent LinkTest Response.
+2023-07-03 03:37:21,430[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,535), Length[0]
+2023-07-03 03:37:52,998[INFO ]:Received LinkTest Request.
+2023-07-03 03:37:52,998[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,539), Length[0]
+2023-07-03 03:37:52,998[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,539), Length[0]
+2023-07-03 03:37:52,998[INFO ]:Message Stat : Queue[1], Sent[0], Recv[10]
+2023-07-03 03:37:53,057[INFO ]:Sent LinkTest Response.
+2023-07-03 03:37:53,057[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,539), Length[0]
+2023-07-03 03:38:20,263[INFO ]:Send LinkTest Request.
+2023-07-03 03:38:20,263[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(58), Length[0]
+2023-07-03 03:38:20,263[INFO ]:Message Stat : Queue[1], Sent[0], Recv[9]
+2023-07-03 03:38:20,278[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(58), Length[0]
+2023-07-03 03:38:20,308[INFO ]:Received LinkTest Response.
+2023-07-03 03:38:20,308[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(58), Length[0]
+2023-07-03 03:38:51,691[INFO ]:Received LinkTest Request.
+2023-07-03 03:38:51,691[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,545), Length[0]
+2023-07-03 03:38:51,691[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,545), Length[0]
+2023-07-03 03:38:51,691[INFO ]:Message Stat : Queue[1], Sent[0], Recv[11]
+2023-07-03 03:38:51,736[INFO ]:Sent LinkTest Response.
+2023-07-03 03:38:51,736[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,545), Length[0]
+2023-07-03 03:39:23,245[INFO ]:Received LinkTest Request.
+2023-07-03 03:39:23,245[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,549), Length[0]
+2023-07-03 03:39:23,245[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,549), Length[0]
+2023-07-03 03:39:23,245[INFO ]:Message Stat : Queue[1], Sent[0], Recv[11]
+2023-07-03 03:39:23,276[INFO ]:Sent LinkTest Response.
+2023-07-03 03:39:23,276[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,549), Length[0]
+2023-07-03 03:39:54,805[INFO ]:Received LinkTest Request.
+2023-07-03 03:39:54,805[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,553), Length[0]
+2023-07-03 03:39:54,805[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,553), Length[0]
+2023-07-03 03:39:54,805[INFO ]:Message Stat : Queue[1], Sent[0], Recv[11]
+2023-07-03 03:39:54,851[INFO ]:Sent LinkTest Response.
+2023-07-03 03:39:54,851[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,553), Length[0]
+2023-07-03 03:40:21,927[INFO ]:Send LinkTest Request.
+2023-07-03 03:40:21,927[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(59), Length[0]
+2023-07-03 03:40:21,927[INFO ]:Message Stat : Queue[1], Sent[0], Recv[10]
+2023-07-03 03:40:21,943[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(59), Length[0]
+2023-07-03 03:40:21,958[INFO ]:Received LinkTest Response.
+2023-07-03 03:40:21,958[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(59), Length[0]
+2023-07-03 03:40:53,330[INFO ]:Received LinkTest Request.
+2023-07-03 03:40:53,331[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,559), Length[0]
+2023-07-03 03:40:53,331[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,559), Length[0]
+2023-07-03 03:40:53,331[INFO ]:Message Stat : Queue[1], Sent[0], Recv[12]
+2023-07-03 03:40:53,376[INFO ]:Sent LinkTest Response.
+2023-07-03 03:40:53,376[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,559), Length[0]
+2023-07-03 03:41:24,848[INFO ]:Received LinkTest Request.
+2023-07-03 03:41:24,848[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,563), Length[0]
+2023-07-03 03:41:24,848[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,563), Length[0]
+2023-07-03 03:41:24,848[INFO ]:Message Stat : Queue[1], Sent[0], Recv[12]
+2023-07-03 03:41:24,863[INFO ]:Sent LinkTest Response.
+2023-07-03 03:41:24,863[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,563), Length[0]
+2023-07-03 03:41:56,386[INFO ]:Received LinkTest Request.
+2023-07-03 03:41:56,386[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,567), Length[0]
+2023-07-03 03:41:56,386[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,567), Length[0]
+2023-07-03 03:41:56,386[INFO ]:Message Stat : Queue[1], Sent[0], Recv[12]
+2023-07-03 03:41:56,415[INFO ]:Sent LinkTest Response.
+2023-07-03 03:41:56,415[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,567), Length[0]
+2023-07-03 03:42:23,556[INFO ]:Send LinkTest Request.
+2023-07-03 03:42:23,556[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(60), Length[0]
+2023-07-03 03:42:23,556[INFO ]:Message Stat : Queue[1], Sent[0], Recv[11]
+2023-07-03 03:42:23,616[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(60), Length[0]
+2023-07-03 03:42:23,676[INFO ]:Received LinkTest Response.
+2023-07-03 03:42:23,676[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(60), Length[0]
+2023-07-03 03:42:55,017[INFO ]:Received LinkTest Request.
+2023-07-03 03:42:55,017[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,573), Length[0]
+2023-07-03 03:42:55,017[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,573), Length[0]
+2023-07-03 03:42:55,017[INFO ]:Message Stat : Queue[1], Sent[0], Recv[13]
+2023-07-03 03:42:55,032[INFO ]:Sent LinkTest Response.
+2023-07-03 03:42:55,032[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,573), Length[0]
+2023-07-03 03:43:26,510[INFO ]:Received LinkTest Request.
+2023-07-03 03:43:26,510[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,577), Length[0]
+2023-07-03 03:43:26,510[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,577), Length[0]
+2023-07-03 03:43:26,510[INFO ]:Message Stat : Queue[1], Sent[0], Recv[13]
+2023-07-03 03:43:26,571[INFO ]:Sent LinkTest Response.
+2023-07-03 03:43:26,571[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,577), Length[0]
+2023-07-03 03:43:58,134[INFO ]:Received LinkTest Request.
+2023-07-03 03:43:58,134[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,581), Length[0]
+2023-07-03 03:43:58,135[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,581), Length[0]
+2023-07-03 03:43:58,135[INFO ]:Message Stat : Queue[1], Sent[0], Recv[13]
+2023-07-03 03:43:58,180[INFO ]:Sent LinkTest Response.
+2023-07-03 03:43:58,180[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,581), Length[0]
+2023-07-03 03:44:25,266[INFO ]:Send LinkTest Request.
+2023-07-03 03:44:25,267[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(61), Length[0]
+2023-07-03 03:44:25,267[INFO ]:Message Stat : Queue[1], Sent[0], Recv[12]
+2023-07-03 03:44:25,327[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(61), Length[0]
+2023-07-03 03:44:25,358[INFO ]:Received LinkTest Response.
+2023-07-03 03:44:25,358[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(61), Length[0]
+2023-07-03 03:44:56,709[INFO ]:Received LinkTest Request.
+2023-07-03 03:44:56,709[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,587), Length[0]
+2023-07-03 03:44:56,709[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,587), Length[0]
+2023-07-03 03:44:56,709[INFO ]:Message Stat : Queue[1], Sent[0], Recv[14]
+2023-07-03 03:44:56,770[INFO ]:Sent LinkTest Response.
+2023-07-03 03:44:56,770[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,587), Length[0]
+2023-07-03 03:45:28,197[INFO ]:Received LinkTest Request.
+2023-07-03 03:45:28,197[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,591), Length[0]
+2023-07-03 03:45:28,197[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,591), Length[0]
+2023-07-03 03:45:28,197[INFO ]:Message Stat : Queue[1], Sent[0], Recv[14]
+2023-07-03 03:45:28,256[INFO ]:Sent LinkTest Response.
+2023-07-03 03:45:28,256[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,591), Length[0]
+2023-07-03 03:45:59,866[INFO ]:Received LinkTest Request.
+2023-07-03 03:45:59,866[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,595), Length[0]
+2023-07-03 03:45:59,866[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,595), Length[0]
+2023-07-03 03:45:59,866[INFO ]:Message Stat : Queue[1], Sent[0], Recv[14]
+2023-07-03 03:45:59,897[INFO ]:Sent LinkTest Response.
+2023-07-03 03:45:59,897[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,595), Length[0]
+2023-07-03 03:46:26,951[INFO ]:Send LinkTest Request.
+2023-07-03 03:46:26,951[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(62), Length[0]
+2023-07-03 03:46:26,951[INFO ]:Message Stat : Queue[1], Sent[0], Recv[13]
+2023-07-03 03:46:26,965[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(62), Length[0]
+2023-07-03 03:46:26,967[INFO ]:Received LinkTest Response.
+2023-07-03 03:46:26,967[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(62), Length[0]
+2023-07-03 03:46:58,455[INFO ]:Received LinkTest Request.
+2023-07-03 03:46:58,455[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,601), Length[0]
+2023-07-03 03:46:58,455[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,601), Length[0]
+2023-07-03 03:46:58,455[INFO ]:Message Stat : Queue[1], Sent[0], Recv[15]
+2023-07-03 03:46:58,486[INFO ]:Sent LinkTest Response.
+2023-07-03 03:46:58,486[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,601), Length[0]
+2023-07-03 03:47:29,968[INFO ]:Received LinkTest Request.
+2023-07-03 03:47:29,968[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,605), Length[0]
+2023-07-03 03:47:29,968[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,605), Length[0]
+2023-07-03 03:47:29,968[INFO ]:Message Stat : Queue[1], Sent[0], Recv[15]
+2023-07-03 03:47:29,998[INFO ]:Sent LinkTest Response.
+2023-07-03 03:47:29,998[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,605), Length[0]
+2023-07-03 03:48:00,063[INFO ]:Received LinkTest Request.
+2023-07-03 03:48:00,063[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,609), Length[0]
+2023-07-03 03:48:00,063[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,609), Length[0]
+2023-07-03 03:48:00,063[INFO ]:Message Stat : Queue[1], Sent[0], Recv[15]
+2023-07-03 03:48:00,078[INFO ]:Sent LinkTest Response.
+2023-07-03 03:48:00,078[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,609), Length[0]
+2023-07-03 03:48:28,678[INFO ]:Send LinkTest Request.
+2023-07-03 03:48:28,678[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(63), Length[0]
+2023-07-03 03:48:28,678[INFO ]:Message Stat : Queue[1], Sent[0], Recv[14]
+2023-07-03 03:48:28,708[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(63), Length[0]
+2023-07-03 03:48:28,770[INFO ]:Received LinkTest Response.
+2023-07-03 03:48:28,770[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(63), Length[0]
+2023-07-03 03:49:00,115[INFO ]:Received LinkTest Request.
+2023-07-03 03:49:00,115[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,615), Length[0]
+2023-07-03 03:49:00,115[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,615), Length[0]
+2023-07-03 03:49:00,115[INFO ]:Message Stat : Queue[1], Sent[0], Recv[16]
+2023-07-03 03:49:00,176[INFO ]:Sent LinkTest Response.
+2023-07-03 03:49:00,176[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,615), Length[0]
+2023-07-03 03:49:31,667[INFO ]:Received LinkTest Request.
+2023-07-03 03:49:31,667[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,619), Length[0]
+2023-07-03 03:49:31,667[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,619), Length[0]
+2023-07-03 03:49:31,667[INFO ]:Message Stat : Queue[1], Sent[0], Recv[16]
+2023-07-03 03:49:31,728[INFO ]:Sent LinkTest Response.
+2023-07-03 03:49:31,728[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,619), Length[0]
+2023-07-03 03:50:03,242[INFO ]:Received LinkTest Request.
+2023-07-03 03:50:03,242[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,623), Length[0]
+2023-07-03 03:50:03,242[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,623), Length[0]
+2023-07-03 03:50:03,242[INFO ]:Message Stat : Queue[1], Sent[0], Recv[16]
+2023-07-03 03:50:03,273[INFO ]:Sent LinkTest Response.
+2023-07-03 03:50:03,273[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,623), Length[0]
+2023-07-03 03:50:30,324[INFO ]:Send LinkTest Request.
+2023-07-03 03:50:30,324[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(64), Length[0]
+2023-07-03 03:50:30,324[INFO ]:Message Stat : Queue[1], Sent[0], Recv[15]
+2023-07-03 03:50:30,386[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(64), Length[0]
+2023-07-03 03:50:30,387[INFO ]:Received LinkTest Response.
+2023-07-03 03:50:30,387[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(64), Length[0]
+2023-07-03 03:51:01,859[INFO ]:Received LinkTest Request.
+2023-07-03 03:51:01,859[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,629), Length[0]
+2023-07-03 03:51:01,859[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,629), Length[0]
+2023-07-03 03:51:01,859[INFO ]:Message Stat : Queue[1], Sent[0], Recv[17]
+2023-07-03 03:51:01,890[INFO ]:Sent LinkTest Response.
+2023-07-03 03:51:01,890[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,629), Length[0]
+2023-07-03 03:51:33,355[INFO ]:Received LinkTest Request.
+2023-07-03 03:51:33,355[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,633), Length[0]
+2023-07-03 03:51:33,355[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,633), Length[0]
+2023-07-03 03:51:33,355[INFO ]:Message Stat : Queue[1], Sent[0], Recv[17]
+2023-07-03 03:51:33,386[INFO ]:Sent LinkTest Response.
+2023-07-03 03:51:33,386[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,633), Length[0]
+2023-07-03 03:52:04,914[INFO ]:Received LinkTest Request.
+2023-07-03 03:52:04,914[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,637), Length[0]
+2023-07-03 03:52:04,914[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,637), Length[0]
+2023-07-03 03:52:04,914[INFO ]:Message Stat : Queue[1], Sent[0], Recv[17]
+2023-07-03 03:52:04,944[INFO ]:Sent LinkTest Response.
+2023-07-03 03:52:04,944[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,637), Length[0]
+2023-07-03 03:52:32,202[INFO ]:Send LinkTest Request.
+2023-07-03 03:52:32,202[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(65), Length[0]
+2023-07-03 03:52:32,202[INFO ]:Message Stat : Queue[1], Sent[0], Recv[16]
+2023-07-03 03:52:32,247[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(65), Length[0]
+2023-07-03 03:52:32,308[INFO ]:Received LinkTest Response.
+2023-07-03 03:52:32,308[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(65), Length[0]
+2023-07-03 03:52:32,308[INFO ]:clear RecvQueue's items that over the life time.
+2023-07-03 03:53:03,578[INFO ]:Received LinkTest Request.
+2023-07-03 03:53:03,578[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,643), Length[0]
+2023-07-03 03:53:03,578[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,643), Length[0]
+2023-07-03 03:53:03,578[INFO ]:Message Stat : Queue[1], Sent[0], Recv[2]
+2023-07-03 03:53:03,594[INFO ]:Sent LinkTest Response.
+2023-07-03 03:53:03,594[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,643), Length[0]
+2023-07-03 03:53:35,118[INFO ]:Received LinkTest Request.
+2023-07-03 03:53:35,118[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,647), Length[0]
+2023-07-03 03:53:35,118[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,647), Length[0]
+2023-07-03 03:53:35,118[INFO ]:Message Stat : Queue[1], Sent[0], Recv[2]
+2023-07-03 03:53:35,164[INFO ]:Sent LinkTest Response.
+2023-07-03 03:53:35,164[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,647), Length[0]
+2023-07-03 03:54:06,647[INFO ]:Received LinkTest Request.
+2023-07-03 03:54:06,647[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,651), Length[0]
+2023-07-03 03:54:06,647[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,651), Length[0]
+2023-07-03 03:54:06,647[INFO ]:Message Stat : Queue[1], Sent[0], Recv[2]
+2023-07-03 03:54:06,677[INFO ]:Sent LinkTest Response.
+2023-07-03 03:54:06,677[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,651), Length[0]
+2023-07-03 03:54:33,923[INFO ]:Send LinkTest Request.
+2023-07-03 03:54:33,923[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(66), Length[0]
+2023-07-03 03:54:33,923[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-07-03 03:54:33,939[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(66), Length[0]
+2023-07-03 03:54:33,970[INFO ]:Received LinkTest Response.
+2023-07-03 03:54:33,970[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(66), Length[0]
+2023-07-03 03:55:05,277[INFO ]:Received LinkTest Request.
+2023-07-03 03:55:05,277[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,657), Length[0]
+2023-07-03 03:55:05,277[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,657), Length[0]
+2023-07-03 03:55:05,277[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-07-03 03:55:05,293[INFO ]:Sent LinkTest Response.
+2023-07-03 03:55:05,293[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,657), Length[0]
+2023-07-03 03:55:36,884[INFO ]:Received LinkTest Request.
+2023-07-03 03:55:36,884[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,661), Length[0]
+2023-07-03 03:55:36,884[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,661), Length[0]
+2023-07-03 03:55:36,884[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-07-03 03:55:36,929[INFO ]:Sent LinkTest Response.
+2023-07-03 03:55:36,929[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,661), Length[0]
+2023-07-03 03:56:08,387[INFO ]:Received LinkTest Request.
+2023-07-03 03:56:08,387[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,665), Length[0]
+2023-07-03 03:56:08,387[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,665), Length[0]
+2023-07-03 03:56:08,387[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-07-03 03:56:08,417[INFO ]:Sent LinkTest Response.
+2023-07-03 03:56:08,418[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,665), Length[0]
+2023-07-03 03:56:35,643[INFO ]:Send LinkTest Request.
+2023-07-03 03:56:35,643[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(67), Length[0]
+2023-07-03 03:56:35,643[INFO ]:Message Stat : Queue[1], Sent[0], Recv[2]
+2023-07-03 03:56:35,658[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(67), Length[0]
+2023-07-03 03:56:35,718[INFO ]:Received LinkTest Response.
+2023-07-03 03:56:35,718[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(67), Length[0]
+2023-07-03 03:57:07,025[INFO ]:Received LinkTest Request.
+2023-07-03 03:57:07,025[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,671), Length[0]
+2023-07-03 03:57:07,025[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,671), Length[0]
+2023-07-03 03:57:07,025[INFO ]:Message Stat : Queue[1], Sent[0], Recv[4]
+2023-07-03 03:57:07,085[INFO ]:Sent LinkTest Response.
+2023-07-03 03:57:07,085[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,671), Length[0]
+2023-07-03 03:57:38,515[INFO ]:Received LinkTest Request.
+2023-07-03 03:57:38,515[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,675), Length[0]
+2023-07-03 03:57:38,515[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,675), Length[0]
+2023-07-03 03:57:38,515[INFO ]:Message Stat : Queue[1], Sent[0], Recv[4]
+2023-07-03 03:57:38,561[INFO ]:Sent LinkTest Response.
+2023-07-03 03:57:38,561[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,675), Length[0]
+2023-07-03 03:58:10,073[INFO ]:Received LinkTest Request.
+2023-07-03 03:58:10,073[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,679), Length[0]
+2023-07-03 03:58:10,073[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,679), Length[0]
+2023-07-03 03:58:10,073[INFO ]:Message Stat : Queue[1], Sent[0], Recv[4]
+2023-07-03 03:58:10,105[INFO ]:Sent LinkTest Response.
+2023-07-03 03:58:10,105[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,679), Length[0]
+2023-07-03 03:58:37,277[INFO ]:Send LinkTest Request.
+2023-07-03 03:58:37,277[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(68), Length[0]
+2023-07-03 03:58:37,277[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-07-03 03:58:37,292[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(68), Length[0]
+2023-07-03 03:58:37,353[INFO ]:Received LinkTest Response.
+2023-07-03 03:58:37,353[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(68), Length[0]
+2023-07-03 03:59:08,731[INFO ]:Received LinkTest Request.
+2023-07-03 03:59:08,731[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,685), Length[0]
+2023-07-03 03:59:08,731[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,685), Length[0]
+2023-07-03 03:59:08,731[INFO ]:Message Stat : Queue[1], Sent[0], Recv[5]
+2023-07-03 03:59:08,793[INFO ]:Sent LinkTest Response.
+2023-07-03 03:59:08,793[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,685), Length[0]
+2023-07-03 03:59:40,286[INFO ]:Received LinkTest Request.
+2023-07-03 03:59:40,286[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(14,689), Length[0]
+2023-07-03 03:59:40,286[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,689), Length[0]
+2023-07-03 03:59:40,286[INFO ]:Message Stat : Queue[1], Sent[0], Recv[5]
+2023-07-03 03:59:40,331[INFO ]:Sent LinkTest Response.
+2023-07-03 03:59:40,331[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(14,689), Length[0]

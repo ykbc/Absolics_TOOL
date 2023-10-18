@@ -1,0 +1,196 @@
+2023-07-04 20:04:24,918[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:04:24,962[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:04:24,964[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:04:25,027[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:04:25,027[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:05:38,038[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:05:38,067[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:05:38,069[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:05:38,111[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:05:38,112[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:08:31,315[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:08:31,345[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:08:31,347[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:08:31,393[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:08:31,393[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:10:48,209[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:10:48,239[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:10:48,242[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:10:48,317[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:10:48,318[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:13:58,473[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:13:58,489[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:13:58,492[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:13:58,505[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:13:58,505[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:31:32,457[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:33:10,468[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:33:10,473[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(6)
+2023-07-04 20:33:10,475[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:33:10,562[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(6), Length[7]
+2023-07-04 20:33:10,563[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:34:42,406[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:34:42,436[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:34:42,438[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:34:42,491[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:34:42,492[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:35:38,143[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:35:38,206[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:35:38,210[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:35:38,286[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:35:38,287[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:37:05,968[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:37:06,014[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:37:06,016[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:37:06,045[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:37:06,046[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:37:37,697[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:37:37,746[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:37:37,748[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:37:37,835[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:37:37,835[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:44:59,601[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:44:59,631[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:44:59,632[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:44:59,677[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:44:59,678[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:45:44,750[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:45:44,795[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:45:44,797[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:45:44,834[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:45:44,835[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:46:54,810[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:46:54,856[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:46:54,858[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:46:54,948[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:46:54,949[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:54:40,045[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:54:40,096[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:54:40,098[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:54:40,189[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:54:40,190[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 20:59:01,377[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 20:59:01,434[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 20:59:01,439[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [6] "Unpack">
+    <A [1] "0">
+>
+2023-07-04 20:59:01,464[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 20:59:01,464[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>

@@ -1,0 +1,418 @@
+Time,Name,Type,MsgType,Text
+2023-08-22 06:19:33.279,,System,Normal,CIM has been executed..
+2023-08-22 06:19:33.802,,System,Normal,Start MasterPLC Thread..
+2023-08-22 06:19:33.916,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-22 06:19:39.035,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-22 06:19:44.152,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-22 06:19:49.273,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-22 06:19:54.387,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-22 06:19:59.502,,System,Error,MasterPLC Connect fail. [연결할 수 없는 호스트로 소켓 작업을 시도했습니다 100.100.100.10:8192]
+2023-08-22 13:04:21.119,,System,Normal,CIM has been executed..
+2023-08-22 13:04:22.109,,System,Normal,Start MasterPLC Thread..
+2023-08-22 13:04:24.342,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 100.100.100.10:8192]
+2023-08-22 13:04:31.721,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 100.100.100.10:8192]
+2023-08-22 13:04:53.592,,System,Normal,CIM has been executed..
+2023-08-22 13:04:54.276,,System,Normal,Start MasterPLC Thread..
+2023-08-22 13:04:56.510,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 100.100.100.10:8192]
+2023-08-22 13:06:34.621,,System,Normal,CIM has been executed..
+2023-08-22 13:06:36.464,,System,Normal,Start MasterPLC Thread..
+2023-08-22 13:06:36.579,,System,Normal,MasterPLC connected..
+2023-08-22 13:37:14.583,,System,Normal,CIM has been executed..
+2023-08-22 13:37:15.380,,System,Normal,Start MasterPLC Thread..
+2023-08-22 13:37:15.487,,System,Normal,MasterPLC connected..
+2023-08-22 13:37:15.720,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:15.932,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:16.148,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:16.374,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:16.602,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:16.818,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:17.035,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:17.246,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:17.476,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:17.701,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:17.927,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:18.145,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:18.371,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:18.601,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:18.828,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:19.055,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:19.282,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:19.496,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:19.727,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:19.957,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:20.184,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:20.414,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:20.643,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:20.869,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:21.104,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:21.326,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:21.550,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:21.777,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:21.992,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:22.220,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:22.455,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:22.683,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:22.913,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:23.140,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:23.367,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:23.595,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:23.822,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:24.053,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:24.276,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:24.507,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:24.732,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:24.964,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:25.188,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:25.416,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:25.641,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:25.854,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:37:26.082,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:40:57.532,,System,Normal,CIM has been executed..
+2023-08-22 13:40:58.823,,System,Normal,Start MasterPLC Thread..
+2023-08-22 13:40:58.930,,System,Normal,MasterPLC connected..
+2023-08-22 13:40:59.169,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:40:59.393,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:40:59.618,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:40:59.850,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:00.101,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:00.335,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:00.548,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:00.768,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:01.002,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:01.252,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:01.484,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:01.719,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:01.969,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:02.203,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:02.436,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:02.670,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:02.903,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:03.141,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:03.355,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:03.569,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:03.783,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:03.996,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:04.210,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:04.425,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:04.639,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:04.853,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:05.080,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:05.294,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:05.521,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:05.756,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:05.982,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:06.207,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:06.424,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:06.650,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:06.869,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:07.098,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:07.327,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:07.550,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:07.763,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:07.995,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:08.225,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:08.455,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:08.683,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:08.906,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:09.124,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:09.348,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:09.564,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:09.792,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:10.021,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:10.249,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:10.473,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:10.691,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:10.920,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:11.146,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:11.374,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:11.606,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:11.830,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:12.043,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:12.255,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:12.480,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:12.694,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:12.928,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:13.151,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:13.372,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:13.590,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:13.815,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:14.029,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:14.245,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:14.465,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:14.687,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:14.899,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:15.111,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:15.324,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:15.551,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:15.765,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:15.999,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:16.220,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:16.440,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:16.671,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:16.898,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:17.120,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:17.351,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:17.576,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:17.802,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:18.019,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:18.242,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:18.461,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:18.687,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:18.912,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:19.139,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:19.363,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:19.590,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:19.815,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:20.028,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:20.239,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:20.452,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:20.668,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:20.881,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:21.110,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:21.322,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:21.537,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:21.768,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:21.994,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:22.209,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:22.424,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:22.655,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:22.884,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:23.108,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:23.323,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:23.548,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:23.765,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:23.990,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:24.219,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:24.434,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:24.649,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:24.867,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:25.094,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:25.309,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:25.526,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:25.755,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:25.983,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:26.214,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:26.437,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:26.650,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:26.869,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:27.095,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:27.319,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:27.548,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:27.759,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:27.971,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:28.184,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:28.396,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:28.610,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:28.824,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:29.049,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:29.264,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:29.492,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:29.716,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:29.932,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:30.149,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:30.374,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:30.600,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:30.814,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:31.042,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:31.266,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:31.481,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:31.707,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:31.935,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:32.167,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:32.396,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:32.621,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:32.847,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:33.060,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:33.276,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:33.504,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:33.718,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:33.928,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:34.140,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:34.354,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:34.568,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:34.782,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:34.994,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:35.207,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:35.425,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:35.648,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:35.862,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:36.075,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:36.303,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:36.530,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:36.755,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:36.975,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:37.197,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:37.411,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:37.621,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:37.835,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:38.048,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:38.263,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:38.475,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:38.688,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:38.901,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:39.130,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:39.344,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:39.575,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:39.801,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:40.013,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:40.227,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:40.459,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:40.686,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:40.914,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:41.142,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:41.369,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:41.592,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:41.806,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:42.021,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:42.233,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:42.449,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:42.676,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:42.894,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:43.122,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:43.348,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:43.562,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:43.775,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:43.989,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:44.203,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:44.417,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:44.631,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:44.845,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:45.060,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:45.277,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:45.500,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:41:45.717,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:42:03.991,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:42:14.337,,System,Error,소스 배열의 길이가 짧습니다. srcIndex. length 및 배열의 하한을 확인하십시오.
+2023-08-22 13:43:23.246,,System,Normal,CIM has been executed..
+2023-08-22 13:43:23.579,,System,Normal,Start MasterPLC Thread..
+2023-08-22 13:43:23.682,,System,Normal,MasterPLC connected..
+2023-08-22 13:44:15.812,,System,Normal,CIM has been executed..
+2023-08-22 13:44:16.395,,System,Normal,Start MasterPLC Thread..
+2023-08-22 13:44:16.497,,System,Normal,MasterPLC connected..
+2023-08-22 13:44:44.882,,Booth,Operator,Write Offset[1] Value[1]
+2023-08-22 13:45:00.118,,Booth,Operator,Write Offset[1] Value[0]
+2023-08-22 13:45:12.983,,Booth,Operator,Write Offset[1] Value[1]
+2023-08-22 13:45:19.837,,Booth,Operator,Write Offset[1] Value[0]
+2023-08-22 13:45:24.410,,Booth,Operator,Write Offset[1] Value[1]
+2023-08-22 13:45:43.859,,Booth,Operator,Write Offset[1] Value[0]
+2023-08-22 13:47:34.025,,System,Normal,CIM has been executed..
+2023-08-22 13:47:34.639,,System,Normal,Start MasterPLC Thread..
+2023-08-22 13:47:34.750,,System,Normal,MasterPLC connected..
+2023-08-22 13:47:38.635,,Booth,Normal,Pause. by host
+2023-08-22 13:47:43.673,,Booth,Error,Resume fail. by host
+2023-08-22 13:47:43.674,,Booth,Error,Command[Resume] Retry over
+2023-08-22 13:47:49.370,,Booth,Normal,Pause. by host
+2023-08-22 13:47:53.368,,Booth,Error,Resume fail. by host
+2023-08-22 13:47:53.369,,Booth,Error,Command[Resume] Retry over
+2023-08-22 13:47:58.841,,Booth,Normal,Pause. by host
+2023-08-22 13:59:33.143,,System,Normal,CIM has been executed..
+2023-08-22 13:59:33.724,,System,Normal,Start MasterPLC Thread..
+2023-08-22 13:59:33.830,,System,Normal,MasterPLC connected..
+2023-08-22 14:03:59.862,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-22 14:04:02.190,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-22 14:04:51.617,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-22 14:05:00.615,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-22 14:39:31.747,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 14:39:31.769,,Host,Normal,HSMS Connection Selected.
+2023-08-22 14:39:33.386,,Host,Normal,Receive S1F13
+2023-08-22 14:39:33.463,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-22 17:00:41.538,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-22 17:01:18.503,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-22 17:01:37.708,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-22 17:01:57.161,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-22 17:02:04.033,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-22 17:02:29.012,ReadXml,DB,Error,Xml load error. Message - 입력 문자열의 형식이 잘못되었습니다.
+2023-08-22 19:42:50.482,,System,Normal,CIM has been executed..
+2023-08-22 19:42:50.888,,System,Normal,Start MasterPLC Thread..
+2023-08-22 19:42:51.063,,System,Normal,MasterPLC connected..
+2023-08-22 19:42:51.398,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 19:42:51.420,,Host,Normal,HSMS Connection Selected.
+2023-08-22 20:05:33.786,,System,Normal,CIM has been executed..
+2023-08-22 20:05:34.162,,System,Normal,Start MasterPLC Thread..
+2023-08-22 20:05:34.265,,System,Normal,MasterPLC connected..
+2023-08-22 20:05:38.889,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 20:05:38.912,,Host,Normal,HSMS Connection Selected.
+2023-08-22 20:54:59.856,,System,Normal,CIM has been executed..
+2023-08-22 20:55:00.563,,System,Normal,Start MasterPLC Thread..
+2023-08-22 20:55:00.679,,System,Normal,MasterPLC connected..
+2023-08-22 20:55:07.581,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 20:55:07.661,,Host,Normal,HSMS Connection Selected.
+2023-08-22 20:58:02.472,,System,Normal,CIM has been executed..
+2023-08-22 20:58:02.831,,System,Normal,Start MasterPLC Thread..
+2023-08-22 20:58:02.937,,System,Normal,MasterPLC connected..
+2023-08-22 20:58:08.005,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 20:58:08.024,,Host,Normal,HSMS Connection Selected.
+2023-08-22 21:33:09.549,,System,Normal,CIM has been executed..
+2023-08-22 21:33:10.054,,System,Normal,Start MasterPLC Thread..
+2023-08-22 21:33:10.172,,System,Normal,MasterPLC connected..
+2023-08-22 21:33:16.311,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 21:33:16.325,,Host,Normal,HSMS Connection Selected.
+2023-08-22 21:48:20.011,,System,Normal,CIM has been executed..
+2023-08-22 21:48:20.493,,System,Normal,Start MasterPLC Thread..
+2023-08-22 21:48:20.611,,System,Normal,MasterPLC connected..
+2023-08-22 21:48:23.839,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 21:48:23.863,,Host,Normal,HSMS Connection Selected.
+2023-08-22 21:49:32.065,,System,Normal,CIM has been executed..
+2023-08-22 21:49:32.857,,System,Normal,Start MasterPLC Thread..
+2023-08-22 21:49:32.963,,System,Normal,MasterPLC connected..
+2023-08-22 21:49:36.071,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 21:49:36.094,,Host,Normal,HSMS Connection Selected.
+2023-08-22 21:50:12.513,,System,Normal,CIM has been executed..
+2023-08-22 21:50:13.483,,System,Normal,Start MasterPLC Thread..
+2023-08-22 21:50:13.593,,System,Normal,MasterPLC connected..
+2023-08-22 21:50:13.777,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 21:50:13.889,,Host,Normal,HSMS Connection Selected.
+2023-08-22 21:55:00.932,,System,Normal,CIM has been executed..
+2023-08-22 21:55:01.332,,System,Normal,Start MasterPLC Thread..
+2023-08-22 21:55:01.443,,System,Normal,MasterPLC connected..
+2023-08-22 21:55:01.631,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 21:55:01.648,,Host,Normal,HSMS Connection Selected.
+2023-08-22 22:00:09.530,,System,Normal,CIM has been executed..
+2023-08-22 22:00:10.413,,System,Normal,Start MasterPLC Thread..
+2023-08-22 22:00:10.541,,System,Normal,MasterPLC connected..
+2023-08-22 22:00:15.768,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 22:00:15.783,,Host,Normal,HSMS Connection Selected.
+2023-08-22 22:00:30.208,,Booth,Normal,Pause. by host
+2023-08-22 22:00:36.448,,Booth,Error,Resume fail. by host
+2023-08-22 22:00:36.449,,Booth,Error,Command[Resume] Retry over
+2023-08-22 22:00:57.534,,Booth,Normal,Pause. by host
+2023-08-22 22:01:02.369,,Booth,Error,Resume fail. by host
+2023-08-22 22:01:02.370,,Booth,Error,Command[Resume] Retry over
+2023-08-22 22:01:27.647,,Booth,Normal,Pause. by host
+2023-08-22 22:01:34.524,,Booth,Error,Resume fail. by host
+2023-08-22 22:01:34.525,,Booth,Error,Command[Resume] Retry over
+2023-08-22 22:04:10.972,,System,Normal,CIM has been executed..
+2023-08-22 22:04:12.083,,System,Normal,Start MasterPLC Thread..
+2023-08-22 22:04:12.196,,System,Normal,MasterPLC connected..
+2023-08-22 22:04:16.665,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 22:04:16.682,,Host,Normal,HSMS Connection Selected.
+2023-08-22 22:04:20.494,,Booth,Normal,Pause. by host
+2023-08-22 22:04:25.327,,Booth,Normal,Resume. by host
+2023-08-22 22:06:11.630,,Booth,Normal,Buzzer 1. by host
+2023-08-22 23:28:38.724,,System,Normal,CIM has been executed..
+2023-08-22 23:28:39.790,,System,Normal,Start MasterPLC Thread..
+2023-08-22 23:28:39.907,,System,Normal,MasterPLC connected..
+2023-08-22 23:28:40.047,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 23:28:40.061,,Host,Normal,HSMS Connection Selected.
+2023-08-22 23:28:58.792,,Booth,Normal,Buzzer 1. by host
+2023-08-22 23:38:51.264,,System,Normal,CIM has been executed..
+2023-08-22 23:38:52.163,,System,Normal,Start MasterPLC Thread..
+2023-08-22 23:38:52.284,,System,Normal,MasterPLC connected..
+2023-08-22 23:38:59.942,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 23:38:59.958,,Host,Normal,HSMS Connection Selected.
+2023-08-22 23:39:20.091,,Booth,Normal,Buzzer 1. by host
+2023-08-22 23:39:28.937,,Booth,Normal,Buzzer 0. by host
+2023-08-22 23:39:35.781,,Booth,Normal,Buzzer 1. by host
+2023-08-22 23:39:49.580,,Booth,Normal,Set TowerLamp 1[1]. by host
+2023-08-22 23:39:49.595,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-22 23:41:52.466,,System,Normal,CIM has been executed..
+2023-08-22 23:41:53.382,,System,Normal,Start MasterPLC Thread..
+2023-08-22 23:41:53.503,,System,Normal,MasterPLC connected..
+2023-08-22 23:41:53.531,,Host,Normal,HSMS Connected NotSelected.
+2023-08-22 23:41:53.582,,Host,Normal,HSMS Connection Selected.
+2023-08-22 23:42:06.796,,Booth,Normal,Set TowerLamp 1[1]. by host
+2023-08-22 23:42:06.811,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-22 23:42:10.173,,Booth,Normal,Set TowerLamp 1[1]. by host
+2023-08-22 23:42:10.188,,Booth,Normal,I/F TowerLamp Bit On. by host
+2023-08-22 23:42:12.080,,Booth,Normal,Set TowerLamp 1[1]. by host
+2023-08-22 23:42:12.095,,Booth,Normal,I/F TowerLamp Bit On. by host

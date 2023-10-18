@@ -1,0 +1,297 @@
+Time,Name,Type,MsgType,Text
+2023-08-26 10:12:40.142,,System,Normal,CIM has been executed..
+2023-08-26 10:12:41.077,,System,Normal,Start MasterPLC Thread..
+2023-08-26 10:12:41.189,,System,Normal,MasterPLC connected..
+2023-08-26 10:16:57.483,,System,Normal,CIM has been executed..
+2023-08-26 10:16:57.908,,System,Normal,Start MasterPLC Thread..
+2023-08-26 10:16:58.011,,System,Normal,MasterPLC connected..
+2023-08-26 10:22:23.404,,System,Normal,CIM has been executed..
+2023-08-26 10:22:24.469,,System,Normal,Start MasterPLC Thread..
+2023-08-26 10:22:24.581,,System,Normal,MasterPLC connected..
+2023-08-26 10:42:49.980,,System,Normal,CIM has been executed..
+2023-08-26 10:42:50.621,,System,Normal,Start MasterPLC Thread..
+2023-08-26 10:42:50.727,,System,Normal,MasterPLC connected..
+2023-08-26 10:43:30.789,,System,Normal,CIM Exit..
+2023-08-26 10:44:17.007,,System,Normal,CIM has been executed..
+2023-08-26 10:44:17.766,,System,Normal,Start MasterPLC Thread..
+2023-08-26 10:44:17.882,,System,Normal,MasterPLC connected..
+2023-08-26 10:44:41.680,,System,Normal,CIM Exit..
+2023-08-26 10:45:06.746,,System,Normal,CIM has been executed..
+2023-08-26 10:45:07.434,,System,Normal,Start MasterPLC Thread..
+2023-08-26 10:45:07.538,,System,Normal,MasterPLC connected..
+2023-08-26 10:48:50.727,,System,Normal,CIM has been executed..
+2023-08-26 10:48:51.301,,System,Normal,Start MasterPLC Thread..
+2023-08-26 10:48:51.410,,System,Normal,MasterPLC connected..
+2023-08-26 10:50:01.742,,System,Normal,CIM Exit..
+2023-08-26 10:54:37.686,,System,Normal,CIM has been executed..
+2023-08-26 10:54:39.190,,System,Normal,Start MasterPLC Thread..
+2023-08-26 10:54:39.304,,System,Normal,MasterPLC connected..
+2023-08-26 10:54:58.668,,System,Error,수신 데이터 길이 이상! (예상=395. 실제=384)
+2023-08-26 10:55:00.825,,System,Error,수신 데이터 길이 이상! (예상=395. 실제=384)
+2023-08-26 10:55:15.921,,System,Error,수신 데이터 길이 이상! (예상=395. 실제=384)
+2023-08-26 10:56:08.451,,System,Normal,CIM has been executed..
+2023-08-26 10:56:09.279,,System,Normal,Start MasterPLC Thread..
+2023-08-26 10:56:09.391,,System,Normal,MasterPLC connected..
+2023-08-26 11:23:33.348,,System,Normal,CIM has been executed..
+2023-08-26 11:23:34.232,,System,Normal,Start MasterPLC Thread..
+2023-08-26 11:23:34.329,,System,Normal,MasterPLC connected..
+2023-08-26 11:40:13.941,,System,Normal,CIM has been executed..
+2023-08-26 11:40:14.837,,System,Normal,Start MasterPLC Thread..
+2023-08-26 11:40:14.947,,System,Normal,MasterPLC connected..
+2023-08-26 11:41:11.903,,System,Normal,CIM has been executed..
+2023-08-26 11:41:12.750,,System,Normal,Start MasterPLC Thread..
+2023-08-26 11:41:12.860,,System,Normal,MasterPLC connected..
+2023-08-26 11:42:25.102,,System,Normal,CIM has been executed..
+2023-08-26 11:42:26.012,,System,Normal,Start MasterPLC Thread..
+2023-08-26 11:42:26.139,,System,Normal,MasterPLC connected..
+2023-08-26 11:42:38.037,,System,Normal,CIM has been executed..
+2023-08-26 11:42:39.117,,System,Normal,Start MasterPLC Thread..
+2023-08-26 11:42:39.221,,System,Normal,MasterPLC connected..
+2023-08-26 11:42:53.820,,System,Normal,CIM has been executed..
+2023-08-26 11:42:54.340,,System,Normal,Start MasterPLC Thread..
+2023-08-26 11:42:54.449,,System,Normal,MasterPLC connected..
+2023-08-26 11:42:56.404,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 11:42:59.483,,IP01,Operator,Write BitPos[0] Value[False]
+2023-08-26 11:43:02.176,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 11:43:06.027,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 11:43:09.879,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 11:45:01.235,,System,Normal,CIM has been executed..
+2023-08-26 11:45:02.056,,System,Normal,Start MasterPLC Thread..
+2023-08-26 11:45:02.175,,System,Normal,MasterPLC connected..
+2023-08-26 11:45:04.906,,IP01,Operator,Write BitPos[0] Value[False]
+2023-08-26 11:45:06.832,,IP01,Operator,Write BitPos[2] Value[True]
+2023-08-26 11:45:11.447,,IP01,Operator,Write BitPos[2] Value[False]
+2023-08-26 11:45:23.732,,OP01,Operator,Write BitPos[33] Value[False]
+2023-08-26 11:45:28.349,,OP01,Operator,Write BitPos[33] Value[True]
+2023-08-26 11:45:31.817,,OP01,Operator,Write BitPos[33] Value[False]
+2023-08-26 11:45:37.967,,OP01,Operator,Write BitPos[34] Value[True]
+2023-08-26 11:45:40.669,,OP01,Operator,Write BitPos[34] Value[False]
+2023-08-26 12:39:36.227,,System,Normal,CIM has been executed..
+2023-08-26 12:39:36.493,,System,Normal,Start MasterPLC Thread..
+2023-08-26 12:39:38.634,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:39:45.789,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:39:52.921,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:40:00.072,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:40:07.212,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:40:14.353,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:40:21.501,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:40:28.650,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:40:35.776,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:40:42.904,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:40:50.041,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:40:57.172,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:41:04.287,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:41:11.431,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:41:18.588,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:41:25.737,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:41:32.880,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:41:40.009,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:41:47.171,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:41:49.713,,System,Normal,CIM Exit..
+2023-08-26 12:42:58.352,ReadXml,DB,Error,Xml load error. Message - Root element is missing.
+2023-08-26 12:42:58.445,,System,Normal,CIM has been executed..
+2023-08-26 12:42:58.666,,System,Normal,Start MasterPLC Thread..
+2023-08-26 12:43:00.806,,System,Error,MasterPLC Connect fail. [No connection could be made because the target machine actively refused it 127.0.0.1:8192]
+2023-08-26 12:43:06.775,,System,Normal,CIM Exit..
+2023-08-26 12:43:59.691,ReadXml,DB,Error,Xml load error. Message - Root element is missing.
+2023-08-26 12:44:00.931,ReadXml,DB,Error,Xml load error. Message - Root element is missing.
+2023-08-26 12:44:15.775,,System,Normal,CIM Exit..
+2023-08-26 12:44:15.775,ReadXml,DB,Error,Xml load error. Message - Root element is missing.
+2023-08-26 12:44:18.561,ReadXml,DB,Error,Xml load error. Message - Root element is missing.
+2023-08-26 12:44:19.981,,System,Normal,CIM Exit..
+2023-08-26 12:44:19.981,ReadXml,DB,Error,Xml load error. Message - Root element is missing.
+2023-08-26 12:47:06.848,,System,Normal,CIM has been executed..
+2023-08-26 12:47:07.098,,System,Normal,Start MasterPLC Thread..
+2023-08-26 12:47:07.209,,System,Normal,MasterPLC connected..
+2023-08-26 12:47:32.809,,System,Normal,CIM Exit..
+2023-08-26 12:48:53.603,ReadXml,DB,Error,Xml load error. Message - Root element is missing.
+2023-08-26 12:48:53.755,,System,Normal,CIM has been executed..
+2023-08-26 12:48:53.974,,System,Normal,Start MasterPLC Thread..
+2023-08-26 12:48:54.084,,System,Normal,MasterPLC connected..
+2023-08-26 12:49:34.092,,System,Normal,CIM Exit..
+2023-08-26 12:49:54.826,ReadXml,DB,Error,Xml load error. Message - Root element is missing.
+2023-08-26 12:50:04.673,ReadXml,DB,Error,Xml load error. Message - Root element is missing.
+2023-08-26 12:50:08.322,,System,Normal,CIM Exit..
+2023-08-26 12:50:08.338,ReadXml,DB,Error,Xml load error. Message - Root element is missing.
+2023-08-26 12:50:50.806,,System,Normal,CIM has been executed..
+2023-08-26 12:50:51.040,,System,Normal,Start MasterPLC Thread..
+2023-08-26 12:50:51.150,,System,Normal,MasterPLC connected..
+2023-08-26 12:51:16.239,,System,Normal,CIM Exit..
+2023-08-26 12:51:58.316,ReadXml,DB,Error,Xml load error. Message - Root element is missing.
+2023-08-26 12:51:58.503,,System,Normal,CIM has been executed..
+2023-08-26 12:51:58.722,,System,Normal,Start MasterPLC Thread..
+2023-08-26 12:51:58.831,,System,Normal,MasterPLC connected..
+2023-08-26 12:52:04.603,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 12:52:11.144,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 12:52:14.535,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 12:52:17.889,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 12:52:21.381,,System,Normal,CIM Exit..
+2023-08-26 12:52:41.638,ReadXml,DB,Error,Xml load error. Message - Unexpected end of file has occurred. The following elements are not closed: Port. NewDataSet. Line 299. position 2.
+2023-08-26 12:52:46.047,ReadXml,DB,Error,Xml load error. Message - Unexpected end of file has occurred. The following elements are not closed: Port. NewDataSet. Line 299. position 2.
+2023-08-26 12:52:48.401,,System,Normal,CIM Exit..
+2023-08-26 12:52:48.448,ReadXml,DB,Error,Xml load error. Message - Unexpected end of file has occurred. The following elements are not closed: Port. NewDataSet. Line 299. position 2.
+2023-08-26 12:53:17.478,,System,Normal,CIM has been executed..
+2023-08-26 12:53:17.712,,System,Normal,Start MasterPLC Thread..
+2023-08-26 12:53:17.822,,System,Normal,MasterPLC connected..
+2023-08-26 12:53:29.025,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 12:53:33.962,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 12:53:35.905,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 12:53:37.536,,IP01,Operator,Write BitPos[2] Value[True]
+2023-08-26 12:53:39.667,,IP01,Operator,Write BitPos[2] Value[True]
+2023-08-26 12:53:46.525,,OP01,Operator,Write BitPos[33] Value[True]
+2023-08-26 12:53:47.066,,OP01,Operator,Write BitPos[33] Value[True]
+2023-08-26 12:53:47.619,,OP01,Operator,Write BitPos[33] Value[True]
+2023-08-26 12:53:51.650,,OP01,Operator,Write BitPos[34] Value[True]
+2023-08-26 12:53:53.056,,OP01,Operator,Write BitPos[34] Value[True]
+2023-08-26 12:53:54.485,,OP01,Operator,Write BitPos[34] Value[True]
+2023-08-26 12:54:51.119,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 12:57:12.578,,System,Normal,CIM Exit..
+2023-08-26 12:59:21.764,,System,Normal,CIM has been executed..
+2023-08-26 12:59:22.014,,System,Normal,Start MasterPLC Thread..
+2023-08-26 12:59:22.123,,System,Normal,MasterPLC connected..
+2023-08-26 12:59:32.282,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 12:59:33.529,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 13:03:43.166,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 13:05:00.025,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 13:20:57.215,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 13:21:14.162,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 13:22:54.904,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 13:23:05.161,,IP01,Operator,Write BitPos[2] Value[True]
+2023-08-26 13:23:10.759,,OP01,Operator,Write BitPos[33] Value[True]
+2023-08-26 13:23:35.248,,OP01,Operator,Write BitPos[34] Value[True]
+2023-08-26 13:29:36.686,,System,Normal,CIM Exit..
+2023-08-26 13:31:38.420,,System,Normal,CIM has been executed..
+2023-08-26 13:31:38.664,,System,Normal,Start MasterPLC Thread..
+2023-08-26 13:31:38.777,,System,Normal,MasterPLC connected..
+2023-08-26 13:31:43.935,,System,Normal,CIM Exit..
+2023-08-26 13:32:06.296,,System,Normal,CIM has been executed..
+2023-08-26 13:32:06.546,,System,Normal,Start MasterPLC Thread..
+2023-08-26 13:32:06.656,,System,Normal,MasterPLC connected..
+2023-08-26 13:32:36.713,,System,Normal,CIM Exit..
+2023-08-26 13:35:09.095,,System,Normal,CIM has been executed..
+2023-08-26 13:35:09.329,,System,Normal,Start MasterPLC Thread..
+2023-08-26 13:35:09.439,,System,Normal,MasterPLC connected..
+2023-08-26 13:38:28.134,,System,Normal,CIM Exit..
+2023-08-26 13:40:42.812,,System,Normal,CIM has been executed..
+2023-08-26 13:40:43.062,,System,Normal,Start MasterPLC Thread..
+2023-08-26 13:40:43.172,,System,Normal,MasterPLC connected..
+2023-08-26 13:40:49.911,,System,Normal,CIM Exit..
+2023-08-26 13:49:03.996,,System,Normal,CIM has been executed..
+2023-08-26 13:49:04.246,,System,Normal,Start MasterPLC Thread..
+2023-08-26 13:49:04.356,,System,Normal,MasterPLC connected..
+2023-08-26 13:49:44.750,,System,Normal,CIM Exit..
+2023-08-26 13:50:31.901,,System,Normal,CIM has been executed..
+2023-08-26 13:50:32.135,,System,Normal,Start MasterPLC Thread..
+2023-08-26 13:50:32.244,,System,Normal,MasterPLC connected..
+2023-08-26 13:51:02.127,,System,Normal,CIM Exit..
+2023-08-26 13:52:53.557,,System,Normal,CIM has been executed..
+2023-08-26 13:52:53.776,,System,Normal,Start MasterPLC Thread..
+2023-08-26 13:52:53.885,,System,Normal,MasterPLC connected..
+2023-08-26 13:53:21.515,,System,Normal,CIM Exit..
+2023-08-26 13:53:54.303,,System,Normal,CIM has been executed..
+2023-08-26 13:53:54.538,,System,Normal,Start MasterPLC Thread..
+2023-08-26 13:53:54.648,,System,Normal,MasterPLC connected..
+2023-08-26 13:55:15.025,,System,Normal,CIM Exit..
+2023-08-26 13:55:25.168,,System,Normal,CIM has been executed..
+2023-08-26 13:55:25.402,,System,Normal,Start MasterPLC Thread..
+2023-08-26 13:55:25.511,,System,Normal,MasterPLC connected..
+2023-08-26 13:59:10.374,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 13:59:10.405,,Host,Normal,HSMS Connection Selected.
+2023-08-26 14:04:05.133,,System,Normal,CIM Exit..
+2023-08-26 14:07:17.083,,System,Normal,CIM has been executed..
+2023-08-26 14:07:17.322,,System,Normal,Start MasterPLC Thread..
+2023-08-26 14:07:17.431,,System,Normal,MasterPLC connected..
+2023-08-26 14:07:17.478,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 14:07:17.494,,Host,Normal,HSMS Connection Selected.
+2023-08-26 14:22:07.521,,System,Normal,CIM Exit..
+2023-08-26 14:25:11.297,,System,Normal,CIM has been executed..
+2023-08-26 14:25:11.531,,System,Normal,Start MasterPLC Thread..
+2023-08-26 14:25:11.641,,System,Normal,MasterPLC connected..
+2023-08-26 14:25:18.425,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 14:25:18.440,,Host,Normal,HSMS Connection Selected.
+2023-08-26 14:38:56.726,,System,Normal,MasterPLC connected..
+2023-08-26 14:39:02.416,,System,Normal,CIM Exit..
+2023-08-26 14:39:22.046,,System,Normal,CIM has been executed..
+2023-08-26 14:39:22.280,,System,Normal,Start MasterPLC Thread..
+2023-08-26 14:39:22.390,,System,Normal,MasterPLC connected..
+2023-08-26 14:39:24.634,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 14:39:24.642,,Host,Normal,HSMS Connection Selected.
+2023-08-26 14:56:41.142,,System,Normal,MasterPLC connected..
+2023-08-26 15:47:37.903,,System,Normal,MasterPLC connected..
+2023-08-26 16:00:24.956,,System,Normal,MasterPLC connected..
+2023-08-26 16:03:32.847,,System,Normal,MasterPLC connected..
+2023-08-26 16:14:15.208,,System,Normal,MasterPLC connected..
+2023-08-26 16:17:51.130,,System,Normal,MasterPLC connected..
+2023-08-26 16:27:51.764,,System,Normal,MasterPLC connected..
+2023-08-26 16:46:44.676,,System,Normal,MasterPLC connected..
+2023-08-26 16:49:20.060,,IP01,Operator,Write BitPos[0] Value[False]
+2023-08-26 16:49:21.400,,IP01,Operator,Write BitPos[2] Value[False]
+2023-08-26 16:49:22.526,,OP01,Operator,Write BitPos[33] Value[False]
+2023-08-26 16:49:23.088,,OP01,Operator,Write BitPos[34] Value[False]
+2023-08-26 16:49:25.948,,IP01,Operator,Write BitPos[0] Value[True]
+2023-08-26 16:49:28.431,,IP01,Operator,Write BitPos[2] Value[True]
+2023-08-26 16:49:44.344,,OP01,Operator,Write BitPos[33] Value[True]
+2023-08-26 16:49:47.379,,OP01,Operator,Write BitPos[34] Value[True]
+2023-08-26 16:49:49.838,,OP01,Operator,Write BitPos[33] Value[False]
+2023-08-26 16:50:00.482,,OP01,Operator,Write BitPos[33] Value[True]
+2023-08-26 16:50:28.601,,OP01,Operator,Write BitPos[33] Value[False]
+2023-08-26 16:50:29.567,,OP01,Operator,Write BitPos[34] Value[False]
+2023-08-26 16:50:30.557,,IP01,Operator,Write BitPos[0] Value[False]
+2023-08-26 16:50:30.971,,IP01,Operator,Write BitPos[2] Value[False]
+2023-08-26 17:34:05.619,,System,Normal,CIM Exit..
+2023-08-26 17:41:40.501,,System,Normal,CIM has been executed..
+2023-08-26 17:41:40.735,,System,Normal,Start MasterPLC Thread..
+2023-08-26 17:41:40.844,,System,Normal,MasterPLC connected..
+2023-08-26 17:41:41.048,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 17:41:41.063,,Host,Normal,HSMS Connection Selected.
+2023-08-26 17:41:56.759,,IP01,Operator,Write BitPos[2] Value[False]
+2023-08-26 17:46:08.588,,System,Normal,CIM Exit..
+2023-08-26 17:46:16.980,,System,Normal,CIM has been executed..
+2023-08-26 17:46:17.214,,System,Normal,Start MasterPLC Thread..
+2023-08-26 17:46:17.324,,System,Normal,MasterPLC connected..
+2023-08-26 17:46:18.777,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 17:46:18.808,,Host,Normal,HSMS Connection Selected.
+2023-08-26 17:57:46.058,,System,Normal,CIM Exit..
+2023-08-26 17:59:11.500,,System,Normal,CIM has been executed..
+2023-08-26 17:59:11.734,,System,Normal,Start MasterPLC Thread..
+2023-08-26 17:59:11.843,,System,Normal,MasterPLC connected..
+2023-08-26 17:59:20.510,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 17:59:20.542,,Host,Normal,HSMS Connection Selected.
+2023-08-26 18:18:26.598,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 18:18:26.601,,Host,Normal,HSMS Disconnected.
+2023-08-26 18:18:45.056,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 18:18:45.064,,Host,Normal,HSMS Connection Selected.
+2023-08-26 18:29:55.769,,Host,Normal,HSMS Disconnected.
+2023-08-26 18:32:45.134,,System,Normal,CIM has been executed..
+2023-08-26 18:32:45.415,,System,Normal,Start MasterPLC Thread..
+2023-08-26 18:32:45.525,,System,Normal,MasterPLC connected..
+2023-08-26 18:32:54.114,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 18:32:54.121,,Host,Normal,HSMS Connection Selected.
+2023-08-26 18:34:10.754,,System,Normal,MasterPLC connected..
+2023-08-26 18:39:09.182,,Host,Normal,HSMS Disconnected.
+2023-08-26 18:45:00.687,,System,Normal,CIM has been executed..
+2023-08-26 18:45:00.947,,System,Normal,Start MasterPLC Thread..
+2023-08-26 18:45:01.056,,System,Normal,MasterPLC connected..
+2023-08-26 18:45:01.103,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 18:45:01.119,,Host,Normal,HSMS Connection Selected.
+2023-08-26 18:45:21.939,,OP01,Operator,Write BitPos[34] Value[False]
+2023-08-26 18:45:22.963,,OP01,Operator,Write BitPos[33] Value[False]
+2023-08-26 18:50:41.215,,System,Normal,CIM Exit..
+2023-08-26 18:51:44.759,,System,Normal,CIM has been executed..
+2023-08-26 18:51:44.978,,System,Normal,Start MasterPLC Thread..
+2023-08-26 18:51:45.087,,System,Normal,MasterPLC connected..
+2023-08-26 18:51:51.596,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 18:51:51.596,,Host,Normal,HSMS Connection Selected.
+2023-08-26 18:55:29.913,,System,Normal,MasterPLC connected..
+2023-08-26 18:57:24.121,,System,Normal,CIM Exit..
+2023-08-26 18:57:38.913,,System,Normal,CIM has been executed..
+2023-08-26 18:57:39.152,,System,Normal,Start MasterPLC Thread..
+2023-08-26 18:57:39.263,,System,Normal,MasterPLC connected..
+2023-08-26 18:57:46.280,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 18:57:46.280,,Host,Normal,HSMS Connection Selected.
+2023-08-26 18:59:14.855,,System,Normal,CIM Exit..
+2023-08-26 18:59:40.931,,System,Normal,CIM has been executed..
+2023-08-26 18:59:41.166,,System,Normal,Start MasterPLC Thread..
+2023-08-26 18:59:41.275,,System,Normal,MasterPLC connected..
+2023-08-26 18:59:49.100,,Host,Normal,HSMS Connected NotSelected.
+2023-08-26 18:59:49.100,,Host,Normal,HSMS Connection Selected.

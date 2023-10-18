@@ -1,0 +1,25 @@
+Time,Name,Type,MsgType,Text
+2023-08-29 08:19:57.293,Connection,EFEM,Normal,Opned.
+2023-08-29 10:57:29.532,Connection,EFEM,Normal,Opned.
+2023-08-29 11:20:06.762,Connection,EFEM,Normal,Connected.
+2023-08-29 12:48:16.834,Connection,EFEM,Normal,Opned.
+2023-08-29 13:59:43.343,Connection,EFEM,Normal,Opned.
+2023-08-29 14:09:30.434,Connection,EFEM,Normal,Opned.
+2023-08-29 14:12:27.979,Connection,EFEM,Normal,Opned.
+2023-08-29 14:23:17.103,Connection,EFEM,Normal,Opned.
+2023-08-29 14:25:34.286,Connection,EFEM,Normal,Opned.
+2023-08-29 14:46:24.192,Connection,EFEM,Normal,Opned.
+2023-08-29 14:56:22.286,Connection,EFEM,Normal,Connected.
+2023-08-29 15:37:37.539,Connection,EFEM,Normal,Opned.
+2023-08-29 15:39:38.404,Connection,EFEM,Error,Open fail.
+2023-08-29 15:41:54.083,Connection,EFEM,Error,Open fail.
+2023-08-29 15:42:41.788,Connection,EFEM,Error,Open fail.
+2023-08-29 15:44:41.646,Connection,EFEM,Error,Open fail.
+2023-08-29 15:47:22.346,Connection,EFEM,Normal,Opned.
+2023-08-29 18:30:33.263,Connection,EFEM,Error,Open fail.
+2023-08-29 18:31:13.363,Connection,EFEM,Normal,Opned.
+2023-08-29 18:33:57.568,Connection,EFEM,Normal,Opned.
+2023-08-29 20:21:46.647,Connection,EFEM,Normal,Opned.
+2023-08-29 20:21:52.272,Connection,EFEM,Normal,Connected.
+2023-08-29 20:22:22.268,Send,EFEM,Normal,{"COMMAND":"GLASS_DATA_REPORT_REQUEST"."HANDOVER_PORT":"port1"."GLASS_INFO":{"CARRIER_ID":""."PORT_ID":0."LOT_ID":""."GLASS_ID":"GLASS-1"."SLOT_NO":0."MAPPED_GLASSCOUNT":0."THIS_GLASSORDER":0."USAGE":""."PROCESS_STATE":0."FLIP_INFO":""."PPID":"\u0001"}}
+2023-08-29 20:22:22.402,Receive,EFEM,Normal,{"COMMAND":"GLASS_DATA_REPORT_RESPONSE"}

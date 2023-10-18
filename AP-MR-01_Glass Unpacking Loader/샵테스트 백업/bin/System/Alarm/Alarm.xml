@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<AlarmManager>
+  <AlarmBooth>		<AlarmUnit UnitID="AP-MR-01">
+			<AlarmItem>	<ID>1</ID>	<Offset>0</Offset>	<ALCD>2</ALCD>	<ALTX>MCP EMO Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>2</ID>	<Offset>1</Offset>	<ALCD>2</ALCD>	<ALTX>MCP LoadEMO     Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>3</ID>	<Offset>2</Offset>	<ALCD>2</ALCD>	<ALTX>SMPS1   Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>4</ID>	<Offset>3</Offset>	<ALCD>2</ALCD>	<ALTX>SMPS2   Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>5</ID>	<Offset>4</Offset>	<ALCD>2</ALCD>	<ALTX>SMPS3   Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>6</ID>	<Offset>5</Offset>	<ALCD>2</ALCD>	<ALTX>SMPS4   Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>7</ID>	<Offset>6</Offset>	<ALCD>2</ALCD>	<ALTX>MCP     Power   Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>8</ID>	<Offset>7</Offset>	<ALCD>2</ALCD>	<ALTX>UMCCB   Trip</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>9</ID>	<Offset>8</Offset>	<ALCD>2</ALCD>	<ALTX>MCCB    Trip</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>10</ID>	<Offset>9</Offset>	<ALCD>2</ALCD>	<ALTX>Panel   DC PowerCP Trip</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>11</ID>	<Offset>10</Offset>	<ALCD>2</ALCD>	<ALTX>Remote  DC PowerCP Trip</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>12</ID>	<Offset>11</Offset>	<ALCD>2</ALCD>	<ALTX>Safety  PLC     CP Trip</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>13</ID>	<Offset>12</Offset>	<ALCD>2</ALCD>	<ALTX>PLC     Power   CP Trip</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>14</ID>	<Offset>13</Offset>	<ALCD>2</ALCD>	<ALTX>MC 01 02Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>15</ID>	<Offset>14</Offset>	<ALCD>2</ALCD>	<ALTX>Smoke   Detect</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>16</ID>	<Offset>15</Offset>	<ALCD>2</ALCD>	<ALTX>Panel   Fan01   Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>17</ID>	<Offset>16</Offset>	<ALCD>2</ALCD>	<ALTX>Panel   Fan02   Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>18</ID>	<Offset>17</Offset>	<ALCD>2</ALCD>	<ALTX>Panel   Fan03   Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>19</ID>	<Offset>18</Offset>	<ALCD>2</ALCD>	<ALTX>Panel   Fan04   Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>20</ID>	<Offset>19</Offset>	<ALCD>2</ALCD>	<ALTX>OP01    Door    Open</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>21</ID>	<Offset>20</Offset>	<ALCD>2</ALCD>	<ALTX>IP01    Door    Open</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>22</ID>	<Offset>21</Offset>	<ALCD>2</ALCD>	<ALTX>BF01    Door    Open</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>23</ID>	<Offset>22</Offset>	<ALCD>2</ALCD>	<ALTX>USC01   Door    Open</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>24</ID>	<Offset>23</Offset>	<ALCD>2</ALCD>	<ALTX>OP01    L.Cover Open</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>25</ID>	<Offset>24</Offset>	<ALCD>2</ALCD>	<ALTX>iP01    L.Cover Open</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>26</ID>	<Offset>25</Offset>	<ALCD>2</ALCD>	<ALTX>BF01    L.Cover Open</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>27</ID>	<Offset>26</Offset>	<ALCD>2</ALCD>	<ALTX>USC01   L.Cover Open</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>28</ID>	<Offset>27</Offset>	<ALCD>2</ALCD>	<ALTX>CC-LINK Running PowerOFFERROR</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>30</ID>	<Offset>29</Offset>	<ALCD>2</ALCD>	<ALTX>TEACH   KEY Err when changing AutoMode</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>31</ID>	<Offset>30</Offset>	<ALCD>2</ALCD>	<ALTX>MCP AutoKey StopError</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>32</ID>	<Offset>31</Offset>	<ALCD>2</ALCD>	<ALTX>Light   Curtain ERROR</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>33</ID>	<Offset>32</Offset>	<ALCD>2</ALCD>	<ALTX>OP01    UNDER   DOOR    OPEN</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>34</ID>	<Offset>33</Offset>	<ALCD>2</ALCD>	<ALTX>IP01    UNDER   DOOR    OPEN</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>35</ID>	<Offset>34</Offset>	<ALCD>2</ALCD>	<ALTX>BF01    UNDER   DOOR    OPEN</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>36</ID>	<Offset>35</Offset>	<ALCD>2</ALCD>	<ALTX>SC01    UNDER   DOOR    OPEN</ALTX>	</AlarmItem>
+		</AlarmUnit>
+  </AlarmBooth>
+  
+  <AlarmTrack>
+		<AlarmUnit UnitID="IP01">
+			<AlarmItem>	<ID>161</ID>	<Offset>0</Offset>	<ALCD>2</ALCD>	<ALTX>IP01 EMO Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>162</ID>	<Offset>1</Offset>	<ALCD>2</ALCD>	<ALTX>IP01    Auto KeyStop    Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>166</ID>	<Offset>5</Offset>	<ALCD>2</ALCD>	<ALTX>Glass   Tray    Inplace NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>167</ID>	<Offset>6</Offset>	<ALCD>2</ALCD>	<ALTX>IP Port Tray    Cover   Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>171</ID>	<Offset>10</Offset>	<ALCD>2</ALCD>	<ALTX>IP Port InverterError</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>172</ID>	<Offset>11</Offset>	<ALCD>2</ALCD>	<ALTX>IP Tray Detect  TimeOver</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>246</ID>	<Offset>85</Offset>	<ALCD>2</ALCD>	<ALTX>Glass   Tray UP Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>247</ID>	<Offset>86</Offset>	<ALCD>2</ALCD>	<ALTX>Glass   Tray DN Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>248</ID>	<Offset>87</Offset>	<ALCD>2</ALCD>	<ALTX>Glass   Tray FW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>249</ID>	<Offset>88</Offset>	<ALCD>2</ALCD>	<ALTX>Glass   Tray BW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>250</ID>	<Offset>89</Offset>	<ALCD>2</ALCD>	<ALTX>Glass   Holder  FW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>251</ID>	<Offset>90</Offset>	<ALCD>2</ALCD>	<ALTX>Glass   Holder  BW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>252</ID>	<Offset>91</Offset>	<ALCD>2</ALCD>	<ALTX>Glass   Tray    Inplace NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>255</ID>	<Offset>94</Offset>	<ALCD>2</ALCD>	<ALTX>Glass   Tray    Detect  TimeOver</ALTX>	</AlarmItem>
+		</AlarmUnit>
+		<AlarmUnit UnitID="OP01">
+			<AlarmItem>	<ID>321</ID>	<Offset>0</Offset>	<ALCD>2</ALCD>	<ALTX>OP01    EMO     Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>322</ID>	<Offset>1</Offset>	<ALCD>2</ALCD>	<ALTX>OP01    Auto KeyStop    Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>331</ID>	<Offset>10</Offset>	<ALCD>2</ALCD>	<ALTX>Paper   Tray    Inplace NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>332</ID>	<Offset>11</Offset>	<ALCD>2</ALCD>	<ALTX>OP Port Tray    Cover   Off</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>336</ID>	<Offset>15</Offset>	<ALCD>2</ALCD>	<ALTX>OP Port InverterError</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>337</ID>	<Offset>16</Offset>	<ALCD>2</ALCD>	<ALTX>OP Tray Detect  TimeOver</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>406</ID>	<Offset>85</Offset>	<ALCD>2</ALCD>	<ALTX>Paper   Tray UP Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>407</ID>	<Offset>86</Offset>	<ALCD>2</ALCD>	<ALTX>Paper   Tray DN Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>408</ID>	<Offset>87</Offset>	<ALCD>2</ALCD>	<ALTX>Paper   Tray FW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>409</ID>	<Offset>88</Offset>	<ALCD>2</ALCD>	<ALTX>Paper   Tray BW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>410</ID>	<Offset>89</Offset>	<ALCD>2</ALCD>	<ALTX>Paper   Holder  FW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>411</ID>	<Offset>90</Offset>	<ALCD>2</ALCD>	<ALTX>Paper   Holder  BW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>412</ID>	<Offset>91</Offset>	<ALCD>2</ALCD>	<ALTX>Paper   Tray    Inplace NG</ALTX>	</AlarmItem>
+		</AlarmUnit>
+		<AlarmUnit UnitID="TM01">
+			<AlarmItem>	<ID>482</ID>	<Offset>1</Offset>	<ALCD>2</ALCD>	<ALTX>HOSIT   DOWN    TRAVEL  JOG ERR</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>486</ID>	<Offset>5</Offset>	<ALCD>2</ALCD>	<ALTX>Glass   Vacuum  On NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>487</ID>	<Offset>6</Offset>	<ALCD>2</ALCD>	<ALTX>Glass   Vacuum  Off NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>488</ID>	<Offset>7</Offset>	<ALCD>2</ALCD>	<ALTX>TM GlassDetect  NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>491</ID>	<Offset>10</Offset>	<ALCD>2</ALCD>	<ALTX>Paper   Vacuum  On NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>492</ID>	<Offset>11</Offset>	<ALCD>2</ALCD>	<ALTX>Paper   Vacuum  Off NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>493</ID>	<Offset>12</Offset>	<ALCD>2</ALCD>	<ALTX>TM PaperDetect  NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>501</ID>	<Offset>20</Offset>	<ALCD>2</ALCD>	<ALTX>TM_X    Origin  Lost</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>502</ID>	<Offset>21</Offset>	<ALCD>2</ALCD>	<ALTX>TM_X    +Limit  Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>503</ID>	<Offset>22</Offset>	<ALCD>2</ALCD>	<ALTX>TM_X    -Limit  Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>504</ID>	<Offset>23</Offset>	<ALCD>2</ALCD>	<ALTX>TM_X    Axis    Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>505</ID>	<Offset>24</Offset>	<ALCD>2</ALCD>	<ALTX>TM_X    Servo   Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>506</ID>	<Offset>25</Offset>	<ALCD>2</ALCD>	<ALTX>TM_X    Left PosNG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>507</ID>	<Offset>26</Offset>	<ALCD>2</ALCD>	<ALTX>TM_X    RightPosNG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>511</ID>	<Offset>30</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z1   Origin  Lost</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>512</ID>	<Offset>31</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z1   +Limit  Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>513</ID>	<Offset>32</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z1   -Limit  Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>514</ID>	<Offset>33</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z1   Axis    Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>515</ID>	<Offset>34</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z1   Servo   Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>516</ID>	<Offset>35</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z1   UP Pos  NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>517</ID>	<Offset>36</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z1   DN Pos  NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>521</ID>	<Offset>40</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z2   Origin  Lost</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>522</ID>	<Offset>41</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z2   +Limit  Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>523</ID>	<Offset>42</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z2   -Limit  Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>524</ID>	<Offset>43</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z2   Axis    Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>525</ID>	<Offset>44</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z2   Servo   Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>526</ID>	<Offset>45</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z2   UP Pos  NG</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>527</ID>	<Offset>46</Offset>	<ALCD>2</ALCD>	<ALTX>TM_Z2   DN Pos  NG</ALTX>	</AlarmItem>
+		</AlarmUnit>
+		<AlarmUnit UnitID="BF01">
+			<AlarmItem>	<ID>641</ID>	<Offset>0</Offset>	<ALCD>2</ALCD>	<ALTX>BF Auto Cent'g  FWD     Detect</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>646</ID>	<Offset>5</Offset>	<ALCD>2</ALCD>	<ALTX>BF      Cent'g  FW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>647</ID>	<Offset>6</Offset>	<ALCD>2</ALCD>	<ALTX>BF      Cent'g  BW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>648</ID>	<Offset>7</Offset>	<ALCD>2</ALCD>	<ALTX>BF GlassCrack   Detect</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>651</ID>	<Offset>10</Offset>	<ALCD>2</ALCD>	<ALTX>BF      InverterError</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>652</ID>	<Offset>11</Offset>	<ALCD>2</ALCD>	<ALTX>BF      Glass   Out     TimeOver</ALTX>	</AlarmItem>
+		</AlarmUnit>
+		<AlarmUnit UnitID="USC01">
+			<AlarmItem>	<ID>801</ID>	<Offset>0</Offset>	<ALCD>2</ALCD>	<ALTX>USC     Auto    PIN UP  Detect</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>802</ID>	<Offset>1</Offset>	<ALCD>2</ALCD>	<ALTX>USCAuto Cent'g  FWD     Detect</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>806</ID>	<Offset>5</Offset>	<ALCD>2</ALCD>	<ALTX>USC     Cent'g  FW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>807</ID>	<Offset>6</Offset>	<ALCD>2</ALCD>	<ALTX>USC     Cent'g  BW Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>808</ID>	<Offset>7</Offset>	<ALCD>2</ALCD>	<ALTX>USC     Pin UP  Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>809</ID>	<Offset>8</Offset>	<ALCD>2</ALCD>	<ALTX>USC     Pin DN  Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>811</ID>	<Offset>10</Offset>	<ALCD>2</ALCD>	<ALTX>USC     InverterError</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>812</ID>	<Offset>11</Offset>	<ALCD>2</ALCD>	<ALTX>USC     Glass   Stop    TimeOver</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>813</ID>	<Offset>12</Offset>	<ALCD>2</ALCD>	<ALTX>USC     Glass   Out     TimeOver</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>814</ID>	<Offset>13</Offset>	<ALCD>2</ALCD>	<ALTX>USC     MANUAL  JOG     ERROR</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>821</ID>	<Offset>20</Offset>	<ALCD>2</ALCD>	<ALTX>USC1    Control EMO     Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>822</ID>	<Offset>21</Offset>	<ALCD>2</ALCD>	<ALTX>USC1    Control InverterError</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>823</ID>	<Offset>22</Offset>	<ALCD>2</ALCD>	<ALTX>USC1    Control Temp    Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>824</ID>	<Offset>23</Offset>	<ALCD>2</ALCD>	<ALTX>USC1    Control U.Press Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>825</ID>	<Offset>24</Offset>	<ALCD>2</ALCD>	<ALTX>USC1    Control V.Press Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>831</ID>	<Offset>30</Offset>	<ALCD>2</ALCD>	<ALTX>USC2    Control EMO     Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>832</ID>	<Offset>31</Offset>	<ALCD>2</ALCD>	<ALTX>USC2    Control InverterError</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>833</ID>	<Offset>32</Offset>	<ALCD>2</ALCD>	<ALTX>USC2    Control Temp    Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>834</ID>	<Offset>33</Offset>	<ALCD>2</ALCD>	<ALTX>USC2    Control U.Press Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>835</ID>	<Offset>34</Offset>	<ALCD>2</ALCD>	<ALTX>USC2    Control V.Press Error</ALTX>	</AlarmItem>
+			<AlarmItem>	<ID>841</ID>	<Offset>40</Offset>	<ALCD>2</ALCD>	<ALTX>EFEM I/FNG</ALTX>	</AlarmItem>
+		</AlarmUnit>
+  </AlarmTrack>
+</AlarmManager>

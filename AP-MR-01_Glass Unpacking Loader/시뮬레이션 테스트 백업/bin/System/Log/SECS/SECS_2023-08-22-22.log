@@ -1,0 +1,299 @@
+2023-08-22 22:00:15,934[INFO ]:Queued SECS2 Message : S1F13
+2023-08-22 22:00:15,950[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-08-22 22:00:15,953[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [14] "1.0.8634.39603">
+>
+2023-08-22 22:00:16,088[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-22 22:00:16,089[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-08-22 22:00:29,518[INFO ]:RECV SECS2 Message : SSID(0), B2(130), B3(41), P(0), S(0), SB(28,433), Length[11]
+2023-08-22 22:00:29,518[DEBUG]:<<<S2F41 W<<<  
+<L [2] 
+    <A [5] "PAUSE">
+    <L [0] >
+>
+2023-08-22 22:00:29,587[INFO ]:Queued SECS2 Message : S2F42
+2023-08-22 22:00:29,626[INFO ]:SENT SECS2 Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(28,433)
+2023-08-22 22:00:29,627[INFO ]:>>>S2F42>>>  
+<L [2] 
+    <B [1] 04 >
+    <L [0] >
+>
+2023-08-22 22:00:35,694[INFO ]:RECV SECS2 Message : SSID(0), B2(130), B3(41), P(0), S(0), SB(28,435), Length[12]
+2023-08-22 22:00:35,694[DEBUG]:<<<S2F41 W<<<  
+<L [2] 
+    <A [6] "RESUME">
+    <L [0] >
+>
+2023-08-22 22:00:35,696[INFO ]:Queued SECS2 Message : S2F42
+2023-08-22 22:00:35,741[INFO ]:SENT SECS2 Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(28,435)
+2023-08-22 22:00:35,742[INFO ]:>>>S2F42>>>  
+<L [2] 
+    <B [1] 04 >
+    <L [0] >
+>
+2023-08-22 22:00:39,670[INFO ]:Queued SECS2 Message : S6F11
+2023-08-22 22:00:39,728[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(2)
+2023-08-22 22:00:39,729[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1051 >
+            <L [2] 
+                <U2 [1] `EqpState` 1 >
+                <U2 [1] `PreviousEqpState` 4 >
+            >
+        >
+    >
+>
+2023-08-22 22:00:39,762[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-08-22 22:00:39,762[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-22 22:00:57,472[INFO ]:RECV SECS2 Message : SSID(0), B2(130), B3(41), P(0), S(0), SB(28,439), Length[11]
+2023-08-22 22:00:57,472[DEBUG]:<<<S2F41 W<<<  
+<L [2] 
+    <A [5] "PAUSE">
+    <L [0] >
+>
+2023-08-22 22:00:57,473[INFO ]:Queued SECS2 Message : S2F42
+2023-08-22 22:00:57,518[INFO ]:SENT SECS2 Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(28,439)
+2023-08-22 22:00:57,518[INFO ]:>>>S2F42>>>  
+<L [2] 
+    <B [1] 04 >
+    <L [0] >
+>
+2023-08-22 22:00:58,224[INFO ]:Queued SECS2 Message : S6F11
+2023-08-22 22:00:58,255[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(3)
+2023-08-22 22:00:58,255[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1051 >
+            <L [2] 
+                <U2 [1] `EqpState` 4 >
+                <U2 [1] `PreviousEqpState` 1 >
+            >
+        >
+    >
+>
+2023-08-22 22:00:58,315[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(3), Length[3]
+2023-08-22 22:00:58,315[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-22 22:01:01,972[INFO ]:RECV SECS2 Message : SSID(0), B2(130), B3(41), P(0), S(0), SB(28,443), Length[12]
+2023-08-22 22:01:01,972[DEBUG]:<<<S2F41 W<<<  
+<L [2] 
+    <A [6] "RESUME">
+    <L [0] >
+>
+2023-08-22 22:01:01,972[INFO ]:Queued SECS2 Message : S2F42
+2023-08-22 22:01:02,034[INFO ]:SENT SECS2 Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(28,443)
+2023-08-22 22:01:02,034[INFO ]:>>>S2F42>>>  
+<L [2] 
+    <B [1] 04 >
+    <L [0] >
+>
+2023-08-22 22:01:05,580[INFO ]:Queued SECS2 Message : S6F11
+2023-08-22 22:01:05,642[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(4)
+2023-08-22 22:01:05,642[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1051 >
+            <L [2] 
+                <U2 [1] `EqpState` 1 >
+                <U2 [1] `PreviousEqpState` 4 >
+            >
+        >
+    >
+>
+2023-08-22 22:01:05,716[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(4), Length[3]
+2023-08-22 22:01:05,716[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-22 22:01:27,462[INFO ]:RECV SECS2 Message : SSID(0), B2(130), B3(41), P(0), S(0), SB(28,447), Length[11]
+2023-08-22 22:01:27,462[DEBUG]:<<<S2F41 W<<<  
+<L [2] 
+    <A [5] "PAUSE">
+    <L [0] >
+>
+2023-08-22 22:01:27,464[INFO ]:Queued SECS2 Message : S2F42
+2023-08-22 22:01:27,509[INFO ]:SENT SECS2 Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(28,447)
+2023-08-22 22:01:27,509[INFO ]:>>>S2F42>>>  
+<L [2] 
+    <B [1] 04 >
+    <L [0] >
+>
+2023-08-22 22:01:28,336[INFO ]:Queued SECS2 Message : S6F11
+2023-08-22 22:01:28,367[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(5)
+2023-08-22 22:01:28,367[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1051 >
+            <L [2] 
+                <U2 [1] `EqpState` 4 >
+                <U2 [1] `PreviousEqpState` 1 >
+            >
+        >
+    >
+>
+2023-08-22 22:01:28,395[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(5), Length[3]
+2023-08-22 22:01:28,395[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-22 22:01:33,792[INFO ]:RECV SECS2 Message : SSID(0), B2(130), B3(41), P(0), S(0), SB(28,451), Length[12]
+2023-08-22 22:01:33,793[DEBUG]:<<<S2F41 W<<<  
+<L [2] 
+    <A [6] "RESUME">
+    <L [0] >
+>
+2023-08-22 22:01:33,793[INFO ]:Queued SECS2 Message : S2F42
+2023-08-22 22:01:33,853[INFO ]:SENT SECS2 Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(28,451)
+2023-08-22 22:01:33,853[INFO ]:>>>S2F42>>>  
+<L [2] 
+    <B [1] 04 >
+    <L [0] >
+>
+2023-08-22 22:01:37,733[INFO ]:Queued SECS2 Message : S6F11
+2023-08-22 22:01:37,763[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(6)
+2023-08-22 22:01:37,763[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1051 >
+            <L [2] 
+                <U2 [1] `EqpState` 1 >
+                <U2 [1] `PreviousEqpState` 4 >
+            >
+        >
+    >
+>
+2023-08-22 22:01:37,840[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(6), Length[3]
+2023-08-22 22:01:37,840[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-22 22:04:16,700[INFO ]:Queued SECS2 Message : S1F13
+2023-08-22 22:04:16,742[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-08-22 22:04:16,746[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [14] "1.0.8634.39724">
+>
+2023-08-22 22:04:16,772[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-22 22:04:16,774[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-08-22 22:04:20,448[INFO ]:RECV SECS2 Message : SSID(0), B2(130), B3(41), P(0), S(0), SB(28,481), Length[11]
+2023-08-22 22:04:20,448[DEBUG]:<<<S2F41 W<<<  
+<L [2] 
+    <A [5] "PAUSE">
+    <L [0] >
+>
+2023-08-22 22:04:20,468[INFO ]:Queued SECS2 Message : S2F42
+2023-08-22 22:04:20,525[INFO ]:SENT SECS2 Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(28,481)
+2023-08-22 22:04:20,525[INFO ]:>>>S2F42>>>  
+<L [2] 
+    <B [1] 04 >
+    <L [0] >
+>
+2023-08-22 22:04:21,179[INFO ]:Queued SECS2 Message : S6F11
+2023-08-22 22:04:21,194[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(2)
+2023-08-22 22:04:21,195[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1051 >
+            <L [2] 
+                <U2 [1] `EqpState` 4 >
+                <U2 [1] `PreviousEqpState` 1 >
+            >
+        >
+    >
+>
+2023-08-22 22:04:21,227[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-08-22 22:04:21,227[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-22 22:04:24,732[INFO ]:RECV SECS2 Message : SSID(0), B2(130), B3(41), P(0), S(0), SB(28,485), Length[12]
+2023-08-22 22:04:24,732[DEBUG]:<<<S2F41 W<<<  
+<L [2] 
+    <A [6] "RESUME">
+    <L [0] >
+>
+2023-08-22 22:04:24,733[INFO ]:Queued SECS2 Message : S2F42
+2023-08-22 22:04:24,791[INFO ]:SENT SECS2 Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(28,485)
+2023-08-22 22:04:24,791[INFO ]:>>>S2F42>>>  
+<L [2] 
+    <B [1] 04 >
+    <L [0] >
+>
+2023-08-22 22:04:28,536[INFO ]:Queued SECS2 Message : S6F11
+2023-08-22 22:04:28,583[INFO ]:SENT SECS2 Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(3)
+2023-08-22 22:04:28,583[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [1] 
+        <L [2] 
+            <U4 [1] 1051 >
+            <L [2] 
+                <U2 [1] `EqpState` 1 >
+                <U2 [1] `PreviousEqpState` 4 >
+            >
+        >
+    >
+>
+2023-08-22 22:04:28,629[INFO ]:RECV SECS2 Message : SSID(0), B2(6), B3(12), P(0), S(0), SB(3), Length[3]
+2023-08-22 22:04:28,629[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-08-22 22:06:11,600[INFO ]:RECV SECS2 Message : SSID(0), B2(130), B3(41), P(0), S(0), SB(28,501), Length[25]
+2023-08-22 22:06:11,600[DEBUG]:<<<S2F41 W<<<  
+<L [2] 
+    <A [6] "BUZZER">
+    <L [1] 
+        <L [2] 
+            <A [6] "SIGNAL">
+            <A [1] "1">
+        >
+    >
+>
+2023-08-22 22:06:11,604[INFO ]:Queued SECS2 Message : S2F42
+2023-08-22 22:06:11,660[INFO ]:SENT SECS2 Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(28,501)
+2023-08-22 22:06:11,660[INFO ]:>>>S2F42>>>  
+<L [2] 
+    <B [1] 04 >
+    <L [0] >
+>
+2023-08-22 22:08:18,557[INFO ]:RECV SECS2 Message : SSID(0), B2(130), B3(41), P(0), S(0), SB(28,517), Length[25]
+2023-08-22 22:08:18,557[DEBUG]:<<<S2F41 W<<<  
+<L [2] 
+    <A [6] "BUZZER">
+    <L [1] 
+        <L [2] 
+            <A [6] "SIGNAL">
+            <A [1] "1">
+        >
+    >
+>
+2023-08-22 22:08:18,559[INFO ]:Queued SECS2 Message : S2F42
+2023-08-22 22:08:18,604[INFO ]:SENT SECS2 Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(28,517)
+2023-08-22 22:08:18,604[INFO ]:>>>S2F42>>>  
+<L [2] 
+    <B [1] 04 >
+    <L [0] >
+>

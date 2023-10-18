@@ -1,0 +1,807 @@
+Time,Name,Type,MsgType,Text
+2023-08-29 08:19:57.380,,System,Normal,CIM has been executed..
+2023-08-29 08:19:57.870,,System,Normal,Start MasterPLC Thread..
+2023-08-29 08:19:57.976,,System,Normal,MasterPLC connected..
+2023-08-29 08:20:06.692,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 08:20:06.702,,Host,Normal,HSMS Connection Selected.
+2023-08-29 08:33:33.355,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 08:33:33.357,,Host,Normal,HSMS Disconnected.
+2023-08-29 08:33:47.359,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 08:33:47.365,,Host,Normal,HSMS Connection Selected.
+2023-08-29 10:57:29.652,,System,Normal,CIM has been executed..
+2023-08-29 10:57:30.194,,System,Normal,Start MasterPLC Thread..
+2023-08-29 10:57:30.314,,System,Normal,MasterPLC connected..
+2023-08-29 10:57:30.787,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 10:57:30.801,,Host,Normal,HSMS Connection Selected.
+2023-08-29 10:57:46.903,eTrackStep,IP01,Normal,none
+2023-08-29 11:05:29.273,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 11:05:29.276,,Host,Normal,HSMS Disconnected.
+2023-08-29 11:06:43.540,eTrackStep,IP01,Normal,none
+2023-08-29 11:06:43.708,eTrackStep,DEV01,Normal,none
+2023-08-29 11:06:43.784,eTrackStep,RS01,Normal,none
+2023-08-29 11:06:43.861,eTrackStep,RS02,Normal,none
+2023-08-29 11:06:43.939,eTrackStep,RS03,Normal,none
+2023-08-29 11:06:44.014,eTrackStep,RS04,Normal,none
+2023-08-29 11:06:44.092,eTrackStep,RS05,Normal,none
+2023-08-29 11:06:44.153,eTrackStep,AK01,Normal,none
+2023-08-29 11:06:44.168,eTrackStep,BF01,Normal,none
+2023-08-29 11:06:44.183,eTrackStep,LF01,Normal,none
+2023-08-29 11:06:44.198,eTrackStep,UCV01,Normal,none
+2023-08-29 11:06:44.213,eTrackStep,UCV02,Normal,none
+2023-08-29 11:06:44.229,eTrackStep,UCV03,Normal,none
+2023-08-29 11:06:44.244,eTrackStep,UCV04,Normal,none
+2023-08-29 11:06:44.259,eTrackStep,UCV05,Normal,none
+2023-08-29 11:06:44.275,eTrackStep,OP01,Normal,none
+2023-08-29 11:08:33.812,eTrackStep,IP01,Normal,none
+2023-08-29 11:08:33.980,eTrackStep,DEV01,Normal,none
+2023-08-29 11:08:34.056,eTrackStep,RS01,Normal,none
+2023-08-29 11:08:34.132,eTrackStep,RS02,Normal,none
+2023-08-29 11:08:34.210,eTrackStep,RS03,Normal,none
+2023-08-29 11:08:34.288,eTrackStep,RS04,Normal,none
+2023-08-29 11:08:34.365,eTrackStep,RS05,Normal,none
+2023-08-29 11:08:34.427,eTrackStep,AK01,Normal,none
+2023-08-29 11:08:34.442,eTrackStep,BF01,Normal,none
+2023-08-29 11:08:34.458,eTrackStep,LF01,Normal,none
+2023-08-29 11:08:34.473,eTrackStep,UCV01,Normal,none
+2023-08-29 11:08:34.489,eTrackStep,UCV02,Normal,none
+2023-08-29 11:08:34.503,eTrackStep,UCV03,Normal,none
+2023-08-29 11:08:34.518,eTrackStep,UCV04,Normal,none
+2023-08-29 11:08:34.533,eTrackStep,UCV05,Normal,none
+2023-08-29 11:08:34.549,eTrackStep,OP01,Normal,none
+2023-08-29 11:10:28.366,eTrackStep,IP01,Normal,none
+2023-08-29 11:10:28.535,eTrackStep,DEV01,Normal,none
+2023-08-29 11:10:28.611,eTrackStep,RS01,Normal,none
+2023-08-29 11:10:28.688,eTrackStep,RS02,Normal,none
+2023-08-29 11:10:28.765,eTrackStep,RS03,Normal,none
+2023-08-29 11:10:28.842,eTrackStep,RS04,Normal,none
+2023-08-29 11:10:28.919,eTrackStep,RS05,Normal,none
+2023-08-29 11:10:28.981,eTrackStep,AK01,Normal,none
+2023-08-29 11:10:28.997,eTrackStep,BF01,Normal,none
+2023-08-29 11:10:29.012,eTrackStep,LF01,Normal,none
+2023-08-29 11:10:29.028,eTrackStep,UCV01,Normal,none
+2023-08-29 11:10:29.043,eTrackStep,UCV02,Normal,none
+2023-08-29 11:10:29.059,eTrackStep,UCV03,Normal,none
+2023-08-29 11:10:29.074,eTrackStep,UCV04,Normal,none
+2023-08-29 11:10:29.089,eTrackStep,UCV05,Normal,none
+2023-08-29 11:10:29.105,eTrackStep,OP01,Normal,none
+2023-08-29 12:48:16.946,,System,Normal,CIM has been executed..
+2023-08-29 12:48:17.747,,System,Normal,Start MasterPLC Thread..
+2023-08-29 12:48:17.863,,System,Normal,MasterPLC connected..
+2023-08-29 12:48:19.254,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 12:48:19.270,,Host,Normal,HSMS Connection Selected.
+2023-08-29 12:48:25.902,,System,Error,Invalid SubHeader!
+2023-08-29 12:48:28.024,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 12:48:35.165,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 12:48:42.296,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 12:48:49.429,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 12:48:56.559,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 12:49:03.681,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 12:49:10.819,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 12:50:35.699,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 12:50:47.878,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 13:59:43.449,,System,Normal,CIM has been executed..
+2023-08-29 13:59:43.994,,System,Normal,Start MasterPLC Thread..
+2023-08-29 13:59:44.109,,System,Normal,MasterPLC connected..
+2023-08-29 13:59:45.508,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 13:59:45.518,,Host,Normal,HSMS Connection Selected.
+2023-08-29 13:59:50.260,,Host,Normal,Receive S1F13
+2023-08-29 13:59:50.335,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-29 13:59:52.134,,System,Error,Invalid SubHeader!
+2023-08-29 13:59:54.265,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 13:59:56.753,,Host,Normal,Receive S1F13
+2023-08-29 13:59:56.829,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-29 14:00:04.872,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:00:57.532,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:01:24.220,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:02:28.508,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:09:30.562,,System,Normal,CIM has been executed..
+2023-08-29 14:09:31.246,,System,Normal,Start MasterPLC Thread..
+2023-08-29 14:09:31.684,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 14:09:31.698,,Host,Normal,HSMS Connection Selected.
+2023-08-29 14:09:33.370,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:09:40.508,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:09:47.643,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:09:56.111,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:12:28.287,,System,Normal,CIM has been executed..
+2023-08-29 14:12:29.204,,System,Normal,Start MasterPLC Thread..
+2023-08-29 14:12:31.342,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:12:33.011,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 14:12:33.022,,Host,Normal,HSMS Connection Selected.
+2023-08-29 14:12:38.474,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:12:45.605,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:15:52.883,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 14:15:52.884,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:15:52.884,,Host,Normal,HSMS Disconnected.
+2023-08-29 14:16:00.009,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:16:07.143,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:16:07.541,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 14:16:07.545,,Host,Normal,HSMS Connection Selected.
+2023-08-29 14:16:14.276,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:16:22.535,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:23:17.211,,System,Normal,CIM has been executed..
+2023-08-29 14:23:17.908,,System,Normal,Start MasterPLC Thread..
+2023-08-29 14:23:20.018,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:23:24.611,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 14:23:24.621,,Host,Normal,HSMS Connection Selected.
+2023-08-29 14:23:27.146,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:23:36.916,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:24:56.170,,Host,Normal,HSMS Disconnected.
+2023-08-29 14:24:56.170,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:25:03.307,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:25:09.041,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 14:25:09.046,,Host,Normal,HSMS Connection Selected.
+2023-08-29 14:25:10.452,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:25:17.588,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:25:24.731,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:25:34.409,,System,Normal,CIM has been executed..
+2023-08-29 14:25:35.006,,System,Normal,Start MasterPLC Thread..
+2023-08-29 14:25:37.157,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:25:40.023,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 14:25:40.035,,Host,Normal,HSMS Connection Selected.
+2023-08-29 14:25:44.303,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:25:51.449,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:25:58.580,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:26:05.710,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:26:12.849,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:26:19.990,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:26:27.131,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:26:34.258,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:26:41.397,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:26:48.534,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:26:55.678,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:27:02.814,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:27:09.959,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:27:17.095,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:27:24.234,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:27:31.377,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:27:38.509,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:27:45.643,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:27:45.933,,Host,Normal,Receive S1F13
+2023-08-29 14:27:46.010,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-29 14:27:55.447,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:28:08.995,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:46:24.365,,System,Normal,CIM has been executed..
+2023-08-29 14:46:25.397,,System,Normal,Start MasterPLC Thread..
+2023-08-29 14:46:27.519,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 14:46:33.183,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 14:46:33.193,,Host,Normal,HSMS Connection Selected.
+2023-08-29 14:46:34.653,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 15:37:37.634,,System,Normal,CIM has been executed..
+2023-08-29 15:37:38.717,,System,Normal,Start MasterPLC Thread..
+2023-08-29 15:37:38.824,,System,Normal,MasterPLC connected..
+2023-08-29 15:37:41.458,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 15:37:41.467,,Host,Normal,HSMS Connection Selected.
+2023-08-29 15:37:46.856,,System,Error,Invalid SubHeader!
+2023-08-29 15:37:48.983,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 15:37:56.118,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 15:39:38.556,,System,Normal,CIM has been executed..
+2023-08-29 15:39:39.438,,System,Normal,Start MasterPLC Thread..
+2023-08-29 15:39:41.573,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 15:39:44.462,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 15:39:44.473,,Host,Normal,HSMS Connection Selected.
+2023-08-29 15:39:48.695,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 15:39:55.827,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 15:41:54.196,,System,Normal,CIM has been executed..
+2023-08-29 15:41:55.082,,System,Normal,Start MasterPLC Thread..
+2023-08-29 15:41:57.205,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-29 15:41:59.802,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 15:41:59.813,,Host,Normal,HSMS Connection Selected.
+2023-08-29 15:42:41.894,,System,Normal,CIM has been executed..
+2023-08-29 15:42:42.417,,System,Normal,Start MasterPLC Thread..
+2023-08-29 15:42:42.530,,System,Normal,MasterPLC connected..
+2023-08-29 15:42:43.430,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:43.798,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:44.164,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:44.527,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:44.892,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:45.261,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:45.629,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:45.996,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:46.361,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:46.727,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:47.094,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:47.458,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:47.826,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:48.208,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:48.357,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 15:42:48.365,,Host,Normal,HSMS Connection Selected.
+2023-08-29 15:42:48.576,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:48.956,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:49.322,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:49.691,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:50.057,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:50.438,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:50.806,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:51.173,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:51.537,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:51.900,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:52.280,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:52.644,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:53.009,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:53.378,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:53.760,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:54.126,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:54.494,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:54.862,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:55.230,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:55.600,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:55.964,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:56.333,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:56.697,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:57.067,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:57.433,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:57.813,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:58.180,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:58.545,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:58.915,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:59.281,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:42:59.645,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:00.024,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:00.392,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:00.761,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:01.128,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:01.510,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:01.891,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:02.259,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:02.648,eTrackStep,IP01,Normal,none
+2023-08-29 15:43:02.815,eTrackStep,DEV01,Normal,none
+2023-08-29 15:43:02.893,eTrackStep,RS01,Normal,none
+2023-08-29 15:43:02.970,eTrackStep,RS02,Normal,none
+2023-08-29 15:43:03.046,eTrackStep,RS03,Normal,none
+2023-08-29 15:43:03.123,eTrackStep,RS04,Normal,none
+2023-08-29 15:43:03.198,eTrackStep,RS05,Normal,none
+2023-08-29 15:43:03.260,eTrackStep,AK01,Normal,none
+2023-08-29 15:43:03.275,eTrackStep,BF01,Normal,none
+2023-08-29 15:43:03.291,eTrackStep,LF01,Normal,none
+2023-08-29 15:43:03.306,eTrackStep,UCV01,Normal,none
+2023-08-29 15:43:03.320,eTrackStep,UCV02,Normal,none
+2023-08-29 15:43:03.335,eTrackStep,UCV03,Normal,none
+2023-08-29 15:43:03.350,eTrackStep,UCV04,Normal,none
+2023-08-29 15:43:03.366,eTrackStep,UCV05,Normal,none
+2023-08-29 15:43:03.381,eTrackStep,OP01,Normal,none
+2023-08-29 15:43:03.387,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:07.672,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:08.055,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:08.421,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:08.786,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:09.154,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:09.525,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:09.893,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:10.273,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:10.642,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:11.008,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:11.375,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:11.756,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:12.127,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:12.494,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:12.862,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:13.228,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:13.597,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:13.961,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:14.327,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:14.694,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:15.059,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:15.424,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:15.791,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:16.171,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:16.539,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:16.906,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:17.274,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:17.659,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:18.058,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:18.451,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:18.817,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:19.196,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:19.566,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:19.935,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:20.315,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:20.682,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:21.054,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:21.419,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:21.787,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:22.155,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:22.536,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:22.904,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:23.284,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:23.652,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:24.022,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:24.385,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:24.752,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:25.116,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:25.484,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:25.853,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:26.217,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:26.582,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:26.963,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:27.328,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:27.694,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:28.076,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:28.444,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:28.812,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:29.177,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:29.547,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:29.929,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:30.298,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:30.682,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:31.047,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:31.412,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:31.782,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:32.164,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:32.530,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:32.899,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:33.269,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:33.648,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:34.016,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:34.385,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:34.755,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:35.135,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:35.501,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:35.867,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:36.235,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:36.603,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:36.967,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:37.334,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:37.716,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:38.097,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:38.467,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:38.832,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:39.215,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:39.598,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:39.967,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:40.338,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:40.703,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:41.069,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:41.442,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:41.822,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:42.205,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:42.587,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:42.954,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:43.327,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:43.708,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:44.075,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:44.443,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:44.811,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:45.180,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:45.547,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:45.916,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:46.285,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:46.653,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:47.020,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:47.401,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:47.783,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:48.162,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:48.529,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:48.894,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:49.263,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:49.631,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:50.012,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:50.379,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:50.749,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:51.113,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:51.478,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:51.847,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:52.215,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:52.582,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:52.949,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:53.316,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:53.684,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:54.054,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:54.420,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:54.785,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:55.152,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:55.517,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:55.884,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:56.250,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:56.618,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:56.988,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:57.355,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:57.719,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:58.100,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:58.467,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:58.835,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:59.201,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:59.571,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:43:59.951,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:00.316,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:00.681,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:01.053,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:01.419,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:01.786,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:02.153,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:02.518,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:02.888,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:03.258,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:03.628,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:03.999,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:04.381,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:04.760,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:05.140,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:05.506,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:05.875,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:06.242,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:06.612,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:06.979,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:07.347,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:07.711,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:08.078,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:08.446,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:18.320,,System,Error,인덱스가 배열 범위를 벗어났습니다.
+2023-08-29 15:44:41.748,,System,Normal,CIM has been executed..
+2023-08-29 15:44:42.189,,System,Normal,Start MasterPLC Thread..
+2023-08-29 15:44:42.293,,System,Normal,MasterPLC connected..
+2023-08-29 15:44:48.220,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 15:44:48.230,,Host,Normal,HSMS Connection Selected.
+2023-08-29 15:47:22.450,,System,Normal,CIM has been executed..
+2023-08-29 15:47:23.529,,System,Normal,Start MasterPLC Thread..
+2023-08-29 15:47:23.639,,System,Normal,MasterPLC connected..
+2023-08-29 15:47:27.783,,Host,Normal,HSMS Connected NotSelected.
+2023-08-29 15:47:27.794,,Host,Normal,HSMS Connection Selected.
+2023-08-29 15:47:28.120,eTrackStep,IP01,Normal,moduleStart
+2023-08-29 15:47:28.506,eTrackStep,IP01,Normal,containOn
+2023-08-29 15:47:29.290,eTrackStep,IP01,Normal,occupied
+2023-08-29 15:47:30.070,eTrackStep,IP01,Normal,conttainOff
+2023-08-29 15:47:30.882,eTrackStep,IP01,Normal,unoccupied
+2023-08-29 15:47:30.883,eTrackStep,DEV01,Normal,moduleStart
+2023-08-29 15:47:31.295,eTrackStep,DEV01,Normal,containOn
+2023-08-29 15:47:31.709,eTrackStep,IP01,Normal,moduleEnd
+2023-08-29 15:47:32.136,eTrackStep,DEV01,Normal,occupied
+2023-08-29 15:47:32.519,eTrackStep,IP01,Normal,none
+2023-08-29 15:47:32.932,eTrackStep,DEV01,Normal,conttainOff
+2023-08-29 15:47:33.745,eTrackStep,DEV01,Normal,unoccupied
+2023-08-29 15:47:33.745,eTrackStep,RS01,Normal,moduleStart
+2023-08-29 15:47:34.160,eTrackStep,RS01,Normal,containOn
+2023-08-29 15:47:34.572,eTrackStep,DEV01,Normal,moduleEnd
+2023-08-29 15:47:35.003,eTrackStep,RS01,Normal,occupied
+2023-08-29 15:47:35.400,eTrackStep,DEV01,Normal,none
+2023-08-29 15:47:35.781,eTrackStep,RS01,Normal,conttainOff
+2023-08-29 15:47:36.592,eTrackStep,RS01,Normal,unoccupied
+2023-08-29 15:47:36.593,eTrackStep,RS02,Normal,moduleStart
+2023-08-29 15:47:37.005,eTrackStep,RS02,Normal,containOn
+2023-08-29 15:47:37.418,eTrackStep,RS01,Normal,moduleEnd
+2023-08-29 15:47:37.846,eTrackStep,RS02,Normal,occupied
+2023-08-29 15:47:38.228,eTrackStep,RS01,Normal,none
+2023-08-29 15:47:38.655,eTrackStep,RS02,Normal,conttainOff
+2023-08-29 15:47:39.524,eTrackStep,RS02,Normal,unoccupied
+2023-08-29 15:47:39.524,eTrackStep,RS03,Normal,moduleStart
+2023-08-29 15:47:39.953,eTrackStep,RS03,Normal,containOn
+2023-08-29 15:47:40.382,eTrackStep,RS02,Normal,moduleEnd
+2023-08-29 15:47:41.252,eTrackStep,RS02,Normal,none
+2023-08-29 15:47:41.267,eTrackStep,RS03,Normal,occupied
+2023-08-29 15:47:42.446,eTrackStep,RS02,Normal,moduleStart
+2023-08-29 15:47:42.461,eTrackStep,RS03,Normal,conttainOff
+2023-08-29 15:47:42.844,eTrackStep,RS02,Normal,containOn
+2023-08-29 15:47:43.317,eTrackStep,RS03,Normal,unoccupied
+2023-08-29 15:47:43.317,eTrackStep,RS04,Normal,moduleStart
+2023-08-29 15:47:43.710,eTrackStep,RS02,Normal,occupied
+2023-08-29 15:47:43.741,eTrackStep,RS04,Normal,containOn
+2023-08-29 15:47:44.167,eTrackStep,RS02,Normal,conttainOff
+2023-08-29 15:47:44.182,eTrackStep,RS03,Normal,moduleEnd
+2023-08-29 15:47:44.609,eTrackStep,RS04,Normal,occupied
+2023-08-29 15:47:45.021,eTrackStep,RS02,Normal,unoccupied
+2023-08-29 15:47:45.022,eTrackStep,RS03,Normal,none
+2023-08-29 15:47:45.462,eTrackStep,RS04,Normal,conttainOff
+2023-08-29 15:47:45.860,eTrackStep,RS02,Normal,moduleEnd
+2023-08-29 15:47:46.350,eTrackStep,RS04,Normal,unoccupied
+2023-08-29 15:47:46.351,eTrackStep,RS05,Normal,moduleStart
+2023-08-29 15:47:46.760,eTrackStep,RS02,Normal,none
+2023-08-29 15:47:46.806,eTrackStep,RS05,Normal,containOn
+2023-08-29 15:47:47.232,eTrackStep,RS04,Normal,moduleEnd
+2023-08-29 15:47:47.662,eTrackStep,RS05,Normal,occupied
+2023-08-29 15:47:48.042,eTrackStep,RS04,Normal,none
+2023-08-29 15:47:48.453,eTrackStep,RS05,Normal,conttainOff
+2023-08-29 15:47:49.266,eTrackStep,RS05,Normal,unoccupied
+2023-08-29 15:47:49.267,eTrackStep,AK01,Normal,moduleStart
+2023-08-29 15:47:49.681,eTrackStep,AK01,Normal,containOn
+2023-08-29 15:47:50.092,eTrackStep,RS05,Normal,moduleEnd
+2023-08-29 15:47:50.522,eTrackStep,AK01,Normal,occupied
+2023-08-29 15:47:50.905,eTrackStep,RS05,Normal,none
+2023-08-29 15:47:51.318,eTrackStep,AK01,Normal,conttainOff
+2023-08-29 15:47:52.131,eTrackStep,AK01,Normal,unoccupied
+2023-08-29 15:47:52.132,eTrackStep,BF01,Normal,moduleStart
+2023-08-29 15:47:52.542,eTrackStep,BF01,Normal,containOn
+2023-08-29 15:47:52.957,eTrackStep,AK01,Normal,moduleEnd
+2023-08-29 15:47:53.388,eTrackStep,BF01,Normal,occupied
+2023-08-29 15:47:53.768,eTrackStep,AK01,Normal,none
+2023-08-29 15:47:54.183,eTrackStep,BF01,Normal,conttainOff
+2023-08-29 15:47:54.993,eTrackStep,BF01,Normal,unoccupied
+2023-08-29 15:47:54.994,eTrackStep,LF01,Normal,moduleStart
+2023-08-29 15:47:55.408,eTrackStep,LF01,Normal,containOn
+2023-08-29 15:47:55.823,eTrackStep,BF01,Normal,moduleEnd
+2023-08-29 15:47:56.251,eTrackStep,LF01,Normal,occupied
+2023-08-29 15:47:56.636,eTrackStep,BF01,Normal,none
+2023-08-29 15:47:57.050,eTrackStep,LF01,Normal,conttainOff
+2023-08-29 15:47:57.860,eTrackStep,LF01,Normal,unoccupied
+2023-08-29 15:47:57.860,eTrackStep,UCV01,Normal,moduleStart
+2023-08-29 15:47:58.273,eTrackStep,UCV01,Normal,containOn
+2023-08-29 15:47:58.685,eTrackStep,LF01,Normal,moduleEnd
+2023-08-29 15:47:59.112,eTrackStep,UCV01,Normal,occupied
+2023-08-29 15:47:59.493,eTrackStep,LF01,Normal,none
+2023-08-29 15:47:59.902,eTrackStep,UCV01,Normal,conttainOff
+2023-08-29 15:48:00.709,eTrackStep,UCV01,Normal,unoccupied
+2023-08-29 15:48:00.709,eTrackStep,UCV02,Normal,moduleStart
+2023-08-29 15:48:01.120,eTrackStep,UCV02,Normal,containOn
+2023-08-29 15:48:01.534,eTrackStep,UCV01,Normal,moduleEnd
+2023-08-29 15:48:01.966,eTrackStep,UCV02,Normal,occupied
+2023-08-29 15:48:02.348,eTrackStep,UCV01,Normal,none
+2023-08-29 15:48:02.760,eTrackStep,UCV02,Normal,conttainOff
+2023-08-29 15:48:03.569,eTrackStep,UCV02,Normal,unoccupied
+2023-08-29 15:48:03.569,eTrackStep,UCV03,Normal,moduleStart
+2023-08-29 15:48:03.978,eTrackStep,UCV03,Normal,containOn
+2023-08-29 15:48:04.392,eTrackStep,UCV02,Normal,moduleEnd
+2023-08-29 15:48:04.819,eTrackStep,UCV03,Normal,occupied
+2023-08-29 15:48:05.204,eTrackStep,UCV02,Normal,none
+2023-08-29 15:48:05.617,eTrackStep,UCV03,Normal,conttainOff
+2023-08-29 15:48:06.426,eTrackStep,UCV03,Normal,unoccupied
+2023-08-29 15:48:06.426,eTrackStep,UCV04,Normal,moduleStart
+2023-08-29 15:48:06.839,eTrackStep,UCV04,Normal,containOn
+2023-08-29 15:48:07.252,eTrackStep,UCV03,Normal,moduleEnd
+2023-08-29 15:48:07.679,eTrackStep,UCV04,Normal,occupied
+2023-08-29 15:48:08.060,eTrackStep,UCV03,Normal,none
+2023-08-29 15:48:08.471,eTrackStep,UCV04,Normal,conttainOff
+2023-08-29 15:48:09.279,eTrackStep,UCV04,Normal,unoccupied
+2023-08-29 15:48:09.280,eTrackStep,UCV05,Normal,moduleStart
+2023-08-29 15:48:09.692,eTrackStep,UCV05,Normal,containOn
+2023-08-29 15:48:10.108,eTrackStep,UCV04,Normal,moduleEnd
+2023-08-29 15:48:10.537,eTrackStep,UCV05,Normal,occupied
+2023-08-29 15:48:10.919,eTrackStep,UCV04,Normal,none
+2023-08-29 15:48:11.333,eTrackStep,UCV05,Normal,conttainOff
+2023-08-29 15:48:12.146,eTrackStep,UCV05,Normal,unoccupied
+2023-08-29 15:48:12.147,eTrackStep,OP01,Normal,moduleStart
+2023-08-29 15:48:12.560,eTrackStep,OP01,Normal,containOn
+2023-08-29 15:48:12.973,eTrackStep,UCV05,Normal,moduleEnd
+2023-08-29 15:48:13.403,eTrackStep,OP01,Normal,occupied
+2023-08-29 15:48:13.785,eTrackStep,UCV05,Normal,none
+2023-08-29 18:30:33.400,,System,Normal,CIM has been executed..
+2023-08-29 18:30:33.884,,System,Normal,Start MasterPLC Thread..
+2023-08-29 18:30:36.040,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8193]
+2023-08-29 18:30:43.220,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8193]
+2023-08-29 18:31:13.468,,System,Normal,CIM has been executed..
+2023-08-29 18:31:14.385,,System,Normal,Start MasterPLC Thread..
+2023-08-29 18:31:14.493,,System,Normal,MasterPLC connected..
+2023-08-29 18:31:15.508,eTrackStep,RS02,Normal,moduleStart
+2023-08-29 18:31:15.509,eTrackStep,RS03,Normal,moduleStart
+2023-08-29 18:31:15.516,eTrackStep,RS04,Normal,moduleStart
+2023-08-29 18:31:15.691,eTrackStep,RS02,Normal,containOn
+2023-08-29 18:31:15.698,eTrackStep,RS03,Normal,containOn
+2023-08-29 18:31:16.064,eTrackStep,RS02,Normal,occupied
+2023-08-29 18:31:16.065,eTrackStep,RS03,Normal,occupied
+2023-08-29 18:31:16.421,eTrackStep,RS03,Normal,conttainOff
+2023-08-29 18:31:16.586,eTrackStep,RS04,Normal,containOn
+2023-08-29 18:31:16.782,eTrackStep,RS03,Normal,unoccupied
+2023-08-29 18:31:16.969,eTrackStep,RS04,Normal,occupied
+2023-08-29 18:31:17.148,eTrackStep,RS02,Normal,conttainOff
+2023-08-29 18:31:17.156,eTrackStep,RS03,Normal,moduleEnd
+2023-08-29 18:31:17.356,eTrackStep,RS04,Normal,conttainOff
+2023-08-29 18:31:17.543,eTrackStep,RS02,Normal,unoccupied
+2023-08-29 18:31:17.544,eTrackStep,RS03,Normal,none
+2023-08-29 18:31:17.750,eTrackStep,RS04,Normal,unoccupied
+2023-08-29 18:31:17.751,eTrackStep,RS05,Normal,moduleStart
+2023-08-29 18:31:17.936,eTrackStep,RS02,Normal,moduleEnd
+2023-08-29 18:31:17.937,eTrackStep,RS03,Normal,moduleStart
+2023-08-29 18:31:17.951,eTrackStep,RS05,Normal,containOn
+2023-08-29 18:31:18.149,eTrackStep,RS03,Normal,containOn
+2023-08-29 18:31:18.156,eTrackStep,RS04,Normal,moduleEnd
+2023-08-29 18:31:18.359,eTrackStep,RS02,Normal,none
+2023-08-29 18:31:18.373,eTrackStep,RS05,Normal,occupied
+2023-08-29 18:31:18.545,eTrackStep,RS03,Normal,occupied
+2023-08-29 18:31:18.546,eTrackStep,RS04,Normal,none
+2023-08-29 18:31:18.738,eTrackStep,RS05,Normal,conttainOff
+2023-08-29 18:31:18.916,eTrackStep,RS03,Normal,conttainOff
+2023-08-29 18:31:19.124,eTrackStep,RS05,Normal,unoccupied
+2023-08-29 18:31:19.124,eTrackStep,AK01,Normal,moduleStart
+2023-08-29 18:31:19.318,eTrackStep,RS03,Normal,unoccupied
+2023-08-29 18:31:19.319,eTrackStep,RS04,Normal,moduleStart
+2023-08-29 18:31:19.333,eTrackStep,AK01,Normal,containOn
+2023-08-29 18:31:19.526,eTrackStep,RS04,Normal,containOn
+2023-08-29 18:31:19.533,eTrackStep,RS05,Normal,moduleEnd
+2023-08-29 18:31:19.728,eTrackStep,RS03,Normal,moduleEnd
+2023-08-29 18:31:19.741,eTrackStep,AK01,Normal,occupied
+2023-08-29 18:31:19.926,eTrackStep,RS04,Normal,occupied
+2023-08-29 18:31:19.927,eTrackStep,RS05,Normal,none
+2023-08-29 18:31:20.112,eTrackStep,RS03,Normal,none
+2023-08-29 18:31:20.127,eTrackStep,AK01,Normal,conttainOff
+2023-08-29 18:31:20.298,eTrackStep,RS04,Normal,conttainOff
+2023-08-29 18:31:20.507,eTrackStep,AK01,Normal,unoccupied
+2023-08-29 18:31:20.507,eTrackStep,BF01,Normal,moduleStart
+2023-08-29 18:31:20.702,eTrackStep,RS04,Normal,unoccupied
+2023-08-29 18:31:20.702,eTrackStep,RS05,Normal,moduleStart
+2023-08-29 18:31:20.716,eTrackStep,BF01,Normal,containOn
+2023-08-29 18:31:20.910,eTrackStep,RS05,Normal,containOn
+2023-08-29 18:31:20.918,eTrackStep,AK01,Normal,moduleEnd
+2023-08-29 18:31:21.114,eTrackStep,RS04,Normal,moduleEnd
+2023-08-29 18:31:21.127,eTrackStep,BF01,Normal,occupied
+2023-08-29 18:31:21.310,eTrackStep,RS05,Normal,occupied
+2023-08-29 18:31:21.312,eTrackStep,AK01,Normal,none
+2023-08-29 18:31:21.486,eTrackStep,RS04,Normal,none
+2023-08-29 18:31:21.501,eTrackStep,BF01,Normal,conttainOff
+2023-08-29 18:31:21.672,eTrackStep,RS05,Normal,conttainOff
+2023-08-29 18:31:21.881,eTrackStep,BF01,Normal,unoccupied
+2023-08-29 18:31:21.881,eTrackStep,LF01,Normal,moduleStart
+2023-08-29 18:31:22.075,eTrackStep,RS05,Normal,unoccupied
+2023-08-29 18:31:22.077,eTrackStep,AK01,Normal,moduleStart
+2023-08-29 18:31:22.090,eTrackStep,LF01,Normal,containOn
+2023-08-29 18:31:22.283,eTrackStep,AK01,Normal,containOn
+2023-08-29 18:31:22.291,eTrackStep,BF01,Normal,moduleEnd
+2023-08-29 18:31:22.488,eTrackStep,RS05,Normal,moduleEnd
+2023-08-29 18:31:22.502,eTrackStep,LF01,Normal,occupied
+2023-08-29 18:31:22.683,eTrackStep,AK01,Normal,occupied
+2023-08-29 18:31:22.683,eTrackStep,BF01,Normal,none
+2023-08-29 18:31:22.871,eTrackStep,RS05,Normal,none
+2023-08-29 18:31:22.886,eTrackStep,LF01,Normal,conttainOff
+2023-08-29 18:31:23.060,eTrackStep,AK01,Normal,conttainOff
+2023-08-29 18:31:23.271,eTrackStep,LF01,Normal,unoccupied
+2023-08-29 18:31:23.272,eTrackStep,UCV01,Normal,moduleStart
+2023-08-29 18:31:23.463,eTrackStep,AK01,Normal,unoccupied
+2023-08-29 18:31:23.464,eTrackStep,BF01,Normal,moduleStart
+2023-08-29 18:31:23.478,eTrackStep,UCV01,Normal,containOn
+2023-08-29 18:31:23.673,eTrackStep,BF01,Normal,containOn
+2023-08-29 18:31:23.679,eTrackStep,LF01,Normal,moduleEnd
+2023-08-29 18:31:23.876,eTrackStep,AK01,Normal,moduleEnd
+2023-08-29 18:31:23.891,eTrackStep,UCV01,Normal,occupied
+2023-08-29 18:31:24.071,eTrackStep,BF01,Normal,occupied
+2023-08-29 18:31:24.072,eTrackStep,LF01,Normal,none
+2023-08-29 18:31:24.245,eTrackStep,AK01,Normal,none
+2023-08-29 18:31:24.259,eTrackStep,UCV01,Normal,conttainOff
+2023-08-29 18:31:24.434,eTrackStep,BF01,Normal,conttainOff
+2023-08-29 18:31:24.641,eTrackStep,UCV01,Normal,unoccupied
+2023-08-29 18:31:24.642,eTrackStep,UCV02,Normal,moduleStart
+2023-08-29 18:31:24.839,eTrackStep,BF01,Normal,unoccupied
+2023-08-29 18:31:24.839,eTrackStep,LF01,Normal,moduleStart
+2023-08-29 18:31:24.853,eTrackStep,UCV02,Normal,containOn
+2023-08-29 18:31:25.046,eTrackStep,LF01,Normal,containOn
+2023-08-29 18:31:25.054,eTrackStep,UCV01,Normal,moduleEnd
+2023-08-29 18:31:25.250,eTrackStep,BF01,Normal,moduleEnd
+2023-08-29 18:31:25.263,eTrackStep,UCV02,Normal,occupied
+2023-08-29 18:31:25.443,eTrackStep,LF01,Normal,occupied
+2023-08-29 18:31:25.443,eTrackStep,UCV01,Normal,none
+2023-08-29 18:31:25.618,eTrackStep,BF01,Normal,none
+2023-08-29 18:31:25.633,eTrackStep,UCV02,Normal,conttainOff
+2023-08-29 18:31:25.806,eTrackStep,LF01,Normal,conttainOff
+2023-08-29 18:31:26.014,eTrackStep,UCV02,Normal,unoccupied
+2023-08-29 18:31:26.016,eTrackStep,UCV03,Normal,moduleStart
+2023-08-29 18:31:26.210,eTrackStep,LF01,Normal,unoccupied
+2023-08-29 18:31:26.210,eTrackStep,UCV01,Normal,moduleStart
+2023-08-29 18:31:26.224,eTrackStep,UCV03,Normal,containOn
+2023-08-29 18:31:26.419,eTrackStep,UCV01,Normal,containOn
+2023-08-29 18:31:26.427,eTrackStep,UCV02,Normal,moduleEnd
+2023-08-29 18:31:26.623,eTrackStep,LF01,Normal,moduleEnd
+2023-08-29 18:31:26.636,eTrackStep,UCV03,Normal,occupied
+2023-08-29 18:31:26.817,eTrackStep,UCV01,Normal,occupied
+2023-08-29 18:31:26.819,eTrackStep,UCV02,Normal,none
+2023-08-29 18:31:27.006,eTrackStep,LF01,Normal,none
+2023-08-29 18:31:27.021,eTrackStep,UCV03,Normal,conttainOff
+2023-08-29 18:31:27.195,eTrackStep,UCV01,Normal,conttainOff
+2023-08-29 18:31:27.404,eTrackStep,UCV03,Normal,unoccupied
+2023-08-29 18:31:27.405,eTrackStep,UCV04,Normal,moduleStart
+2023-08-29 18:31:27.600,eTrackStep,UCV01,Normal,unoccupied
+2023-08-29 18:31:27.600,eTrackStep,UCV02,Normal,moduleStart
+2023-08-29 18:31:27.614,eTrackStep,UCV04,Normal,containOn
+2023-08-29 18:31:27.807,eTrackStep,UCV02,Normal,containOn
+2023-08-29 18:31:27.814,eTrackStep,UCV03,Normal,moduleEnd
+2023-08-29 18:31:28.010,eTrackStep,UCV01,Normal,moduleEnd
+2023-08-29 18:31:28.024,eTrackStep,UCV04,Normal,occupied
+2023-08-29 18:31:28.203,eTrackStep,UCV02,Normal,occupied
+2023-08-29 18:31:28.204,eTrackStep,UCV03,Normal,none
+2023-08-29 18:31:28.378,eTrackStep,UCV01,Normal,none
+2023-08-29 18:31:28.393,eTrackStep,UCV04,Normal,conttainOff
+2023-08-29 18:31:28.563,eTrackStep,UCV02,Normal,conttainOff
+2023-08-29 18:31:28.772,eTrackStep,UCV04,Normal,unoccupied
+2023-08-29 18:31:28.772,eTrackStep,UCV05,Normal,moduleStart
+2023-08-29 18:31:28.968,eTrackStep,UCV02,Normal,unoccupied
+2023-08-29 18:31:28.969,eTrackStep,UCV03,Normal,moduleStart
+2023-08-29 18:31:28.983,eTrackStep,UCV05,Normal,containOn
+2023-08-29 18:31:29.176,eTrackStep,UCV03,Normal,containOn
+2023-08-29 18:31:29.184,eTrackStep,UCV04,Normal,moduleEnd
+2023-08-29 18:31:29.377,eTrackStep,UCV02,Normal,moduleEnd
+2023-08-29 18:31:29.391,eTrackStep,UCV05,Normal,occupied
+2023-08-29 18:31:29.573,eTrackStep,UCV03,Normal,occupied
+2023-08-29 18:31:29.573,eTrackStep,UCV04,Normal,none
+2023-08-29 18:31:29.745,eTrackStep,UCV02,Normal,none
+2023-08-29 18:31:29.760,eTrackStep,UCV05,Normal,conttainOff
+2023-08-29 18:31:29.934,eTrackStep,UCV03,Normal,conttainOff
+2023-08-29 18:31:30.143,eTrackStep,UCV05,Normal,unoccupied
+2023-08-29 18:31:30.144,eTrackStep,OP01,Normal,moduleStart
+2023-08-29 18:31:30.338,eTrackStep,UCV03,Normal,unoccupied
+2023-08-29 18:31:30.339,eTrackStep,UCV04,Normal,moduleStart
+2023-08-29 18:31:30.353,eTrackStep,OP01,Normal,containOn
+2023-08-29 18:31:30.546,eTrackStep,UCV04,Normal,containOn
+2023-08-29 18:31:30.554,eTrackStep,UCV05,Normal,moduleEnd
+2023-08-29 18:31:30.749,eTrackStep,UCV03,Normal,moduleEnd
+2023-08-29 18:31:30.764,eTrackStep,OP01,Normal,occupied
+2023-08-29 18:31:30.944,eTrackStep,UCV04,Normal,occupied
+2023-08-29 18:31:30.945,eTrackStep,UCV05,Normal,none
+2023-08-29 18:31:31.133,eTrackStep,UCV03,Normal,none
+2023-08-29 18:31:31.320,eTrackStep,UCV04,Normal,conttainOff
+2023-08-29 18:31:31.671,eTrackStep,UCV04,Normal,unoccupied
+2023-08-29 18:31:31.672,eTrackStep,UCV05,Normal,moduleStart
+2023-08-29 18:31:31.857,eTrackStep,UCV05,Normal,containOn
+2023-08-29 18:31:32.044,eTrackStep,UCV04,Normal,moduleEnd
+2023-08-29 18:31:32.230,eTrackStep,UCV05,Normal,occupied
+2023-08-29 18:31:32.403,eTrackStep,UCV04,Normal,none
+2023-08-29 18:33:58.125,,System,Normal,CIM has been executed..
+2023-08-29 18:33:59.201,,System,Normal,Start MasterPLC Thread..
+2023-08-29 18:33:59.321,,System,Normal,MasterPLC connected..
+2023-08-29 18:33:59.988,eTrackStep,UCV05,Normal,moduleStart
+2023-08-29 18:33:59.988,eTrackStep,OP01,Normal,moduleStart
+2023-08-29 18:34:00.153,eTrackStep,UCV05,Normal,containOn
+2023-08-29 18:34:00.160,eTrackStep,OP01,Normal,containOn
+2023-08-29 18:34:00.516,eTrackStep,UCV05,Normal,occupied
+2023-08-29 18:34:00.517,eTrackStep,OP01,Normal,occupied
+2023-08-29 20:21:47.295,,System,Normal,CIM has been executed..
+2023-08-29 20:21:48.368,,System,Normal,Start MasterPLC Thread..
+2023-08-29 20:21:50.502,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 100.100.100.10:8192]
+2023-08-29 20:21:57.656,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 100.100.100.10:8192]
+2023-08-29 20:22:04.791,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 100.100.100.10:8192]
+2023-08-29 20:22:09.903,,System,Normal,MasterPLC connected..
+2023-08-29 20:22:21.747,eTrackStep,RS03,Normal,moduleStart
+2023-08-29 20:22:21.754,eTrackStep,RS04,Normal,moduleStart
+2023-08-29 20:22:21.755,eTrackStep,UCV05,Normal,moduleStart
+2023-08-29 20:22:21.767,eTrackStep,OP01,Normal,moduleStart
+2023-08-29 20:22:22.333,eTrackStep,RS03,Normal,containOn
+2023-08-29 20:22:22.340,eTrackStep,UCV05,Normal,containOn
+2023-08-29 20:22:22.348,eTrackStep,OP01,Normal,containOn
+2023-08-29 20:22:22.754,eTrackStep,RS03,Normal,occupied
+2023-08-29 20:22:22.756,eTrackStep,UCV05,Normal,occupied
+2023-08-29 20:22:22.763,eTrackStep,OP01,Normal,occupied
+2023-08-29 20:22:23.144,eTrackStep,RS03,Normal,conttainOff
+2023-08-29 20:22:23.314,eTrackStep,RS04,Normal,containOn
+2023-08-29 20:22:23.501,eTrackStep,RS03,Normal,unoccupied
+2023-08-29 20:22:23.693,eTrackStep,RS04,Normal,occupied
+2023-08-29 20:22:23.867,eTrackStep,RS03,Normal,moduleEnd
+2023-08-29 20:22:24.063,eTrackStep,RS04,Normal,conttainOff
+2023-08-29 20:22:24.224,eTrackStep,RS03,Normal,none
+2023-08-29 20:22:24.421,eTrackStep,RS04,Normal,unoccupied
+2023-08-29 20:22:24.422,eTrackStep,RS05,Normal,moduleStart
+2023-08-29 20:22:24.599,eTrackStep,RS05,Normal,containOn
+2023-08-29 20:22:24.784,eTrackStep,RS04,Normal,moduleEnd
+2023-08-29 20:22:24.967,eTrackStep,RS05,Normal,occupied
+2023-08-29 20:22:25.134,eTrackStep,RS04,Normal,none
+2023-08-29 20:22:25.309,eTrackStep,RS05,Normal,conttainOff
+2023-08-29 20:22:25.653,eTrackStep,RS05,Normal,unoccupied
+2023-08-29 20:22:25.654,eTrackStep,AK01,Normal,moduleStart
+2023-08-29 20:22:25.831,eTrackStep,AK01,Normal,containOn
+2023-08-29 20:22:26.015,eTrackStep,RS05,Normal,moduleEnd
+2023-08-29 20:22:26.198,eTrackStep,AK01,Normal,occupied
+2023-08-29 20:22:26.366,eTrackStep,RS05,Normal,none
+2023-08-29 20:22:26.543,eTrackStep,AK01,Normal,conttainOff
+2023-08-29 20:22:26.901,eTrackStep,AK01,Normal,unoccupied
+2023-08-29 20:22:26.903,eTrackStep,BF01,Normal,moduleStart
+2023-08-29 20:22:27.085,eTrackStep,BF01,Normal,containOn
+2023-08-29 20:22:27.266,eTrackStep,AK01,Normal,moduleEnd
+2023-08-29 20:22:27.462,eTrackStep,BF01,Normal,occupied
+2023-08-29 20:22:27.630,eTrackStep,AK01,Normal,none
+2023-08-29 20:22:27.805,eTrackStep,BF01,Normal,conttainOff
+2023-08-29 20:22:28.177,eTrackStep,BF01,Normal,unoccupied
+2023-08-29 20:22:28.179,eTrackStep,LF01,Normal,moduleStart
+2023-08-29 20:22:28.357,eTrackStep,LF01,Normal,containOn
+2023-08-29 20:22:28.541,eTrackStep,BF01,Normal,moduleEnd
+2023-08-29 20:22:28.738,eTrackStep,LF01,Normal,occupied
+2023-08-29 20:22:28.907,eTrackStep,BF01,Normal,none
+2023-08-29 20:22:29.097,eTrackStep,LF01,Normal,conttainOff
+2023-08-29 20:22:29.454,eTrackStep,LF01,Normal,unoccupied
+2023-08-29 20:22:29.455,eTrackStep,UCV01,Normal,moduleStart
+2023-08-29 20:22:29.635,eTrackStep,UCV01,Normal,containOn
+2023-08-29 20:22:29.817,eTrackStep,LF01,Normal,moduleEnd
+2023-08-29 20:22:29.999,eTrackStep,UCV01,Normal,occupied
+2023-08-29 20:22:30.168,eTrackStep,LF01,Normal,none
+2023-08-29 20:22:30.344,eTrackStep,UCV01,Normal,conttainOff
+2023-08-29 20:22:30.691,eTrackStep,UCV01,Normal,unoccupied
+2023-08-29 20:22:30.692,eTrackStep,UCV02,Normal,moduleStart
+2023-08-29 20:22:30.870,eTrackStep,UCV02,Normal,containOn
+2023-08-29 20:22:31.055,eTrackStep,UCV01,Normal,moduleEnd
+2023-08-29 20:22:31.253,eTrackStep,UCV02,Normal,occupied
+2023-08-29 20:22:31.418,eTrackStep,UCV01,Normal,none
+2023-08-29 20:22:31.593,eTrackStep,UCV02,Normal,conttainOff
+2023-08-29 20:22:31.950,eTrackStep,UCV02,Normal,unoccupied
+2023-08-29 20:22:31.950,eTrackStep,UCV03,Normal,moduleStart
+2023-08-29 20:22:32.132,eTrackStep,UCV03,Normal,containOn
+2023-08-29 20:22:32.311,eTrackStep,UCV02,Normal,moduleEnd
+2023-08-29 20:22:32.506,eTrackStep,UCV03,Normal,occupied
+2023-08-29 20:22:32.674,eTrackStep,UCV02,Normal,none
+2023-08-29 20:22:32.850,eTrackStep,UCV03,Normal,conttainOff
+2023-08-29 20:22:33.206,eTrackStep,UCV03,Normal,unoccupied
+2023-08-29 20:22:33.207,eTrackStep,UCV04,Normal,moduleStart
+2023-08-29 20:22:33.385,eTrackStep,UCV04,Normal,containOn
+2023-08-29 20:22:33.571,eTrackStep,UCV03,Normal,moduleEnd
+2023-08-29 20:22:33.755,eTrackStep,UCV04,Normal,occupied
+2023-08-29 20:22:33.922,eTrackStep,UCV03,Normal,none

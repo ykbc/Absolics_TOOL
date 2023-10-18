@@ -1,0 +1,121 @@
+2023-07-07 09:00:32,391[INFO ]:Queued SECS2 Message : S1F13
+2023-07-07 09:00:32,450[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-07 09:00:32,453[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [14] "1.0.8588.16211">
+>
+2023-07-07 09:00:32,664[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-07 09:00:32,664[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-07 09:00:38,138[INFO ]:RECV SECS2 Message : SSID(0), B2(131), B3(41), P(0), S(0), SB(24,182), Length[434]
+2023-07-07 09:00:38,138[DEBUG]:<<<S3F41 W<<<  
+<L [3] 
+    <A [9] "WorkOrder">
+    <A [8] "AP-MR-01">
+    <L [1] 
+        <L [2] 
+            <A [1] "0">
+            <L [1] 
+                <L [6] 
+                    <L [2] 
+                        <A [10] "sorterType">
+                        <A [0] >
+                    >
+                    <L [2] 
+                        <A [8] "inPortId">
+                        <A [1] "1">
+                    >
+                    <L [2] 
+                        <A [8] "inCarrId">
+                        <A [6] "TRAY-1">
+                    >
+                    <L [2] 
+                        <A [9] "outPortId">
+                        <A [1] "2">
+                    >
+                    <L [2] 
+                        <A [9] "outCarrId">
+                        <A [1] "0">
+                    >
+                    <L [1] 
+                        <L [2] 
+                            <L [2] 
+                                <A [4] "PPID">
+                                <A [6] "RCP001">
+                            >
+                            <L [2] 
+                                <A [9] "SLOT_DATA">
+                                <L [2] 
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "6">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [10] "GlassID-01">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "6">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [13] "LOT_230217005">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TBT">
+                                        >
+                                    >
+                                    <L [7] 
+                                        <L [2] 
+                                            <A [12] "inCarrSlotNo">
+                                            <A [1] "7">
+                                        >
+                                        <L [2] 
+                                            <A [10] "manualInsp">
+                                            <A [1] "N">
+                                        >
+                                        <L [2] 
+                                            <A [10] "prodMtrlId">
+                                            <A [10] "GlassID-02">
+                                        >
+                                        <L [2] 
+                                            <A [9] "slotState">
+                                            <A [1] "1">
+                                        >
+                                        <L [2] 
+                                            <A [13] "outCarrSlotNo">
+                                            <A [1] "7">
+                                        >
+                                        <L [2] 
+                                            <A [5] "lotId">
+                                            <A [13] "LOT_230217005">
+                                        >
+                                        <L [2] 
+                                            <A [8] "mtrlFace">
+                                            <A [3] "TBT">
+                                        >
+                                    >
+                                >
+                            >
+                        >
+                    >
+                >
+            >
+        >
+    >
+>

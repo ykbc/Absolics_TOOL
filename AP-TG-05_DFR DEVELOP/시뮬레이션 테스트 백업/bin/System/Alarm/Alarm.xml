@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<AlarmManager>
+  <AlarmBooth>
+    <AlarmItem>      <ID>1</ID>      <ALCD>2</ALCD><ALTX>  Emergency Stop</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>2</ID>      <ALCD>2</ALCD><ALTX>Acid Tank Temp Over - 1</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>3</ID>      <ALCD>2</ALCD><ALTX>Acid Tank Temp Over - 2</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>4</ID>      <ALCD>2</ALCD><ALTX>Oven Temp Over</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>5</ID>      <ALCD>2</ALCD><ALTX>Drive Motor Fail</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>6</ID>      <ALCD>2</ALCD><ALTX>Mixing Tank to Storage tank Pump Overload</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>7</ID>      <ALCD>2</ALCD><ALTX>Storage Tank to Na2CO3 tank Pump Overload</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>8</ID>      <ALCD>2</ALCD><ALTX>Na2CO3 Tank Circulation Pump Overload</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>9</ID>      <ALCD>2</ALCD><ALTX>Rinse #1 Supply Pump overload</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>10</ID>      <ALCD>2</ALCD><ALTX>Rinse #2 Supply Pump overload</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>11</ID>      <ALCD>2</ALCD><ALTX>Rinse #3 Supply Pump overload</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>12</ID>      <ALCD>2</ALCD><ALTX>Rinse #4 Supply Pump overload</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>13</ID>      <ALCD>2</ALCD><ALTX>Final Rinse Supply Pump overload</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>14</ID>      <ALCD>2</ALCD><ALTX>C/V Motor Fail</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>15</ID>      <ALCD>2</ALCD><ALTX>Develop Zone Leak Alarm</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>16</ID>      <ALCD>2</ALCD><ALTX>Rinse #1 ~ #3 Leak Alarm</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>17</ID>      <ALCD>2</ALCD><ALTX>Rinse #4, Final Rinse Leak Alarm</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>18</ID>      <ALCD>2</ALCD><ALTX>Air Knife Zone Leak Alarm</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>19</ID>      <ALCD>2</ALCD><ALTX>A/Knife Temperature Over</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>20</ID>      <ALCD>2</ALCD><ALTX>Na2CO3 not supplied</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>21</ID>      <ALCD>2</ALCD><ALTX>DI water not supplied</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>22</ID>      <ALCD>2</ALCD><ALTX>Door Open</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>23</ID>      <ALCD>2</ALCD><ALTX>Mixing Tank Level Low</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>24</ID>      <ALCD>2</ALCD><ALTX>Storage Tank Level Low</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>25</ID>      <ALCD>2</ALCD><ALTX>Na2CO3 Tank Level Low</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>26</ID>      <ALCD>2</ALCD><ALTX>Rinse #1 Tank Level Low</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>27</ID>      <ALCD>2</ALCD><ALTX>Rinse #2 Tank Level Low</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>28</ID>      <ALCD>2</ALCD><ALTX>Rinse #3 Tank Level Low</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>29</ID>      <ALCD>2</ALCD><ALTX>Rinse #4 Tank Level Low</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>30</ID>      <ALCD>2</ALCD><ALTX>Rinse #5 Tank Level Low</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>1001</ID>      <ALCD>6</ALCD><ALTX>low concentration</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>1002</ID>      <ALCD>6</ALCD><ALTX>over concentration</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>1003</ID>      <ALCD>6</ALCD><ALTX>low conductivity</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>1004</ID>      <ALCD>6</ALCD><ALTX>Glass transfer time over</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>1005</ID>      <ALCD>6</ALCD><ALTX>interface fail</ALTX>    </AlarmItem>
+  </AlarmBooth>
+  
+  <AlarmTrack>
+  </AlarmTrack>
+</AlarmManager>

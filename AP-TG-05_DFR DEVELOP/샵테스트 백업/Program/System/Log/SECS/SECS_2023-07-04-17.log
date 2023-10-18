@@ -1,0 +1,2662 @@
+2023-07-04 17:03:59,582[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 17:03:59,626[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 17:03:59,628[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-04 17:03:59,675[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 17:03:59,676[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 17:04:00,113[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:04:00,169[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(2)
+2023-07-04 17:04:00,169[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:04:00,199[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-07-04 17:04:00,200[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:04:00,257[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:04:00,290[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(3)
+2023-07-04 17:04:00,290[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:04:00,351[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(3), Length[3]
+2023-07-04 17:04:00,351[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:04:02,440[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:04:02,469[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(4)
+2023-07-04 17:04:02,469[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:04:02,536[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(4), Length[3]
+2023-07-04 17:04:02,536[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:04:03,125[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:04:03,128[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(5)
+2023-07-04 17:04:03,128[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:04:03,218[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(5), Length[3]
+2023-07-04 17:04:03,218[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:04:03,268[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:04:03,308[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(6)
+2023-07-04 17:04:03,308[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:04:03,370[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(6), Length[3]
+2023-07-04 17:04:03,370[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:04:03,572[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:04:03,614[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(7)
+2023-07-04 17:04:03,614[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:04:03,675[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(7), Length[3]
+2023-07-04 17:04:03,675[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:04:03,717[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:04:03,735[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(8)
+2023-07-04 17:04:03,735[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:04:03,753[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(8), Length[3]
+2023-07-04 17:04:03,753[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:04:04,547[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:04:04,587[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(9)
+2023-07-04 17:04:04,587[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:04:04,661[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(9), Length[3]
+2023-07-04 17:04:04,661[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:07:23,916[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 17:07:23,964[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 17:07:23,965[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-04 17:07:23,993[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 17:07:23,993[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 17:07:45,913[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 17:07:45,925[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 17:07:45,926[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-04 17:07:45,990[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 17:07:45,991[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 17:09:29,002[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 17:09:29,029[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 17:09:29,032[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-04 17:09:29,073[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 17:09:29,073[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 17:11:12,605[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:11:12,608[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(2)
+2023-07-04 17:11:12,609[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:11:12,654[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-07-04 17:11:12,654[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:11:26,858[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:11:26,867[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:11:26,874[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:11:26,885[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(3)
+2023-07-04 17:11:26,885[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:11:26,885[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(4)
+2023-07-04 17:11:26,885[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:11:26,885[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(5)
+2023-07-04 17:11:26,885[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:11:26,915[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(3), Length[3]
+2023-07-04 17:11:26,915[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:11:26,926[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(4), Length[3]
+2023-07-04 17:11:26,926[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:11:26,991[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(5), Length[3]
+2023-07-04 17:11:26,991[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:11:27,019[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:11:27,067[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(6)
+2023-07-04 17:11:27,067[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:11:27,143[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(6), Length[3]
+2023-07-04 17:11:27,143[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:11:30,912[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:11:30,930[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(7)
+2023-07-04 17:11:30,930[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:11:30,991[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(7), Length[3]
+2023-07-04 17:11:30,991[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:11:31,758[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:11:31,782[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(8)
+2023-07-04 17:11:31,782[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:11:31,827[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(8), Length[3]
+2023-07-04 17:11:31,827[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:11:44,645[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:11:44,654[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:11:44,662[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:11:44,671[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(10)
+2023-07-04 17:11:44,671[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:11:44,671[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(11)
+2023-07-04 17:11:44,671[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:11:44,672[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(12)
+2023-07-04 17:11:44,672[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:11:44,733[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(10), Length[3]
+2023-07-04 17:11:44,733[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:11:44,733[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(11), Length[3]
+2023-07-04 17:11:44,733[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:11:44,744[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(12), Length[3]
+2023-07-04 17:11:44,744[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:01,251[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:01,261[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(13)
+2023-07-04 17:12:01,261[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:12:01,291[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(13), Length[3]
+2023-07-04 17:12:01,291[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:04,414[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:04,417[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(14)
+2023-07-04 17:12:04,417[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:12:04,477[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(14), Length[3]
+2023-07-04 17:12:04,477[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:09,473[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:09,522[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(15)
+2023-07-04 17:12:09,522[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:12:09,567[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(15), Length[3]
+2023-07-04 17:12:09,567[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:31,680[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:31,687[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:31,694[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:31,706[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(16)
+2023-07-04 17:12:31,706[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:12:31,707[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(17)
+2023-07-04 17:12:31,707[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:12:31,707[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(18)
+2023-07-04 17:12:31,707[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:12:31,728[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(16), Length[3]
+2023-07-04 17:12:31,728[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:31,797[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(17), Length[3]
+2023-07-04 17:12:31,797[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:31,797[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(18), Length[3]
+2023-07-04 17:12:31,797[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:31,838[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:31,887[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(19)
+2023-07-04 17:12:31,888[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:12:31,948[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(19), Length[3]
+2023-07-04 17:12:31,948[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:34,938[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:34,987[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(20)
+2023-07-04 17:12:34,987[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:12:35,047[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(20), Length[3]
+2023-07-04 17:12:35,047[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:35,661[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:35,718[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(21)
+2023-07-04 17:12:35,718[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:12:35,743[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(21), Length[3]
+2023-07-04 17:12:35,743[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:48,381[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:48,390[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:48,398[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:12:48,408[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(22)
+2023-07-04 17:12:48,408[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:12:48,408[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(23)
+2023-07-04 17:12:48,408[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:12:48,408[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(24)
+2023-07-04 17:12:48,408[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:12:48,483[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(22), Length[3]
+2023-07-04 17:12:48,483[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:48,483[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(23), Length[3]
+2023-07-04 17:12:48,483[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:12:48,483[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(24), Length[3]
+2023-07-04 17:12:48,483[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:06,081[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:06,092[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(25)
+2023-07-04 17:13:06,092[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:13:06,137[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(25), Length[3]
+2023-07-04 17:13:06,137[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:09,370[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:09,374[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(26)
+2023-07-04 17:13:09,375[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:13:09,404[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(26), Length[3]
+2023-07-04 17:13:09,404[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:13,745[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:13,748[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(27)
+2023-07-04 17:13:13,749[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:13:13,809[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(27), Length[3]
+2023-07-04 17:13:13,809[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:36,088[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:36,098[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:36,106[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:36,113[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(29)
+2023-07-04 17:13:36,113[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:13:36,114[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(30)
+2023-07-04 17:13:36,114[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:13:36,114[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(31)
+2023-07-04 17:13:36,114[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:13:36,191[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(29), Length[3]
+2023-07-04 17:13:36,191[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:36,191[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(30), Length[3]
+2023-07-04 17:13:36,191[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:36,204[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(31), Length[3]
+2023-07-04 17:13:36,204[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:36,247[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:36,297[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(32)
+2023-07-04 17:13:36,297[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:13:36,343[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(32), Length[3]
+2023-07-04 17:13:36,343[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:39,349[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:39,397[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(33)
+2023-07-04 17:13:39,397[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:13:39,458[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(33), Length[3]
+2023-07-04 17:13:39,458[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:40,056[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:40,067[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(34)
+2023-07-04 17:13:40,067[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:13:40,143[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(34), Length[3]
+2023-07-04 17:13:40,143[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:42,535[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:42,544[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:42,552[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:13:42,560[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(35)
+2023-07-04 17:13:42,560[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:13:42,560[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(36)
+2023-07-04 17:13:42,560[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:13:42,561[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(37)
+2023-07-04 17:13:42,561[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:13:42,587[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(35), Length[3]
+2023-07-04 17:13:42,587[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:42,650[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(36), Length[3]
+2023-07-04 17:13:42,650[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:13:42,651[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(37), Length[3]
+2023-07-04 17:13:42,651[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:14:09,549[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:14:09,561[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(38)
+2023-07-04 17:14:09,562[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:14:09,621[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(38), Length[3]
+2023-07-04 17:14:09,621[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:14:12,695[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:14:12,715[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(39)
+2023-07-04 17:14:12,715[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:14:12,741[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(39), Length[3]
+2023-07-04 17:14:12,741[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:14:17,776[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:14:17,824[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(40)
+2023-07-04 17:14:17,825[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:14:17,885[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(40), Length[3]
+2023-07-04 17:14:17,885[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:14:40,127[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:14:40,136[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:14:40,144[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:14:40,154[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(41)
+2023-07-04 17:14:40,154[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:14:40,154[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(42)
+2023-07-04 17:14:40,154[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:14:40,154[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(43)
+2023-07-04 17:14:40,154[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:14:40,180[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(41), Length[3]
+2023-07-04 17:14:40,180[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:14:40,244[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(42), Length[3]
+2023-07-04 17:14:40,244[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:14:40,244[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(43), Length[3]
+2023-07-04 17:14:40,244[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:14:40,300[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:14:40,335[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(44)
+2023-07-04 17:14:40,335[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:14:40,395[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(44), Length[3]
+2023-07-04 17:14:40,395[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:14:43,405[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:14:43,439[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(45)
+2023-07-04 17:14:43,439[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:14:43,515[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(45), Length[3]
+2023-07-04 17:14:43,515[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:14:44,115[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:14:44,171[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(46)
+2023-07-04 17:14:44,171[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:14:44,201[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(46), Length[3]
+2023-07-04 17:14:44,201[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:15:01,489[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:15:01,492[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(47)
+2023-07-04 17:15:01,492[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:15:01,515[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(47), Length[3]
+2023-07-04 17:15:01,515[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:15:08,081[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:15:08,090[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:15:08,099[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:15:08,106[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(48)
+2023-07-04 17:15:08,106[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:15:08,106[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(49)
+2023-07-04 17:15:08,106[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:15:08,107[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(50)
+2023-07-04 17:15:08,107[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:15:08,182[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(48), Length[3]
+2023-07-04 17:15:08,182[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:15:08,182[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(49), Length[3]
+2023-07-04 17:15:08,182[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:15:08,186[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(50), Length[3]
+2023-07-04 17:15:08,186[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:15:15,926[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:15:15,936[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:15:15,943[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(51)
+2023-07-04 17:15:15,943[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:15:15,943[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(52)
+2023-07-04 17:15:15,943[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:15:16,004[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(51), Length[3]
+2023-07-04 17:15:16,004[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:15:16,004[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(52), Length[3]
+2023-07-04 17:15:16,004[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:15:16,092[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:15:16,124[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(53)
+2023-07-04 17:15:16,124[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:15:16,165[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(53), Length[3]
+2023-07-04 17:15:16,165[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:15:19,152[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:15:19,170[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(54)
+2023-07-04 17:15:19,170[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:15:19,201[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(54), Length[3]
+2023-07-04 17:15:19,201[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:15:25,949[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:15:25,989[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(55)
+2023-07-04 17:15:25,989[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:15:26,049[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(55), Length[3]
+2023-07-04 17:15:26,049[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:15:29,659[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:15:29,693[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(56)
+2023-07-04 17:15:29,694[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:15:29,739[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(56), Length[3]
+2023-07-04 17:15:29,739[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:15:52,941[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:15:52,990[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(58)
+2023-07-04 17:15:52,990[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:15:53,051[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(58), Length[3]
+2023-07-04 17:15:53,051[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:16:07,329[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:16:07,339[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:16:07,347[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:16:07,385[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(59)
+2023-07-04 17:16:07,385[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:16:07,385[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(60)
+2023-07-04 17:16:07,385[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:16:07,385[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(61)
+2023-07-04 17:16:07,385[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:16:07,461[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(59), Length[3]
+2023-07-04 17:16:07,461[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:16:07,461[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(60), Length[3]
+2023-07-04 17:16:07,461[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:16:07,461[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(61), Length[3]
+2023-07-04 17:16:07,461[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:16:07,505[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:16:07,507[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(62)
+2023-07-04 17:16:07,507[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:16:07,537[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(62), Length[3]
+2023-07-04 17:16:07,537[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:16:10,633[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:16:10,665[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(63)
+2023-07-04 17:16:10,665[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:16:10,726[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(63), Length[3]
+2023-07-04 17:16:10,726[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:16:11,338[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:16:11,395[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(64)
+2023-07-04 17:16:11,395[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:16:11,486[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(64), Length[3]
+2023-07-04 17:16:11,486[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:18:07,475[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:18:07,484[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:18:07,491[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:18:07,500[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(66)
+2023-07-04 17:18:07,500[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:18:07,500[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(67)
+2023-07-04 17:18:07,500[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:18:07,500[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(68)
+2023-07-04 17:18:07,500[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:18:07,521[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(66), Length[3]
+2023-07-04 17:18:07,521[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:18:07,592[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(67), Length[3]
+2023-07-04 17:18:07,592[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:18:07,592[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(68), Length[3]
+2023-07-04 17:18:07,592[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:18:21,754[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:18:21,781[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(69)
+2023-07-04 17:18:21,781[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:18:21,803[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(69), Length[3]
+2023-07-04 17:18:21,803[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:18:25,038[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:18:25,055[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(70)
+2023-07-04 17:18:25,055[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:18:25,099[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(70), Length[3]
+2023-07-04 17:18:25,099[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:18:52,261[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:18:52,281[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(71)
+2023-07-04 17:18:52,281[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:18:52,325[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(71), Length[3]
+2023-07-04 17:18:52,325[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:19:06,669[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:19:06,676[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:19:06,684[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:19:06,694[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(72)
+2023-07-04 17:19:06,694[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:19:06,694[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(73)
+2023-07-04 17:19:06,694[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:19:06,694[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(74)
+2023-07-04 17:19:06,694[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:19:06,770[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(72), Length[3]
+2023-07-04 17:19:06,770[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:19:06,771[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(73), Length[3]
+2023-07-04 17:19:06,771[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:19:06,771[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(74), Length[3]
+2023-07-04 17:19:06,771[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:19:06,828[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:19:06,876[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(75)
+2023-07-04 17:19:06,876[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:19:06,922[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(75), Length[3]
+2023-07-04 17:19:06,922[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:19:09,939[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:19:09,975[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(76)
+2023-07-04 17:19:09,975[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:19:10,035[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(76), Length[3]
+2023-07-04 17:19:10,035[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:19:10,647[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:19:10,702[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(77)
+2023-07-04 17:19:10,702[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:19:10,723[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(77), Length[3]
+2023-07-04 17:19:10,723[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:23:17,108[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 17:23:17,122[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 17:23:17,124[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-04 17:23:17,169[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 17:23:17,169[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 17:23:29,494[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:23:29,503[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:23:29,511[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(2)
+2023-07-04 17:23:29,511[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:23:29,511[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(3)
+2023-07-04 17:23:29,511[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:23:29,542[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-07-04 17:23:29,542[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:23:29,619[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(3), Length[3]
+2023-07-04 17:23:29,619[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:23:29,639[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:23:29,646[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:23:29,694[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(4)
+2023-07-04 17:23:29,695[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:23:29,695[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(5)
+2023-07-04 17:23:29,695[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:23:29,771[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(4), Length[3]
+2023-07-04 17:23:29,771[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:23:29,771[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(5), Length[3]
+2023-07-04 17:23:29,771[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:23:31,251[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:23:31,279[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(6)
+2023-07-04 17:23:31,279[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:23:31,339[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(6), Length[3]
+2023-07-04 17:23:31,339[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:23:49,901[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 17:23:49,947[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 17:23:49,948[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-04 17:23:49,976[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 17:23:49,977[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 17:25:04,211[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:25:04,258[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(2)
+2023-07-04 17:25:04,258[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:25:04,284[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-07-04 17:25:04,284[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:25:18,612[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:25:18,620[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:25:18,627[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:25:18,670[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(3)
+2023-07-04 17:25:18,670[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:25:18,670[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(4)
+2023-07-04 17:25:18,670[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:25:18,670[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(5)
+2023-07-04 17:25:18,670[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:25:18,700[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(3), Length[3]
+2023-07-04 17:25:18,700[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:25:18,713[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(4), Length[3]
+2023-07-04 17:25:18,713[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:25:18,773[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:25:18,776[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(5), Length[3]
+2023-07-04 17:25:18,776[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:25:18,791[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(6)
+2023-07-04 17:25:18,791[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:25:18,851[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(6), Length[3]
+2023-07-04 17:25:18,851[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:25:21,786[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:25:21,819[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(7)
+2023-07-04 17:25:21,819[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:25:21,864[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(7), Length[3]
+2023-07-04 17:25:21,865[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:27:26,202[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 17:27:26,249[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(10)
+2023-07-04 17:27:26,249[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-04 17:27:26,293[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(10), Length[7]
+2023-07-04 17:27:26,293[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 17:27:32,046[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:27:32,088[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(11)
+2023-07-04 17:27:32,088[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:27:32,133[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(11), Length[3]
+2023-07-04 17:27:32,133[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:27:35,202[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:27:35,252[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(12)
+2023-07-04 17:27:35,252[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:27:35,326[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(12), Length[3]
+2023-07-04 17:27:35,326[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:27:39,854[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:27:39,872[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(13)
+2023-07-04 17:27:39,872[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:27:39,893[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(13), Length[3]
+2023-07-04 17:27:39,893[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:28:02,094[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:28:02,103[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:28:02,111[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:28:02,150[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(14)
+2023-07-04 17:28:02,150[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:28:02,150[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(15)
+2023-07-04 17:28:02,150[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:28:02,150[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(16)
+2023-07-04 17:28:02,150[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:28:02,171[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(14), Length[3]
+2023-07-04 17:28:02,171[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:28:02,242[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(15), Length[3]
+2023-07-04 17:28:02,242[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:28:02,244[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(16), Length[3]
+2023-07-04 17:28:02,244[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:28:02,253[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:28:02,272[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(17)
+2023-07-04 17:28:02,272[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:28:02,318[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(17), Length[3]
+2023-07-04 17:28:02,318[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:28:05,391[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:28:05,409[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(18)
+2023-07-04 17:28:05,409[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:28:05,470[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(18), Length[3]
+2023-07-04 17:28:05,470[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:28:06,239[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:28:06,258[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(19)
+2023-07-04 17:28:06,258[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:28:06,304[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(19), Length[3]
+2023-07-04 17:28:06,304[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:33:02,375[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 17:33:02,403[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 17:33:02,405[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-04 17:33:02,467[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 17:33:02,467[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 17:33:10,288[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:33:10,315[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(2)
+2023-07-04 17:33:10,315[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:33:10,377[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-07-04 17:33:10,377[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:33:42,007[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 17:33:42,049[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 17:33:42,051[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-04 17:33:42,096[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 17:33:42,096[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 17:35:10,246[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:35:10,293[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(2)
+2023-07-04 17:35:10,294[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:35:10,340[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-07-04 17:35:10,340[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:35:26,850[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:35:26,860[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:35:26,868[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:35:26,891[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(3)
+2023-07-04 17:35:26,891[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:35:26,892[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(4)
+2023-07-04 17:35:26,892[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:35:26,892[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(5)
+2023-07-04 17:35:26,892[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:35:26,921[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(3), Length[3]
+2023-07-04 17:35:26,921[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:35:26,996[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(4), Length[3]
+2023-07-04 17:35:26,996[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:35:26,997[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(5), Length[3]
+2023-07-04 17:35:26,997[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:35:27,025[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:35:27,072[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(6)
+2023-07-04 17:35:27,072[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:35:27,148[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(6), Length[3]
+2023-07-04 17:35:27,148[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:35:29,806[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:35:29,809[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(7)
+2023-07-04 17:35:29,809[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:35:29,885[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(7), Length[3]
+2023-07-04 17:35:29,885[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:35:30,385[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:35:30,419[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(8)
+2023-07-04 17:35:30,419[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:35:30,494[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(8), Length[3]
+2023-07-04 17:35:30,494[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:35:30,691[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:35:30,723[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(9)
+2023-07-04 17:35:30,724[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:35:30,799[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(9), Length[3]
+2023-07-04 17:35:30,799[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:35:32,246[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:35:32,302[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(10)
+2023-07-04 17:35:32,302[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:35:32,320[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(10), Length[3]
+2023-07-04 17:35:32,320[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:37:10,354[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 17:37:10,386[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 17:37:10,387[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-04 17:37:10,480[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 17:37:10,481[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 17:38:05,982[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:38:06,000[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(2)
+2023-07-04 17:38:06,000[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:38:06,076[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-07-04 17:38:06,076[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:38:20,386[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:38:20,396[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:38:20,397[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(3)
+2023-07-04 17:38:20,397[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:38:20,397[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(4)
+2023-07-04 17:38:20,397[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:38:20,403[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:38:20,458[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(5)
+2023-07-04 17:38:20,458[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:38:20,488[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(3), Length[3]
+2023-07-04 17:38:20,488[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:38:20,488[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(4), Length[3]
+2023-07-04 17:38:20,488[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:38:20,488[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(5), Length[3]
+2023-07-04 17:38:20,488[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:38:20,546[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:38:20,580[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(6)
+2023-07-04 17:38:20,580[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:38:20,641[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(6), Length[3]
+2023-07-04 17:38:20,641[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:38:23,598[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:38:23,615[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(7)
+2023-07-04 17:38:23,615[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:38:23,677[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(7), Length[3]
+2023-07-04 17:38:23,677[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:38:24,190[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:38:24,223[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(8)
+2023-07-04 17:38:24,223[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:38:24,284[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(8), Length[3]
+2023-07-04 17:38:24,284[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:38:24,494[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:38:24,527[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(9)
+2023-07-04 17:38:24,527[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:38:24,588[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(9), Length[3]
+2023-07-04 17:38:24,588[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:38:52,686[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:38:52,710[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(10)
+2023-07-04 17:38:52,710[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:38:52,742[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(10), Length[3]
+2023-07-04 17:38:52,742[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:38:55,842[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:38:55,876[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(11)
+2023-07-04 17:38:55,877[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:38:55,936[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(11), Length[3]
+2023-07-04 17:38:55,936[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:39:00,776[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:39:00,794[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(12)
+2023-07-04 17:39:00,794[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:39:00,871[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(12), Length[3]
+2023-07-04 17:39:00,871[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:39:23,239[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:39:23,247[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:39:23,254[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:39:23,280[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(14)
+2023-07-04 17:39:23,280[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:39:23,280[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(15)
+2023-07-04 17:39:23,280[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:39:23,280[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(16)
+2023-07-04 17:39:23,280[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:39:23,341[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(14), Length[3]
+2023-07-04 17:39:23,341[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:39:23,341[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(15), Length[3]
+2023-07-04 17:39:23,341[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:39:23,345[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(16), Length[3]
+2023-07-04 17:39:23,345[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:39:23,398[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:39:23,402[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(17)
+2023-07-04 17:39:23,402[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:39:23,432[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(17), Length[3]
+2023-07-04 17:39:23,432[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:39:26,453[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:39:26,503[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(18)
+2023-07-04 17:39:26,503[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:39:26,534[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(18), Length[3]
+2023-07-04 17:39:26,534[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:39:27,033[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:39:27,052[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(19)
+2023-07-04 17:39:27,052[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:39:27,074[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(19), Length[3]
+2023-07-04 17:39:27,074[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:39:27,319[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:39:27,355[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(20)
+2023-07-04 17:39:27,355[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:39:27,375[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(20), Length[3]
+2023-07-04 17:39:27,375[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:39:36,947[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:39:36,959[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(21)
+2023-07-04 17:39:36,959[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:39:37,020[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(21), Length[3]
+2023-07-04 17:39:37,020[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:39:56,938[INFO ]:Queued SECS2 Message : S1F13
+2023-07-04 17:39:56,987[INFO ]:SENT SECS2 Message : SSID(1), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-04 17:39:56,989[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "DFR">
+    <A [1] "0">
+>
+2023-07-04 17:39:57,014[INFO ]:RECV SECS2 Message : SSID(1), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-04 17:39:57,015[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-04 17:40:39,669[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:40:39,700[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(2)
+2023-07-04 17:40:39,700[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:40:39,724[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-07-04 17:40:39,724[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:40:53,907[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:40:53,917[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:40:53,926[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:40:53,962[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(3)
+2023-07-04 17:40:53,962[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:40:53,962[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(4)
+2023-07-04 17:40:53,962[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:40:53,962[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(5)
+2023-07-04 17:40:53,962[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:40:53,991[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(3), Length[3]
+2023-07-04 17:40:53,991[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:40:54,067[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(4), Length[3]
+2023-07-04 17:40:54,067[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:40:54,067[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(5), Length[3]
+2023-07-04 17:40:54,067[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:40:54,080[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:40:54,082[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(6)
+2023-07-04 17:40:54,082[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:40:54,143[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(6), Length[3]
+2023-07-04 17:40:54,143[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:40:57,127[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:40:57,176[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(7)
+2023-07-04 17:40:57,176[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:40:57,251[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(7), Length[3]
+2023-07-04 17:40:57,251[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:40:57,705[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:40:57,724[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(8)
+2023-07-04 17:40:57,724[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:40:57,784[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(8), Length[3]
+2023-07-04 17:40:57,784[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:40:58,010[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:40:58,030[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(9)
+2023-07-04 17:40:58,030[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:40:58,090[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(9), Length[3]
+2023-07-04 17:40:58,090[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:41:26,358[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:41:26,413[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(10)
+2023-07-04 17:41:26,413[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:41:26,489[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(10), Length[3]
+2023-07-04 17:41:26,489[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:41:29,517[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:41:29,521[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(11)
+2023-07-04 17:41:29,521[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:41:29,549[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(11), Length[3]
+2023-07-04 17:41:29,549[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:41:34,443[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:41:34,447[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(12)
+2023-07-04 17:41:34,447[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:41:34,477[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(12), Length[3]
+2023-07-04 17:41:34,477[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:41:56,762[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:41:56,772[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:41:56,779[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:41:56,788[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(13)
+2023-07-04 17:41:56,788[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:41:56,788[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(14)
+2023-07-04 17:41:56,788[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:41:56,789[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(15)
+2023-07-04 17:41:56,789[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:41:56,832[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(13), Length[3]
+2023-07-04 17:41:56,832[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:41:56,836[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(14), Length[3]
+2023-07-04 17:41:56,836[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:41:56,908[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(15), Length[3]
+2023-07-04 17:41:56,908[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:41:56,921[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:41:56,969[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(16)
+2023-07-04 17:41:56,969[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:41:57,059[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(16), Length[3]
+2023-07-04 17:41:57,059[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:41:59,974[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:00,008[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(18)
+2023-07-04 17:42:00,008[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:42:00,035[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(18), Length[3]
+2023-07-04 17:42:00,035[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:00,553[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:00,555[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(19)
+2023-07-04 17:42:00,555[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:42:00,631[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(19), Length[3]
+2023-07-04 17:42:00,631[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:00,853[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:00,857[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(20)
+2023-07-04 17:42:00,857[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:42:00,932[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(20), Length[3]
+2023-07-04 17:42:00,932[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:25,068[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:25,077[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(21)
+2023-07-04 17:42:25,077[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:42:25,153[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(21), Length[3]
+2023-07-04 17:42:25,153[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:28,219[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:28,238[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(22)
+2023-07-04 17:42:28,238[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:42:28,268[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(22), Length[3]
+2023-07-04 17:42:28,268[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:32,458[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:32,491[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(23)
+2023-07-04 17:42:32,491[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:42:32,521[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(23), Length[3]
+2023-07-04 17:42:32,521[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:54,759[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:54,768[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:54,770[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(24)
+2023-07-04 17:42:54,770[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:42:54,770[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(25)
+2023-07-04 17:42:54,770[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:42:54,775[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:54,801[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(24), Length[3]
+2023-07-04 17:42:54,801[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:54,832[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(26)
+2023-07-04 17:42:54,832[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:42:54,877[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(25), Length[3]
+2023-07-04 17:42:54,877[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:54,877[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(26), Length[3]
+2023-07-04 17:42:54,877[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:54,919[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:54,953[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(27)
+2023-07-04 17:42:54,953[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:42:55,030[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(27), Length[3]
+2023-07-04 17:42:55,030[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:57,016[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:57,019[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(28)
+2023-07-04 17:42:57,019[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:42:57,080[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(28), Length[3]
+2023-07-04 17:42:57,080[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:57,732[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:57,751[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(29)
+2023-07-04 17:42:57,751[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:42:57,771[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(29), Length[3]
+2023-07-04 17:42:57,771[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:42:58,022[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:42:58,056[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(30)
+2023-07-04 17:42:58,056[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:42:58,074[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(30), Length[3]
+2023-07-04 17:42:58,074[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:43:27,152[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:43:27,195[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(31)
+2023-07-04 17:43:27,195[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:43:27,225[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(31), Length[3]
+2023-07-04 17:43:27,225[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:43:31,396[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:43:31,445[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(32)
+2023-07-04 17:43:31,445[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:43:31,475[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(32), Length[3]
+2023-07-04 17:43:31,475[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:43:35,497[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:43:35,517[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(33)
+2023-07-04 17:43:35,517[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:43:35,577[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(33), Length[3]
+2023-07-04 17:43:35,577[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:43:58,747[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:43:58,756[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:43:58,757[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(34)
+2023-07-04 17:43:58,758[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:43:58,758[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(35)
+2023-07-04 17:43:58,758[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:43:58,764[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:43:58,784[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(34), Length[3]
+2023-07-04 17:43:58,784[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:43:58,818[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(36)
+2023-07-04 17:43:58,818[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:43:58,849[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(35), Length[3]
+2023-07-04 17:43:58,849[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:43:58,849[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(36), Length[3]
+2023-07-04 17:43:58,849[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:43:58,905[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:43:58,941[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(37)
+2023-07-04 17:43:58,941[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:43:59,002[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(37), Length[3]
+2023-07-04 17:43:59,002[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:44:02,088[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:44:02,091[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(39)
+2023-07-04 17:44:02,091[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:44:02,119[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(39), Length[3]
+2023-07-04 17:44:02,119[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:44:02,818[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:44:02,879[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(40)
+2023-07-04 17:44:02,879[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:44:02,940[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(40), Length[3]
+2023-07-04 17:44:02,940[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:44:03,120[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:44:03,122[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(41)
+2023-07-04 17:44:03,122[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:44:03,167[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(41), Length[3]
+2023-07-04 17:44:03,168[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:44:27,194[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:44:27,219[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(42)
+2023-07-04 17:44:27,219[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:44:27,241[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(42), Length[3]
+2023-07-04 17:44:27,241[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:44:30,340[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:44:30,372[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(43)
+2023-07-04 17:44:30,373[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:44:30,418[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(43), Length[3]
+2023-07-04 17:44:30,418[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:44:34,449[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:44:34,498[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(44)
+2023-07-04 17:44:34,498[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:44:34,589[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(44), Length[3]
+2023-07-04 17:44:34,589[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:44:57,706[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:44:57,715[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:44:57,723[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:44:57,747[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(45)
+2023-07-04 17:44:57,747[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:44:57,747[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(46)
+2023-07-04 17:44:57,747[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:44:57,747[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(47)
+2023-07-04 17:44:57,747[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:44:57,777[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(45), Length[3]
+2023-07-04 17:44:57,777[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:44:57,854[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(46), Length[3]
+2023-07-04 17:44:57,854[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:44:57,854[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(47), Length[3]
+2023-07-04 17:44:57,854[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:44:57,866[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:44:57,869[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(48)
+2023-07-04 17:44:57,870[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:44:57,931[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(48), Length[3]
+2023-07-04 17:44:57,931[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:45:01,058[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:45:01,090[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(49)
+2023-07-04 17:45:01,090[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:45:01,120[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(49), Length[3]
+2023-07-04 17:45:01,120[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:45:01,771[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:45:01,819[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(50)
+2023-07-04 17:45:01,819[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:45:01,880[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(50), Length[3]
+2023-07-04 17:45:01,880[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:45:02,074[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:45:02,122[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(51)
+2023-07-04 17:45:02,122[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:45:02,183[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(51), Length[3]
+2023-07-04 17:45:02,183[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:45:26,145[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:45:26,155[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(52)
+2023-07-04 17:45:26,155[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:45:26,216[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(52), Length[3]
+2023-07-04 17:45:26,216[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:45:29,308[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:45:29,313[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(53)
+2023-07-04 17:45:29,313[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:45:29,342[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(53), Length[3]
+2023-07-04 17:45:29,342[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:45:33,405[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:45:33,437[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(54)
+2023-07-04 17:45:33,437[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:45:33,498[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(54), Length[3]
+2023-07-04 17:45:33,498[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:45:56,674[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:45:56,683[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:45:56,692[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:45:56,700[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(55)
+2023-07-04 17:45:56,700[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:45:56,700[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(56)
+2023-07-04 17:45:56,700[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:45:56,700[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(57)
+2023-07-04 17:45:56,700[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:45:56,730[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(55), Length[3]
+2023-07-04 17:45:56,730[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:45:56,807[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(56), Length[3]
+2023-07-04 17:45:56,807[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:45:56,807[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(57), Length[3]
+2023-07-04 17:45:56,807[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:45:56,834[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:45:56,883[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(58)
+2023-07-04 17:45:56,883[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:45:56,960[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(58), Length[3]
+2023-07-04 17:45:56,960[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:45:59,895[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:45:59,928[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(59)
+2023-07-04 17:45:59,928[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:45:59,987[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(59), Length[3]
+2023-07-04 17:45:59,987[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:00,486[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:00,537[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(60)
+2023-07-04 17:46:00,537[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:46:00,598[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(60), Length[3]
+2023-07-04 17:46:00,598[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:00,774[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:00,779[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(61)
+2023-07-04 17:46:00,779[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:46:00,824[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(61), Length[3]
+2023-07-04 17:46:00,824[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:25,116[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:25,173[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(63)
+2023-07-04 17:46:25,173[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:46:25,233[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(63), Length[3]
+2023-07-04 17:46:25,233[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:28,263[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:28,267[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(64)
+2023-07-04 17:46:28,267[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:46:28,344[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(64), Length[3]
+2023-07-04 17:46:28,344[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:32,502[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:32,522[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(65)
+2023-07-04 17:46:32,522[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:46:32,598[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(65), Length[3]
+2023-07-04 17:46:32,598[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:55,769[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:55,778[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:55,780[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(66)
+2023-07-04 17:46:55,781[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:46:55,781[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(67)
+2023-07-04 17:46:55,781[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:46:55,786[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:55,810[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(66), Length[3]
+2023-07-04 17:46:55,810[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:55,842[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(68)
+2023-07-04 17:46:55,842[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:46:55,887[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(67), Length[3]
+2023-07-04 17:46:55,887[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:55,888[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(68), Length[3]
+2023-07-04 17:46:55,888[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:55,929[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:55,963[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(69)
+2023-07-04 17:46:55,963[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:46:56,038[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(69), Length[3]
+2023-07-04 17:46:56,038[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:58,994[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:58,997[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(70)
+2023-07-04 17:46:58,997[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:46:59,074[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(70), Length[3]
+2023-07-04 17:46:59,074[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:59,570[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:59,603[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(71)
+2023-07-04 17:46:59,603[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:46:59,678[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(71), Length[3]
+2023-07-04 17:46:59,678[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:46:59,871[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:46:59,907[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(72)
+2023-07-04 17:46:59,907[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:46:59,983[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(72), Length[3]
+2023-07-04 17:46:59,983[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:47:24,143[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:47:24,186[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(73)
+2023-07-04 17:47:24,186[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:47:24,232[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(73), Length[3]
+2023-07-04 17:47:24,233[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:47:27,455[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:47:27,489[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(74)
+2023-07-04 17:47:27,489[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:47:27,520[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(74), Length[3]
+2023-07-04 17:47:27,520[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:47:31,462[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:47:31,482[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(75)
+2023-07-04 17:47:31,482[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:47:31,512[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(75), Length[3]
+2023-07-04 17:47:31,512[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:47:54,645[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:47:54,652[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:47:54,658[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:47:54,686[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(76)
+2023-07-04 17:47:54,686[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:47:54,687[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(77)
+2023-07-04 17:47:54,687[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:47:54,687[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(78)
+2023-07-04 17:47:54,687[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:47:54,706[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(76), Length[3]
+2023-07-04 17:47:54,706[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:47:54,779[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(77), Length[3]
+2023-07-04 17:47:54,779[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:47:54,779[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(78), Length[3]
+2023-07-04 17:47:54,779[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:47:54,805[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:47:54,809[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(79)
+2023-07-04 17:47:54,809[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:47:54,855[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(79), Length[3]
+2023-07-04 17:47:54,855[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:47:58,019[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:47:58,055[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(80)
+2023-07-04 17:47:58,055[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:47:58,075[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(80), Length[3]
+2023-07-04 17:47:58,075[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:47:58,725[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:47:58,730[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(81)
+2023-07-04 17:47:58,730[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:47:58,760[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(81), Length[3]
+2023-07-04 17:47:58,760[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:47:59,017[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:47:59,036[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(82)
+2023-07-04 17:47:59,036[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:47:59,067[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(82), Length[3]
+2023-07-04 17:47:59,067[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:48:23,053[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:48:23,065[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(84)
+2023-07-04 17:48:23,065[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:48:23,126[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(84), Length[3]
+2023-07-04 17:48:23,126[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:48:26,359[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:48:26,363[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(85)
+2023-07-04 17:48:26,363[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:48:26,408[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(85), Length[3]
+2023-07-04 17:48:26,408[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:48:30,499[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:48:30,535[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(86)
+2023-07-04 17:48:30,535[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:48:30,554[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(86), Length[3]
+2023-07-04 17:48:30,554[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:48:53,690[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:48:53,698[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:48:53,705[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:48:53,749[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(87)
+2023-07-04 17:48:53,749[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:48:53,749[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(88)
+2023-07-04 17:48:53,749[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:48:53,749[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(89)
+2023-07-04 17:48:53,749[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:48:53,825[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(87), Length[3]
+2023-07-04 17:48:53,825[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:48:53,826[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(88), Length[3]
+2023-07-04 17:48:53,826[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:48:53,826[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(89), Length[3]
+2023-07-04 17:48:53,826[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:48:53,851[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:48:53,872[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(90)
+2023-07-04 17:48:53,872[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:48:53,903[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(90), Length[3]
+2023-07-04 17:48:53,903[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:48:55,949[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:48:55,954[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(91)
+2023-07-04 17:48:55,954[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:48:55,972[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(91), Length[3]
+2023-07-04 17:48:55,972[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:48:56,654[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:48:56,688[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(92)
+2023-07-04 17:48:56,688[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:48:56,734[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(92), Length[3]
+2023-07-04 17:48:56,734[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:48:56,943[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:48:56,994[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(93)
+2023-07-04 17:48:56,994[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:48:57,041[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(93), Length[3]
+2023-07-04 17:48:57,041[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:49:26,169[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:49:26,180[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(94)
+2023-07-04 17:49:26,180[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:49:26,257[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(94), Length[3]
+2023-07-04 17:49:26,257[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:49:29,338[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:49:29,356[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(95)
+2023-07-04 17:49:29,356[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:49:29,386[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(95), Length[3]
+2023-07-04 17:49:29,386[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:49:33,467[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:49:33,517[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(96)
+2023-07-04 17:49:33,517[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:49:33,592[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(96), Length[3]
+2023-07-04 17:49:33,592[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:49:56,759[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:49:56,766[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:49:56,773[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:49:56,815[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(97)
+2023-07-04 17:49:56,815[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:49:56,815[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(98)
+2023-07-04 17:49:56,815[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:49:56,816[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(99)
+2023-07-04 17:49:56,816[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleStart` 1101 >
+    <L [0] >
+>
+2023-07-04 17:49:56,891[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(97), Length[3]
+2023-07-04 17:49:56,891[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:49:56,891[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(98), Length[3]
+2023-07-04 17:49:56,891[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:49:56,898[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(99), Length[3]
+2023-07-04 17:49:56,898[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:49:56,916[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:49:56,935[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(100)
+2023-07-04 17:49:56,935[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:49:56,966[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(100), Length[3]
+2023-07-04 17:49:56,966[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:50:00,002[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:50:00,007[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(101)
+2023-07-04 17:50:00,007[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationOccupied` 1201 >
+    <L [0] >
+>
+2023-07-04 17:50:00,037[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(101), Length[3]
+2023-07-04 17:50:00,037[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:50:00,588[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:50:00,625[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(102)
+2023-07-04 17:50:00,625[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `SubstrateLocationUnoccupied` 1202 >
+    <L [0] >
+>
+2023-07-04 17:50:00,655[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(102), Length[3]
+2023-07-04 17:50:00,655[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:50:00,882[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:50:00,932[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(103)
+2023-07-04 17:50:00,932[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:50:00,963[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(103), Length[3]
+2023-07-04 17:50:00,963[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:50:12,064[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:50:12,120[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(105)
+2023-07-04 17:50:12,120[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `EquipmentStateChanged` 1051 >
+    <L [0] >
+>
+2023-07-04 17:50:12,180[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(105), Length[3]
+2023-07-04 17:50:12,180[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >
+2023-07-04 17:50:15,373[INFO ]:Queued SECS2 Message : S6F11
+2023-07-04 17:50:15,424[INFO ]:SENT SECS2 Message : SSID(1), B2(134), B3(11), P(0), S(0), SB(106)
+2023-07-04 17:50:15,424[INFO ]:>>>S6F11 W>>>  
+<L [3] 
+    <U4 [1] 0 >
+    <U4 [1] `ModuleEnd` 1102 >
+    <L [0] >
+>
+2023-07-04 17:50:15,471[INFO ]:RECV SECS2 Message : SSID(1), B2(6), B3(12), P(0), S(0), SB(106), Length[3]
+2023-07-04 17:50:15,471[DEBUG]:<<<S6F12<<<  
+<B [1] 00 >

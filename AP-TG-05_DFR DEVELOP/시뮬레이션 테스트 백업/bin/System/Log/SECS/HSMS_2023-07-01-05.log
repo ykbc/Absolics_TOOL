@@ -1,0 +1,6 @@
+2023-07-01 05:00:08,270[INFO ]:Send LinkTest Request.
+2023-07-01 05:00:08,272[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(4), Length[0]
+2023-07-01 05:00:08,272[INFO ]:Message Stat : Queue[1], Sent[0], Recv[4]
+2023-07-01 05:00:08,338[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(4), Length[0]
+2023-07-01 05:00:08,340[INFO ]:Received LinkTest Response.
+2023-07-01 05:00:08,340[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(4), Length[0]

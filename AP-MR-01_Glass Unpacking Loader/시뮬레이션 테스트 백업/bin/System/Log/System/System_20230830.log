@@ -1,0 +1,1173 @@
+Time,Name,Type,MsgType,Text
+2023-08-30 08:07:46.006,,System,Normal,CIM has been executed..
+2023-08-30 09:23:01.653,,System,Normal,CIM has been executed..
+2023-08-30 09:23:02.668,,System,Normal,Start MasterPLC Thread..
+2023-08-30 09:23:04.792,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-30 09:23:06.514,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 09:23:06.529,,Host,Normal,HSMS Connection Selected.
+2023-08-30 09:33:43.229,,System,Normal,CIM has been executed..
+2023-08-30 09:33:44.192,,System,Normal,Start MasterPLC Thread..
+2023-08-30 09:33:44.641,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 09:33:44.653,,Host,Normal,HSMS Connection Selected.
+2023-08-30 09:33:46.313,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-30 09:34:09.636,,System,Error,MasterPLC Connect fail. [대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:8192]
+2023-08-30 09:34:13.328,,System,Normal,CIM has been executed..
+2023-08-30 09:34:13.828,,System,Normal,Start MasterPLC Thread..
+2023-08-30 09:34:13.934,,System,Normal,MasterPLC connected..
+2023-08-30 09:34:19.765,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 09:34:19.775,,Host,Normal,HSMS Connection Selected.
+2023-08-30 09:36:41.876,,System,Normal,CIM has been executed..
+2023-08-30 09:36:42.860,,System,Normal,Start MasterPLC Thread..
+2023-08-30 09:36:42.966,,System,Normal,MasterPLC connected..
+2023-08-30 09:36:43.151,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 09:36:43.169,,Host,Normal,HSMS Connection Selected.
+2023-08-30 09:37:08.636,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-30 09:37:24.805,,Host,Normal,Receive S1F13
+2023-08-30 09:37:24.818,,Host,Normal,Receive S1F17.. OnLine command.. already OnlineRemote
+2023-08-30 09:37:30.217,,Booth,Error,Command[WORK_START] Retry over
+2023-08-30 09:37:35.740,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 09:37:37.199,eTrackStep,TM01,Normal,containOn
+2023-08-30 09:37:38.640,eTrackStep,TM01,Normal,occupied
+2023-08-30 09:37:40.080,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 09:37:41.187,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 09:37:41.202,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 09:37:41.537,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 09:37:41.642,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 09:37:41.945,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 09:37:42.373,eTrackStep,BF01,Normal,containOn
+2023-08-30 09:37:42.663,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 09:37:43.015,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 09:37:43.121,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 09:37:43.410,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 09:37:44.139,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 09:37:44.473,eTrackStep,TM01,Normal,none
+2023-08-30 09:37:44.883,TxGlassIDReadAck,BF01,Normal,on[GLASS-1]
+2023-08-30 09:37:45.688,TxVirtualGlassId,BF01,Normal,GLASS-1
+2023-08-30 09:37:45.690,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 09:37:46.039,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 09:37:46.160,eTrackStep,BF01,Normal,occupied
+2023-08-30 09:37:46.477,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 09:37:47.207,TxVirtualGlassId,BF01,Normal,
+2023-08-30 09:37:47.208,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 09:37:47.557,eTrackStep,TM01,Normal,containOn
+2023-08-30 09:37:48.380,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 09:37:49.003,eTrackStep,TM01,Normal,occupied
+2023-08-30 09:37:49.395,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 09:37:49.409,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 09:37:49.836,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 09:37:50.153,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 09:37:50.473,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 09:37:50.868,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 09:37:51.309,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 09:37:51.598,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 09:37:51.599,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 09:37:51.613,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 09:37:51.946,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 09:37:52.338,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 09:37:52.353,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 09:37:52.792,eTrackStep,BF01,Normal,none
+2023-08-30 09:37:53.081,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 09:37:53.416,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 09:37:53.813,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 09:37:54.270,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 09:37:54.562,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 09:37:54.894,eTrackStep,TM01,Normal,none
+2023-08-30 09:37:55.000,eTrackStep,BF01,Normal,containOn
+2023-08-30 09:37:55.822,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 09:37:56.446,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 09:37:57.606,TxGlassIDReadAck,BF01,Normal,on[GLASS-2]
+2023-08-30 09:37:57.924,eTrackStep,TM01,Normal,containOn
+2023-08-30 09:37:58.321,TxVirtualGlassId,BF01,Normal,GLASS-2
+2023-08-30 09:37:58.322,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 09:37:58.776,eTrackStep,BF01,Normal,occupied
+2023-08-30 09:37:59.096,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 09:37:59.412,eTrackStep,TM01,Normal,occupied
+2023-08-30 09:37:59.807,TxVirtualGlassId,BF01,Normal,
+2023-08-30 09:37:59.808,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 10:35:08.520,,System,Normal,CIM has been executed..
+2023-08-30 10:35:09.269,,System,Normal,Start MasterPLC Thread..
+2023-08-30 10:35:09.388,,System,Normal,MasterPLC connected..
+2023-08-30 10:36:13.354,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 10:36:13.372,,Host,Normal,HSMS Connection Selected.
+2023-08-30 10:36:29.831,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-30 10:37:12.810,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-30 10:40:16.009,,System,Normal,CIM has been executed..
+2023-08-30 10:40:16.962,,System,Normal,Start MasterPLC Thread..
+2023-08-30 10:40:17.075,,System,Normal,MasterPLC connected..
+2023-08-30 10:40:20.001,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:40:22.888,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 10:40:22.898,,Host,Normal,HSMS Connection Selected.
+2023-08-30 10:40:25.785,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:40:29.368,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:40:32.002,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:40:34.764,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:40:36.298,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:40:38.244,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:40:39.490,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:41:06.513,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:41:31.469,,System,Normal,CIM has been executed..
+2023-08-30 10:41:32.460,,System,Normal,Start MasterPLC Thread..
+2023-08-30 10:41:32.578,,System,Normal,MasterPLC connected..
+2023-08-30 10:41:35.372,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:41:37.172,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:41:37.174,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 10:41:37.183,,Host,Normal,HSMS Connection Selected.
+2023-08-30 10:41:39.513,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:41:43.382,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:41:56.316,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 10:41:56.317,,Host,Normal,HSMS Disconnected.
+2023-08-30 10:42:26.023,,System,Normal,CIM has been executed..
+2023-08-30 10:42:26.594,,System,Normal,Start MasterPLC Thread..
+2023-08-30 10:42:26.705,,System,Normal,MasterPLC connected..
+2023-08-30 10:42:35.278,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 10:44:34.020,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 10:44:34.038,,Host,Normal,HSMS Connection Selected.
+2023-08-30 10:44:38.800,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-30 10:44:38.934,,Booth,Normal,Set Time. by host
+2023-08-30 10:44:38.942,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-30 10:44:40.618,,Host,Normal,Receive S2F37.. Disable Events..
+2023-08-30 10:44:42.282,,Host,Normal,Receive S2F35.. success to unlink ReportID & EventID
+2023-08-30 10:44:43.803,,Host,Normal,Receive S2F33.. success to unlink VID & ReportID
+2023-08-30 10:44:47.057,,Host,Normal,Receive S2F33.. success to link VID & ReportID
+2023-08-30 10:44:49.446,,Host,Normal,Receive S2F35.. success to link ReportID & EventID
+2023-08-30 10:44:51.645,,Host,Normal,Receive S2F37.. Enable Events..
+2023-08-30 10:44:55.194,,Host,Normal,Receive S1F3..
+2023-08-30 10:47:25.785,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-30 10:52:44.671,,Booth,Error,Command[WORK_START] Retry over
+2023-08-30 10:52:45.802,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 10:52:46.097,eTrackStep,TM01,Normal,containOn
+2023-08-30 10:52:46.400,eTrackStep,TM01,Normal,occupied
+2023-08-30 10:52:49.379,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 10:52:49.667,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 10:52:49.674,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 10:52:49.690,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 10:52:49.690,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 10:52:49.839,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 10:52:49.855,eTrackStep,BF01,Normal,containOn
+2023-08-30 10:52:50.001,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 10:52:50.026,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 10:52:50.027,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 10:52:50.168,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 10:52:50.334,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 10:52:50.341,eTrackStep,TM01,Normal,none
+2023-08-30 10:52:50.495,TxGlassIDReadAck,BF01,Normal,on[GLASS01]
+2023-08-30 10:52:50.696,TxVirtualGlassId,BF01,Normal,GLASS01
+2023-08-30 10:52:50.697,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 10:52:50.713,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 10:52:50.726,eTrackStep,BF01,Normal,occupied
+2023-08-30 10:52:50.869,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 10:52:51.032,TxVirtualGlassId,BF01,Normal,
+2023-08-30 10:52:51.033,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 10:52:51.046,eTrackStep,TM01,Normal,containOn
+2023-08-30 10:52:51.200,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 10:52:51.343,eTrackStep,TM01,Normal,occupied
+2023-08-30 10:52:51.486,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 10:52:51.494,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 10:52:51.510,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 10:52:51.670,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 10:52:51.681,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 10:52:51.837,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 10:52:51.859,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 10:52:52.004,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 10:52:52.005,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 10:52:52.012,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 10:52:52.027,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 10:52:52.172,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 10:52:52.180,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 10:52:52.194,eTrackStep,BF01,Normal,none
+2023-08-30 10:52:52.338,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 10:52:52.352,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 10:52:52.506,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 10:52:52.528,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 10:52:52.671,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 10:52:52.679,eTrackStep,TM01,Normal,none
+2023-08-30 10:52:52.686,eTrackStep,BF01,Normal,containOn
+2023-08-30 10:52:52.876,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 10:52:53.026,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 10:52:53.351,TxGlassIDReadAck,BF01,Normal,on[GLASS02]
+2023-08-30 10:52:53.352,eTrackStep,TM01,Normal,containOn
+2023-08-30 10:52:53.505,TxVirtualGlassId,BF01,Normal,GLASS02
+2023-08-30 10:52:53.505,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 10:52:53.534,eTrackStep,BF01,Normal,occupied
+2023-08-30 10:52:53.688,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 10:52:53.689,eTrackStep,TM01,Normal,occupied
+2023-08-30 10:52:53.838,TxVirtualGlassId,BF01,Normal,
+2023-08-30 10:52:53.839,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 10:52:59.918,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 10:52:59.926,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 10:53:00.191,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 10:53:00.211,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 10:53:00.356,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 10:53:00.378,eTrackStep,USC01,Normal,containOn
+2023-08-30 10:53:00.524,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 10:53:00.693,eTrackStep,USC01,Normal,occupied
+2023-08-30 10:55:50.508,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 10:55:50.660,eTrackStep,USC01,Normal,none
+2023-08-30 10:55:53.093,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 10:55:53.410,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 10:55:53.418,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 10:55:53.442,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 10:55:53.578,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 10:55:53.585,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 10:55:53.594,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 10:55:53.603,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 10:55:53.761,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 10:55:53.762,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 10:55:53.792,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 10:55:53.799,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 10:55:53.944,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 10:55:53.945,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 10:55:53.947,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 10:55:53.954,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 10:55:53.983,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 10:55:53.998,eTrackStep,USC01,Normal,containOn
+2023-08-30 10:55:54.142,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 10:55:54.143,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 10:55:54.151,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 10:55:54.173,eTrackStep,BF01,Normal,none
+2023-08-30 10:55:54.325,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 10:55:54.355,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 10:55:54.362,eTrackStep,USC01,Normal,occupied
+2023-08-30 10:55:54.508,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 10:55:54.530,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 10:55:54.675,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 10:55:54.697,eTrackStep,TM01,Normal,none
+2023-08-30 10:55:54.703,eTrackStep,BF01,Normal,containOn
+2023-08-30 10:55:54.850,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 10:55:55.305,TxGlassIDReadAck,BF01,Normal,on[GLASS03]
+2023-08-30 10:55:55.463,TxVirtualGlassId,BF01,Normal,GLASS03
+2023-08-30 10:55:55.464,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 10:55:55.487,eTrackStep,BF01,Normal,occupied
+2023-08-30 10:55:55.634,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 10:55:55.782,TxVirtualGlassId,BF01,Normal,
+2023-08-30 10:55:55.783,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 10:56:20.681,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 10:56:20.831,eTrackStep,USC01,Normal,none
+2023-08-30 10:56:23.124,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 10:56:23.425,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 10:56:23.432,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 10:56:23.455,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 10:56:23.594,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 10:56:23.601,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 10:56:23.610,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 10:56:23.777,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 10:56:23.777,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 10:56:23.807,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 10:56:23.814,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 10:56:23.959,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 10:56:23.959,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 10:56:24.001,eTrackStep,USC01,Normal,containOn
+2023-08-30 10:56:24.144,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 10:56:24.146,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 10:56:24.168,eTrackStep,BF01,Normal,none
+2023-08-30 10:56:24.327,eTrackStep,USC01,Normal,occupied
+2023-08-30 10:56:50.271,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 10:56:50.421,eTrackStep,USC01,Normal,none
+2023-08-30 10:59:27.109,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 11:04:04.181,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 11:04:23.424,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-30 11:04:23.556,,Booth,Normal,Set Time. by host
+2023-08-30 11:04:23.563,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-30 11:04:25.317,,Host,Normal,Receive S2F37.. Disable Events..
+2023-08-30 11:04:26.600,,Host,Normal,Receive S2F35.. success to unlink ReportID & EventID
+2023-08-30 11:04:28.101,,Host,Normal,Receive S2F33.. success to unlink VID & ReportID
+2023-08-30 11:04:30.891,,Host,Normal,Receive S2F33.. success to link VID & ReportID
+2023-08-30 11:07:43.825,,Host,Normal,Receive S2F31.. TimeSet..
+2023-08-30 11:07:43.896,,Booth,Normal,Set Time. by host
+2023-08-30 11:07:43.904,,Booth,Normal,I/F TimeSet Bit On. by host
+2023-08-30 11:07:45.487,,Host,Normal,Receive S2F37.. Disable Events..
+2023-08-30 11:07:47.151,,Host,Normal,Receive S2F35.. success to unlink ReportID & EventID
+2023-08-30 11:07:49.332,,Host,Normal,Receive S2F33.. success to unlink VID & ReportID
+2023-08-30 11:07:53.368,,Host,Normal,Receive S2F33.. success to link VID & ReportID
+2023-08-30 11:07:56.470,,Host,Normal,Receive S2F35.. success to link ReportID & EventID
+2023-08-30 11:07:59.803,,Host,Normal,Receive S2F37.. Enable Events..
+2023-08-30 11:08:01.763,,Host,Normal,Receive S1F3..
+2023-08-30 11:16:30.370,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-30 11:16:34.008,,Booth,Error,Command[WORK_START] Retry over
+2023-08-30 11:16:35.140,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 11:16:35.451,eTrackStep,TM01,Normal,containOn
+2023-08-30 11:16:35.759,eTrackStep,TM01,Normal,occupied
+2023-08-30 11:16:36.071,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 11:16:36.360,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 11:16:36.367,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 11:16:36.383,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 11:16:36.384,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 11:16:36.536,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 11:16:36.552,eTrackStep,BF01,Normal,containOn
+2023-08-30 11:16:36.694,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 11:16:36.716,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 11:16:36.716,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 11:16:36.861,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 11:16:37.028,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 11:16:37.036,eTrackStep,TM01,Normal,none
+2023-08-30 11:16:37.189,TxGlassIDReadAck,BF01,Normal,on[GLASS01]
+2023-08-30 11:16:37.392,TxVirtualGlassId,BF01,Normal,GLASS01
+2023-08-30 11:16:37.393,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 11:16:37.408,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 11:16:37.422,eTrackStep,BF01,Normal,occupied
+2023-08-30 11:16:37.568,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 11:16:37.728,TxVirtualGlassId,BF01,Normal,
+2023-08-30 11:16:37.728,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 11:16:37.743,eTrackStep,TM01,Normal,containOn
+2023-08-30 11:16:37.909,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 11:16:38.061,eTrackStep,TM01,Normal,occupied
+2023-08-30 11:16:38.213,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 11:16:38.213,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 11:16:38.221,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 11:16:38.229,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 11:16:38.246,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 11:16:38.395,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 11:16:38.409,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 11:16:38.427,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 11:16:38.440,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 11:16:38.579,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 11:16:38.579,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 11:16:38.614,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 11:16:38.621,eTrackStep,USC01,Normal,containOn
+2023-08-30 11:16:38.760,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 11:16:38.761,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 11:16:38.762,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 11:16:38.769,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 11:16:38.792,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 11:16:38.943,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 11:16:38.952,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 11:16:38.981,eTrackStep,BF01,Normal,none
+2023-08-30 11:16:38.981,eTrackStep,USC01,Normal,occupied
+2023-08-30 11:16:39.126,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 11:16:39.140,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 11:16:39.293,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 11:16:39.327,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 11:16:39.477,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 11:16:39.485,eTrackStep,TM01,Normal,none
+2023-08-30 11:16:39.491,eTrackStep,BF01,Normal,containOn
+2023-08-30 11:16:39.686,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 11:16:39.835,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 11:16:40.161,TxGlassIDReadAck,BF01,Normal,on[GLASS02]
+2023-08-30 11:16:40.161,eTrackStep,TM01,Normal,containOn
+2023-08-30 11:16:40.313,TxVirtualGlassId,BF01,Normal,GLASS02
+2023-08-30 11:16:40.314,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 11:16:40.344,eTrackStep,BF01,Normal,occupied
+2023-08-30 11:16:40.495,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 11:16:40.496,eTrackStep,TM01,Normal,occupied
+2023-08-30 11:16:40.645,TxVirtualGlassId,BF01,Normal,
+2023-08-30 11:16:40.646,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 11:16:52.637,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 11:16:52.786,eTrackStep,USC01,Normal,none
+2023-08-30 11:16:55.095,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 11:16:55.413,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 11:16:55.421,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 11:16:55.444,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 11:16:55.580,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 11:16:55.587,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 11:16:55.596,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 11:16:55.606,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 11:16:55.762,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 11:16:55.763,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 11:16:55.795,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 11:16:55.802,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 11:16:55.945,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 11:16:55.946,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 11:16:55.948,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 11:16:55.955,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 11:16:55.985,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 11:16:55.999,eTrackStep,USC01,Normal,containOn
+2023-08-30 11:16:56.143,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 11:16:56.144,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 11:16:56.152,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 11:16:56.173,eTrackStep,BF01,Normal,none
+2023-08-30 11:16:56.326,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 11:16:56.355,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 11:16:56.362,eTrackStep,USC01,Normal,occupied
+2023-08-30 11:16:56.507,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 11:16:56.530,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 11:16:56.673,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 11:16:56.695,eTrackStep,TM01,Normal,none
+2023-08-30 11:16:56.700,eTrackStep,BF01,Normal,containOn
+2023-08-30 11:16:56.850,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 11:16:57.305,TxGlassIDReadAck,BF01,Normal,on[GLASS03]
+2023-08-30 11:16:57.447,TxVirtualGlassId,BF01,Normal,GLASS03
+2023-08-30 11:16:57.448,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 11:16:57.470,eTrackStep,BF01,Normal,occupied
+2023-08-30 11:16:57.622,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 11:16:57.767,TxVirtualGlassId,BF01,Normal,
+2023-08-30 11:16:57.768,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 11:17:18.770,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 11:17:18.923,eTrackStep,USC01,Normal,none
+2023-08-30 11:17:24.680,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 11:17:24.997,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 11:17:25.005,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 11:17:25.022,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 11:17:25.173,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 11:17:25.334,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 11:17:25.356,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 11:17:25.502,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 11:17:25.669,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 11:17:25.684,eTrackStep,BF01,Normal,none
+2023-08-30 11:17:28.301,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 11:17:28.309,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 11:17:28.468,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 11:17:28.485,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 11:17:28.635,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 11:17:28.649,eTrackStep,USC01,Normal,containOn
+2023-08-30 11:17:28.787,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 11:17:28.949,eTrackStep,USC01,Normal,occupied
+2023-08-30 11:17:48.349,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 11:17:48.500,eTrackStep,USC01,Normal,none
+2023-08-30 11:17:53.827,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 11:17:55.378,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 11:17:58.828,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 12:12:55.798,,System,Normal,CIM has been executed..
+2023-08-30 12:12:56.558,,System,Normal,Start MasterPLC Thread..
+2023-08-30 12:12:56.665,,System,Normal,MasterPLC connected..
+2023-08-30 12:12:57.136,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:12:57.335,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:12:57.532,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:12:57.927,TxGlassIDReadAck,BF01,Normal,on[GLASS-2]
+2023-08-30 12:12:58.126,TxVirtualGlassId,BF01,Normal,GLASS-2
+2023-08-30 12:12:58.126,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:12:58.171,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:12:58.370,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:12:58.568,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:12:58.569,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:12:59.607,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 12:12:59.617,,Host,Normal,HSMS Connection Selected.
+2023-08-30 12:13:15.755,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 12:13:15.770,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 12:13:15.967,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 12:13:15.998,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 12:13:16.182,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 12:13:16.227,eTrackStep,USC01,Normal,containOn
+2023-08-30 12:13:16.410,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 12:13:16.652,eTrackStep,USC01,Normal,occupied
+2023-08-30 12:13:18.447,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 12:13:18.646,eTrackStep,USC01,Normal,none
+2023-08-30 12:17:43.816,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:17:44.211,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:17:44.211,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 12:17:44.226,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:17:44.241,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 12:17:44.256,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:17:44.457,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 12:17:44.472,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:17:44.518,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 12:17:44.699,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:17:44.701,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 12:17:44.761,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:17:44.777,eTrackStep,USC01,Normal,containOn
+2023-08-30 12:17:44.960,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:17:44.961,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 12:17:45.204,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:17:45.250,eTrackStep,BF01,Normal,none
+2023-08-30 12:17:45.251,eTrackStep,USC01,Normal,occupied
+2023-08-30 12:17:47.049,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 12:17:47.246,eTrackStep,USC01,Normal,none
+2023-08-30 12:26:30.145,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 12:27:16.217,,System,Normal,CIM has been executed..
+2023-08-30 12:27:16.917,,System,Normal,Start MasterPLC Thread..
+2023-08-30 12:27:17.028,,System,Normal,MasterPLC connected..
+2023-08-30 12:27:22.866,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 12:27:22.877,,Host,Normal,HSMS Connection Selected.
+2023-08-30 12:27:46.446,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-30 12:28:16.303,,Booth,Error,Command[WORK_START] Retry over
+2023-08-30 12:28:17.854,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:28:18.265,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:28:18.661,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:28:22.869,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:28:23.268,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:28:23.283,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:28:23.314,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:28:23.314,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:28:23.512,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:28:23.543,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:28:23.726,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:28:23.772,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:28:23.773,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:28:23.955,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:28:24.184,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:28:24.199,eTrackStep,TM01,Normal,none
+2023-08-30 12:28:24.412,TxGlassIDReadAck,BF01,Normal,on[GLASS-1]
+2023-08-30 12:28:24.717,TxVirtualGlassId,BF01,Normal,GLASS-1
+2023-08-30 12:28:24.718,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:28:24.746,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:28:24.777,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:28:24.975,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:28:25.203,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:28:25.204,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:28:25.232,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:28:25.445,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:28:25.643,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:28:25.840,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:28:25.856,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:28:25.887,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:28:26.101,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:28:26.116,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:28:26.314,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:28:26.358,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:28:26.543,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:28:26.544,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:28:26.558,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:28:26.589,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:28:26.788,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:28:26.803,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:28:26.834,eTrackStep,BF01,Normal,none
+2023-08-30 12:28:27.017,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:28:27.047,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:28:27.245,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:28:27.291,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:28:27.473,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:28:27.488,eTrackStep,TM01,Normal,none
+2023-08-30 12:28:27.503,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:28:27.807,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:28:28.005,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:28:28.460,TxGlassIDReadAck,BF01,Normal,on[GLASS-2]
+2023-08-30 12:28:28.461,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:28:28.659,TxVirtualGlassId,BF01,Normal,GLASS-2
+2023-08-30 12:28:28.659,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:28:28.720,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:28:28.935,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:28:28.936,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:28:29.135,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:28:29.137,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:28:31.024,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 12:28:31.039,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 12:28:31.238,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 12:28:31.268,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 12:28:31.452,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 12:28:31.499,eTrackStep,USC01,Normal,containOn
+2023-08-30 12:28:31.679,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 12:28:31.924,eTrackStep,USC01,Normal,occupied
+2023-08-30 12:28:33.716,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 12:28:33.914,eTrackStep,USC01,Normal,none
+2023-08-30 12:37:08.267,,System,Normal,CIM has been executed..
+2023-08-30 12:37:08.969,,System,Normal,Start MasterPLC Thread..
+2023-08-30 12:37:09.080,,System,Normal,MasterPLC connected..
+2023-08-30 12:37:09.493,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:37:09.691,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:37:09.890,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:37:10.289,TxGlassIDReadAck,BF01,Normal,on[GLASS-2]
+2023-08-30 12:37:10.486,TxVirtualGlassId,BF01,Normal,GLASS-2
+2023-08-30 12:37:10.487,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:37:10.532,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:37:10.731,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:37:10.931,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:37:10.932,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:37:10.962,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:37:11.346,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:37:11.360,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:37:11.375,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:37:11.574,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:37:11.771,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:37:11.802,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:37:11.986,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:37:12.197,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:37:12.213,eTrackStep,BF01,Normal,none
+2023-08-30 12:37:14.318,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 12:37:14.329,,Host,Normal,HSMS Connection Selected.
+2023-08-30 12:37:34.425,,System,Error,수신 데이터 길이 이상! (예상=1411. 실제=1400)
+2023-08-30 12:37:34.980,,System,Error,수신 데이터 길이 이상! (예상=811. 실제=800)
+2023-08-30 12:37:35.331,,System,Error,수신 데이터 길이 이상! (예상=1411. 실제=1400)
+2023-08-30 12:37:40.618,,System,Error,수신 데이터 길이 이상! (예상=411. 실제=400)
+2023-08-30 12:37:50.631,,System,Error,Invalid SubHeader!
+2023-08-30 12:37:50.740,,System,Normal,MasterPLC connected..
+2023-08-30 12:37:50.937,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 12:38:00.205,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-30 12:38:01.939,,Booth,Error,Command[WORK_START] Retry over
+2023-08-30 12:38:03.485,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:38:03.896,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:38:04.292,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:38:04.703,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:38:05.098,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:38:05.112,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:38:05.142,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:38:05.143,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:38:05.340,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:38:05.371,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:38:05.554,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:38:05.600,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:38:05.600,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:38:05.782,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:38:06.008,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:38:06.023,eTrackStep,TM01,Normal,none
+2023-08-30 12:38:06.237,TxGlassIDReadAck,BF01,Normal,on[GLASS-1]
+2023-08-30 12:38:06.542,TxVirtualGlassId,BF01,Normal,GLASS-1
+2023-08-30 12:38:06.543,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:38:06.571,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:38:06.601,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:38:06.799,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:38:07.027,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:38:07.027,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:38:07.056,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:38:07.269,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:38:07.465,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:38:07.665,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:38:07.679,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:38:07.710,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:38:07.922,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:38:07.937,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:38:08.137,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:38:08.183,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:38:08.364,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:38:08.365,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:38:08.380,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:38:08.410,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:38:08.608,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:38:08.623,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:38:08.654,eTrackStep,BF01,Normal,none
+2023-08-30 12:38:08.836,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:38:08.866,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:38:09.065,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:38:09.111,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:38:09.294,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:38:09.309,eTrackStep,TM01,Normal,none
+2023-08-30 12:38:09.323,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:38:09.626,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:38:09.823,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:38:10.279,TxGlassIDReadAck,BF01,Normal,on[GLASS-2]
+2023-08-30 12:38:10.281,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:38:10.478,TxVirtualGlassId,BF01,Normal,GLASS-2
+2023-08-30 12:38:10.479,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:38:10.539,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:38:10.755,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:38:10.756,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:38:10.953,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:38:10.955,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:38:19.416,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 12:38:19.430,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 12:38:19.630,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 12:38:19.660,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 12:38:19.843,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 12:38:19.888,eTrackStep,USC01,Normal,containOn
+2023-08-30 12:38:20.071,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 12:38:20.314,eTrackStep,USC01,Normal,occupied
+2023-08-30 12:38:22.111,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 12:38:22.309,eTrackStep,USC01,Normal,none
+2023-08-30 12:42:07.159,,System,Normal,CIM has been executed..
+2023-08-30 12:42:07.700,,System,Normal,Start MasterPLC Thread..
+2023-08-30 12:42:07.811,,System,Normal,MasterPLC connected..
+2023-08-30 12:42:08.221,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:42:08.419,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:42:08.620,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:42:09.018,TxGlassIDReadAck,BF01,Normal,on[GLASS-2]
+2023-08-30 12:42:09.217,TxVirtualGlassId,BF01,Normal,GLASS-2
+2023-08-30 12:42:09.217,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:42:09.262,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:42:09.459,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:42:09.657,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:42:09.658,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:42:09.688,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:42:10.073,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:42:10.087,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:42:10.103,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:42:10.303,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:42:10.503,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:42:10.533,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:42:10.717,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:42:10.934,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:42:10.948,eTrackStep,BF01,Normal,none
+2023-08-30 12:42:13.369,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 12:42:13.381,,Host,Normal,HSMS Connection Selected.
+2023-08-30 12:42:24.315,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 12:42:27.932,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-30 12:42:29.294,,Booth,Error,Command[WORK_START] Retry over
+2023-08-30 12:42:30.845,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:42:31.260,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:42:31.656,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:42:32.071,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:42:32.467,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:42:32.482,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:42:32.512,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:42:32.513,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:42:32.711,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:42:32.741,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:42:32.924,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:42:32.969,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:42:32.969,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:42:33.153,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:42:33.380,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:42:33.394,eTrackStep,TM01,Normal,none
+2023-08-30 12:42:33.606,TxGlassIDReadAck,BF01,Normal,on[GLASS-1]
+2023-08-30 12:42:33.910,TxVirtualGlassId,BF01,Normal,GLASS-1
+2023-08-30 12:42:33.911,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:42:33.941,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:42:33.971,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:42:34.170,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:42:34.398,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:42:34.399,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:42:34.429,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:42:34.642,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:42:34.841,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:42:35.039,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:42:35.054,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:42:35.084,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:42:35.297,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:42:35.312,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:42:35.510,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:42:35.557,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:42:35.741,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:42:35.742,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:42:35.756,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:42:35.787,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:42:35.985,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:42:36.000,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:42:36.030,eTrackStep,BF01,Normal,none
+2023-08-30 12:42:36.212,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:42:36.244,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:42:36.442,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:42:36.487,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:42:36.670,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:42:36.685,eTrackStep,TM01,Normal,none
+2023-08-30 12:42:36.700,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:42:37.004,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:42:37.204,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:42:37.659,TxGlassIDReadAck,BF01,Normal,on[GLASS-2]
+2023-08-30 12:42:37.660,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:42:37.857,TxVirtualGlassId,BF01,Normal,GLASS-2
+2023-08-30 12:42:37.859,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:42:37.917,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:42:38.131,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:42:38.132,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:42:38.327,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:42:38.328,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:42:42.040,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 12:42:42.055,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 12:42:42.252,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 12:42:42.282,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 12:42:42.465,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 12:42:42.511,eTrackStep,USC01,Normal,containOn
+2023-08-30 12:42:42.694,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 12:42:42.934,eTrackStep,USC01,Normal,occupied
+2023-08-30 12:43:50.181,,System,Normal,CIM has been executed..
+2023-08-30 12:43:50.965,,System,Normal,Start MasterPLC Thread..
+2023-08-30 12:43:51.078,,System,Normal,MasterPLC connected..
+2023-08-30 12:43:51.521,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:43:51.738,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:43:51.936,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:43:52.179,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 12:43:52.203,,Host,Normal,HSMS Connection Selected.
+2023-08-30 12:43:52.328,TxGlassIDReadAck,BF01,Normal,on[GLASS-2]
+2023-08-30 12:43:52.528,TxVirtualGlassId,BF01,Normal,GLASS-2
+2023-08-30 12:43:52.528,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:43:52.574,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:43:52.771,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:43:52.969,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:43:52.969,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:43:56.468,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 12:43:56.483,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 12:43:56.682,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 12:43:56.712,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 12:43:56.895,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 12:43:56.925,eTrackStep,USC01,Normal,containOn
+2023-08-30 12:43:57.107,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 12:43:57.336,eTrackStep,USC01,Normal,occupied
+2023-08-30 12:43:58.508,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 12:43:58.706,eTrackStep,USC01,Normal,none
+2023-08-30 12:46:01.927,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 12:46:01.950,,Host,Normal,HSMS Disconnected.
+2023-08-30 12:46:02.947,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:46:03.358,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:46:03.374,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:46:03.419,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:46:03.601,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 12:46:03.616,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:46:03.631,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 12:46:03.843,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:46:03.845,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 12:46:03.888,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:46:03.903,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 12:46:04.085,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:46:04.087,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 12:46:04.161,eTrackStep,USC01,Normal,containOn
+2023-08-30 12:46:04.344,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:46:04.346,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 12:46:04.375,eTrackStep,BF01,Normal,none
+2023-08-30 12:46:04.605,eTrackStep,USC01,Normal,occupied
+2023-08-30 12:46:06.398,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 12:46:06.595,eTrackStep,USC01,Normal,none
+2023-08-30 12:46:18.097,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 12:46:18.104,,Host,Normal,HSMS Connection Selected.
+2023-08-30 12:48:51.198,,System,Normal,CIM has been executed..
+2023-08-30 12:48:51.855,,System,Normal,Start MasterPLC Thread..
+2023-08-30 12:48:51.967,,System,Normal,MasterPLC connected..
+2023-08-30 12:48:56.295,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 12:48:56.304,,Host,Normal,HSMS Connection Selected.
+2023-08-30 12:49:50.556,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-30 12:49:52.113,,Booth,Error,Command[WORK_START] Retry over
+2023-08-30 12:49:53.662,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:49:54.076,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:49:54.469,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:49:54.880,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:49:55.276,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:49:55.291,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:49:55.322,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:49:55.323,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:49:55.522,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:49:55.552,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:49:55.734,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:49:55.780,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:49:55.780,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:49:55.964,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:49:56.191,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:49:56.207,eTrackStep,TM01,Normal,none
+2023-08-30 12:49:56.419,TxGlassIDReadAck,BF01,Normal,on[GLASS-1]
+2023-08-30 12:49:56.726,TxVirtualGlassId,BF01,Normal,GLASS-1
+2023-08-30 12:49:56.727,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:49:56.758,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:49:56.788,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:49:56.986,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:49:57.215,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:49:57.217,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:49:57.248,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:49:57.460,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:49:57.674,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:49:57.872,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:49:57.873,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 12:49:57.888,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:49:57.903,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 12:49:57.934,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:49:58.134,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 12:49:58.163,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:49:58.193,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:49:58.224,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 12:49:58.406,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:49:58.408,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 12:49:58.483,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:49:58.498,eTrackStep,USC01,Normal,containOn
+2023-08-30 12:49:58.681,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:49:58.683,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:49:58.684,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 12:49:58.696,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:49:58.741,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:49:58.954,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:49:58.969,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:49:59.029,eTrackStep,BF01,Normal,none
+2023-08-30 12:49:59.030,eTrackStep,USC01,Normal,occupied
+2023-08-30 12:49:59.214,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:49:59.244,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:49:59.457,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:49:59.533,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:49:59.716,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:49:59.747,eTrackStep,TM01,Normal,none
+2023-08-30 12:49:59.762,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:50:00.081,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:50:00.307,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:50:00.780,TxGlassIDReadAck,BF01,Normal,on[GLASS-2]
+2023-08-30 12:50:00.781,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:50:00.978,TxVirtualGlassId,BF01,Normal,GLASS-2
+2023-08-30 12:50:00.979,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:50:01.052,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:50:01.265,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:50:01.280,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:50:01.295,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 12:50:01.480,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:50:01.481,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:50:01.524,eTrackStep,USC01,Normal,none
+2023-08-30 12:50:04.061,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:50:04.473,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:50:04.488,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:50:04.534,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:50:04.716,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 12:50:04.731,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:50:04.746,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 12:50:04.761,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:50:04.976,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:50:04.977,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 12:50:05.036,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:50:05.051,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 12:50:05.234,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:50:05.235,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:50:05.237,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 12:50:05.248,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:50:05.310,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:50:05.340,eTrackStep,USC01,Normal,containOn
+2023-08-30 12:50:05.524,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:50:05.526,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 12:50:05.538,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:50:05.584,eTrackStep,BF01,Normal,none
+2023-08-30 12:50:05.782,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:50:05.842,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:50:05.857,eTrackStep,USC01,Normal,occupied
+2023-08-30 12:50:06.038,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:50:06.084,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:50:06.283,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:50:06.328,eTrackStep,TM01,Normal,none
+2023-08-30 12:50:06.343,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:50:06.556,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:50:07.196,TxGlassIDReadAck,BF01,Normal,on[GLASS-3]
+2023-08-30 12:50:07.410,TxVirtualGlassId,BF01,Normal,GLASS-3
+2023-08-30 12:50:07.411,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:50:07.455,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:50:07.651,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:50:07.863,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:50:07.864,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:50:07.893,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 12:50:08.092,eTrackStep,USC01,Normal,none
+2023-08-30 12:50:10.796,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:50:11.207,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:50:11.222,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:50:11.237,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:50:11.434,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:50:11.645,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:50:11.692,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:50:11.876,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:50:12.103,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:50:12.135,eTrackStep,BF01,Normal,none
+2023-08-30 12:55:22.170,,System,Normal,CIM has been executed..
+2023-08-30 12:55:22.979,,System,Normal,Start MasterPLC Thread..
+2023-08-30 12:55:23.095,,System,Normal,MasterPLC connected..
+2023-08-30 12:55:27.853,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 12:55:27.865,,Host,Normal,HSMS Connection Selected.
+2023-08-30 12:56:01.641,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 12:56:04.884,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-30 12:56:06.447,,Booth,Error,Command[WORK_START] Retry over
+2023-08-30 12:56:07.991,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:56:08.402,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:56:08.796,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:56:09.204,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:56:09.597,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:56:09.612,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:56:09.642,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:56:09.643,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:56:09.840,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:56:09.871,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:56:10.054,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:56:10.099,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:56:10.100,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:56:10.284,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:56:10.510,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:56:10.525,eTrackStep,TM01,Normal,none
+2023-08-30 12:56:10.740,TxGlassIDReadAck,BF01,Normal,on[GLASS-1]
+2023-08-30 12:56:11.043,TxVirtualGlassId,BF01,Normal,GLASS-1
+2023-08-30 12:56:11.044,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:56:11.073,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:56:11.104,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:56:11.302,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:56:11.531,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:56:11.532,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:56:11.560,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:56:11.774,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:56:11.970,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:56:12.167,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:56:12.182,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:56:12.213,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:56:12.426,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:56:12.442,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:56:12.641,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:56:12.686,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:56:12.869,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:56:12.870,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:56:12.884,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:56:12.914,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:56:13.113,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:56:13.128,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:56:13.159,eTrackStep,BF01,Normal,none
+2023-08-30 12:56:13.341,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:56:13.371,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:56:13.569,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:56:13.630,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:56:13.814,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:56:13.815,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 12:56:13.844,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 12:56:13.852,eTrackStep,TM01,Normal,none
+2023-08-30 12:56:13.859,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:56:14.060,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 12:56:14.194,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:56:14.209,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 12:56:14.394,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 12:56:14.439,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 12:56:14.470,eTrackStep,USC01,Normal,containOn
+2023-08-30 12:56:14.653,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 12:56:14.942,TxGlassIDReadAck,BF01,Normal,on[GLASS-2]
+2023-08-30 12:56:14.973,eTrackStep,TM01,Normal,containOn
+2023-08-30 12:56:14.988,eTrackStep,USC01,Normal,occupied
+2023-08-30 12:56:15.172,TxVirtualGlassId,BF01,Normal,GLASS-2
+2023-08-30 12:56:15.173,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:56:15.233,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:56:15.462,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:56:15.493,eTrackStep,TM01,Normal,occupied
+2023-08-30 12:56:15.691,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:56:15.693,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:56:16.943,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 12:56:17.141,eTrackStep,USC01,Normal,none
+2023-08-30 12:56:19.845,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:56:20.271,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:56:20.271,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 12:56:20.286,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:56:20.301,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 12:56:20.316,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:56:20.516,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 12:56:20.531,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:56:20.561,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 12:56:20.592,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 12:56:20.775,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:56:20.776,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 12:56:20.851,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:56:20.867,eTrackStep,USC01,Normal,containOn
+2023-08-30 12:56:21.050,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 12:56:21.051,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:56:21.052,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 12:56:21.064,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:56:21.110,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 12:56:21.323,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:56:21.337,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 12:56:21.398,eTrackStep,BF01,Normal,none
+2023-08-30 12:56:21.398,eTrackStep,USC01,Normal,occupied
+2023-08-30 12:56:21.580,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 12:56:21.609,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 12:56:21.822,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 12:56:21.898,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 12:56:22.082,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 12:56:22.112,eTrackStep,TM01,Normal,none
+2023-08-30 12:56:22.128,eTrackStep,BF01,Normal,containOn
+2023-08-30 12:56:22.342,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 12:56:22.982,TxGlassIDReadAck,BF01,Normal,on[GLASS-3]
+2023-08-30 12:56:23.179,TxVirtualGlassId,BF01,Normal,GLASS-3
+2023-08-30 12:56:23.180,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 12:56:23.240,eTrackStep,BF01,Normal,occupied
+2023-08-30 12:56:23.439,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 12:56:23.470,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 12:56:23.652,TxVirtualGlassId,BF01,Normal,
+2023-08-30 12:56:23.653,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 12:56:23.682,eTrackStep,USC01,Normal,none
+2023-08-30 12:56:26.208,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 12:56:26.607,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 12:56:26.622,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:56:26.652,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 12:56:26.850,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 12:56:27.065,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 12:56:27.111,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 12:56:27.293,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 12:56:27.523,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 12:56:27.552,eTrackStep,BF01,Normal,none
+2023-08-30 12:59:32.543,,System,Normal,CIM has been executed..
+2023-08-30 12:59:33.370,,System,Normal,Start MasterPLC Thread..
+2023-08-30 12:59:33.487,,System,Normal,MasterPLC connected..
+2023-08-30 12:59:40.383,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 12:59:40.393,,Host,Normal,HSMS Connection Selected.
+2023-08-30 13:05:15.308,,Booth,Error,Command[WrokInit] Retry over
+2023-08-30 13:05:50.881,,System,Normal,CIM has been executed..
+2023-08-30 13:05:51.676,,System,Normal,Start MasterPLC Thread..
+2023-08-30 13:05:51.791,,System,Normal,MasterPLC connected..
+2023-08-30 13:05:53.815,,Host,Normal,HSMS Connected NotSelected.
+2023-08-30 13:05:53.891,,Host,Normal,HSMS Connection Selected.
+2023-08-30 13:08:31.336,,Host,Normal,Receive S3F41 WorkOrder..
+2023-08-30 13:08:40.741,,Booth,Error,Command[WORK_START] Retry over
+2023-08-30 13:08:41.879,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 13:08:42.189,eTrackStep,TM01,Normal,containOn
+2023-08-30 13:08:42.496,eTrackStep,TM01,Normal,occupied
+2023-08-30 13:08:42.807,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 13:08:43.110,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 13:08:43.117,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 13:08:43.135,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 13:08:43.136,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 13:08:43.284,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 13:08:43.310,eTrackStep,BF01,Normal,containOn
+2023-08-30 13:08:43.460,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 13:08:43.482,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 13:08:43.482,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 13:08:43.627,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 13:08:43.797,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 13:08:43.806,eTrackStep,TM01,Normal,none
+2023-08-30 13:08:43.975,TxGlassIDReadAck,BF01,Normal,on[GLASS01]
+2023-08-30 13:08:44.178,TxVirtualGlassId,BF01,Normal,GLASS01
+2023-08-30 13:08:44.179,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 13:08:44.197,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 13:08:44.210,eTrackStep,BF01,Normal,occupied
+2023-08-30 13:08:44.365,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 13:08:44.542,TxVirtualGlassId,BF01,Normal,
+2023-08-30 13:08:44.543,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 13:08:44.557,eTrackStep,TM01,Normal,containOn
+2023-08-30 13:08:44.711,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 13:08:44.886,eTrackStep,TM01,Normal,occupied
+2023-08-30 13:08:45.028,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 13:08:45.029,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 13:08:45.037,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 13:08:45.046,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 13:08:45.066,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 13:08:45.213,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 13:08:45.228,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 13:08:45.249,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 13:08:45.263,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 13:08:45.410,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 13:08:45.411,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 13:08:45.448,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 13:08:45.454,eTrackStep,USC01,Normal,containOn
+2023-08-30 13:08:45.593,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 13:08:45.594,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 13:08:45.595,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 13:08:45.601,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 13:08:45.624,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 13:08:45.775,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 13:08:45.783,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 13:08:45.813,eTrackStep,BF01,Normal,none
+2023-08-30 13:08:45.814,eTrackStep,USC01,Normal,occupied
+2023-08-30 13:08:45.956,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 13:08:45.973,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 13:08:46.124,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 13:08:46.164,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 13:08:46.305,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 13:08:46.315,eTrackStep,TM01,Normal,none
+2023-08-30 13:08:46.321,eTrackStep,BF01,Normal,containOn
+2023-08-30 13:08:46.514,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 13:08:46.664,eTrackStep,TM01,Normal,moduleStart
+2023-08-30 13:08:46.992,TxGlassIDReadAck,BF01,Normal,on[GLASS02]
+2023-08-30 13:08:46.993,eTrackStep,TM01,Normal,containOn
+2023-08-30 13:08:47.143,TxVirtualGlassId,BF01,Normal,GLASS02
+2023-08-30 13:08:47.145,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 13:08:47.174,eTrackStep,BF01,Normal,occupied
+2023-08-30 13:08:47.325,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 13:08:47.327,eTrackStep,TM01,Normal,occupied
+2023-08-30 13:08:47.479,TxVirtualGlassId,BF01,Normal,
+2023-08-30 13:08:47.480,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 13:08:52.380,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 13:08:52.531,eTrackStep,USC01,Normal,none
+2023-08-30 13:08:54.829,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 13:08:55.133,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 13:08:55.141,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 13:08:55.167,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 13:08:55.316,RxGlassLocUnocc,USC01,Normal,True
+2023-08-30 13:08:55.324,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 13:08:55.333,CheckGlassLocUnocc,USC01,Normal,Write[True]
+2023-08-30 13:08:55.346,eTrackStep,TM01,Normal,conttainOff
+2023-08-30 13:08:55.498,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 13:08:55.500,TxGlassLocUnoccAck,USC01,Normal,True
+2023-08-30 13:08:55.532,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 13:08:55.538,eTrackStep,USC01,Normal,moduleStart
+2023-08-30 13:08:55.682,RxGlassLocUnocc,TM01,Normal,True
+2023-08-30 13:08:55.684,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 13:08:55.684,RxGlassLocUnocc,USC01,Normal,False
+2023-08-30 13:08:55.692,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 13:08:55.722,eTrackStep,TM01,Normal,unoccupied
+2023-08-30 13:08:55.736,eTrackStep,USC01,Normal,containOn
+2023-08-30 13:08:55.882,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 13:08:55.883,TxGlassLocUnoccAck,USC01,Normal,False
+2023-08-30 13:08:55.891,CheckGlassLocUnocc,TM01,Normal,Write[True]
+2023-08-30 13:08:55.913,eTrackStep,BF01,Normal,none
+2023-08-30 13:08:56.064,TxGlassLocUnoccAck,TM01,Normal,True
+2023-08-30 13:08:56.096,eTrackStep,TM01,Normal,moduleEnd
+2023-08-30 13:08:56.103,eTrackStep,USC01,Normal,occupied
+2023-08-30 13:08:56.247,RxGlassLocUnocc,TM01,Normal,False
+2023-08-30 13:08:56.271,eTrackStep,BF01,Normal,moduleStart
+2023-08-30 13:08:56.417,TxGlassLocUnoccAck,TM01,Normal,False
+2023-08-30 13:08:56.440,eTrackStep,TM01,Normal,none
+2023-08-30 13:08:56.447,eTrackStep,BF01,Normal,containOn
+2023-08-30 13:08:56.592,eTrackStep,BF01,Normal,glassIDRead
+2023-08-30 13:08:57.051,TxGlassIDReadAck,BF01,Normal,on[GLASS03]
+2023-08-30 13:08:57.196,TxVirtualGlassId,BF01,Normal,GLASS03
+2023-08-30 13:08:57.197,TxGlassIDReadAck,BF01,Normal,True
+2023-08-30 13:08:57.219,eTrackStep,BF01,Normal,occupied
+2023-08-30 13:08:57.372,TxGlassIDReadAck,BF01,Normal,off
+2023-08-30 13:08:57.529,TxVirtualGlassId,BF01,Normal,
+2023-08-30 13:08:57.530,TxGlassIDReadAck,BF01,Normal,False
+2023-08-30 13:09:22.594,eTrackStep,USC01,Normal,unoccupied
+2023-08-30 13:09:22.745,eTrackStep,USC01,Normal,none
+2023-08-30 13:09:25.081,eTrackStep,BF01,Normal,conttainOff
+2023-08-30 13:09:25.387,RxGlassLocUnocc,BF01,Normal,True
+2023-08-30 13:09:25.394,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 13:09:25.412,eTrackStep,BF01,Normal,unoccupied
+2023-08-30 13:09:25.560,CheckGlassLocUnocc,BF01,Normal,Write[True]
+2023-08-30 13:09:25.721,TxGlassLocUnoccAck,BF01,Normal,True
+2023-08-30 13:09:25.746,eTrackStep,BF01,Normal,moduleEnd
+2023-08-30 13:09:25.888,RxGlassLocUnocc,BF01,Normal,False
+2023-08-30 13:09:26.056,TxGlassLocUnoccAck,BF01,Normal,False
+2023-08-30 13:09:26.071,eTrackStep,BF01,Normal,none
+2023-08-30 13:12:12.900,,Host,Normal,HSMS Disconnected.

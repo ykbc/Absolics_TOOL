@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<AlarmManager>
+  <AlarmBooth>
+    <AlarmItem>      <ID>1</ID>      <ALCD>5</ALCD><ALTX>Safety Stop</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>2</ID>      <ALCD>5</ALCD><ALTX>Main MC Down</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>5</ID>      <ALCD>5</ALCD><ALTX>Inner EMO</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>6</ID>      <ALCD>5</ALCD><ALTX>Outer EMO</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>7</ID>      <ALCD>5</ALCD><ALTX>Door#1 Open</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>8</ID>      <ALCD>5</ALCD><ALTX>Door#2 Open</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>9</ID>      <ALCD>5</ALCD><ALTX>Door#3 Open</ALTX>    </AlarmItem>
+	
+    <AlarmItem>      <ID>11</ID>      <ALCD>5</ALCD><ALTX>Main Air Down</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>12</ID>      <ALCD>5</ALCD><ALTX>Shutter Timeout</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>20</ID>      <ALCD>5</ALCD><ALTX>EMS#1</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>21</ID>      <ALCD>5</ALCD><ALTX>EMS#2</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>22</ID>      <ALCD>5</ALCD><ALTX>EMS#3</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>23</ID>      <ALCD>5</ALCD><ALTX>EMS#4</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>24</ID>      <ALCD>5</ALCD><ALTX>EMS#5</ALTX>    </AlarmItem>
+  </AlarmBooth>
+  
+  <AlarmTrack>
+    <AlarmItem>      <ID>99</ID>      <ALCD>5</ALCD><ALTX>IO Read Fail</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>101</ID>      <ALCD>5</ALCD><ALTX>Inverter Over Time</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>105</ID>      <ALCD>5</ALCD><ALTX>RFID Read Fail</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>112</ID>      <ALCD>5</ALCD><ALTX>Inverter Overload</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>113</ID>      <ALCD>5</ALCD><ALTX>RFID Disconnected</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>114</ID>      <ALCD>5</ALCD><ALTX>RFID Read Duplicate</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>115</ID>      <ALCD>5</ALCD><ALTX>RFID Read Mismatch</ALTX>    </AlarmItem>
+
+    <AlarmItem>      <ID>121</ID>      <ALCD>5</ALCD><ALTX>OHT IF TP1</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>122</ID>      <ALCD>5</ALCD><ALTX>OHT IF TP2</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>123</ID>      <ALCD>5</ALCD><ALTX>OHT IF TP3</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>124</ID>      <ALCD>5</ALCD><ALTX>OHT IF TP4</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>125</ID>      <ALCD>5</ALCD><ALTX>OHT IF TP5</ALTX>    </AlarmItem>
+
+    <AlarmItem>      <ID>141</ID>      <ALCD>5</ALCD><ALTX>OHT Load Contain</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>142</ID>      <ALCD>5</ALCD><ALTX>OHT Unload NotContain</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>143</ID>      <ALCD>5</ALCD><ALTX>OHT IF VAILD OFF</ALTX>    </AlarmItem>
+
+    <AlarmItem>      <ID>145</ID>      <ALCD>5</ALCD><ALTX>CONTAIN NOT CORRECT POS</ALTX>    </AlarmItem>
+    
+    <AlarmItem>      <ID>151</ID>      <ALCD>5</ALCD><ALTX>OHT Before Load VAILD</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>152</ID>      <ALCD>5</ALCD><ALTX>OHT Before Load CS0</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>153</ID>      <ALCD>5</ALCD><ALTX>OHT Before Load TRREQ</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>154</ID>      <ALCD>5</ALCD><ALTX>OHT Before Load BUSY</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>155</ID>      <ALCD>5</ALCD><ALTX>OHT Before Load COMPT</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>156</ID>      <ALCD>5</ALCD><ALTX>OHT Before Load CONTAIN</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>201</ID>      <ALCD>5</ALCD><ALTX>STOPPER CYLINDER Time out</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>202</ID>      <ALCD>5</ALCD><ALTX>CENTERRING CYLINDER Time out</ALTX>    </AlarmItem>
+	
+    <AlarmItem>      <ID>1001</ID>      <ALCD>5</ALCD><ALTX>UNDEFINDED SIZE</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>1002</ID>      <ALCD>5</ALCD><ALTX>No Detecting Front Locking Bar</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>1003</ID>      <ALCD>5</ALCD><ALTX>No Detecting Rear Locking Bar</ALTX>    </AlarmItem>
+    <AlarmItem>      <ID>1004</ID>      <ALCD>5</ALCD><ALTX>Reading ID Failed</ALTX>    </AlarmItem>
+	
+    <AlarmItem>      <ID>1101</ID>      <ALCD>5</ALCD><ALTX>CENTER_FRONT CYLINDER TIMEOUT</ALTX>	</AlarmItem>
+    <AlarmItem>      <ID>1102</ID>      <ALCD>5</ALCD><ALTX>CENTER_REAR CYLINDER TIMEOUT</ALTX>	</AlarmItem>
+    <AlarmItem>      <ID>1103</ID>      <ALCD>5</ALCD><ALTX>CENTER_TOP CYLINDER TIMEOUT</ALTX>	</AlarmItem>
+    <AlarmItem>      <ID>1104</ID>      <ALCD>5</ALCD><ALTX>CENTER_SIDE CYLINDER TIMEOUT</ALTX>	</AlarmItem>
+    <AlarmItem>      <ID>1105</ID>      <ALCD>5</ALCD><ALTX>CHECKER_FRONT CYLINDER TIMEOUT</ALTX>	</AlarmItem>
+    <AlarmItem>      <ID>1106</ID>      <ALCD>5</ALCD><ALTX>CHECKER_REAR CYLINDER TIMEOUT</ALTX>	</AlarmItem>
+    <AlarmItem>      <ID>1107</ID>      <ALCD>5</ALCD><ALTX>LOCKER_TOP CYLINDER TIMEOUT</ALTX>	</AlarmItem>
+    <AlarmItem>      <ID>1108</ID>      <ALCD>5</ALCD><ALTX>LOCKER_POS CYLINDER TIMEOUT</ALTX>	</AlarmItem>
+    <AlarmItem>      <ID>1109</ID>      <ALCD>5</ALCD><ALTX>LOCKER_FRONT CYLINDER TIMEOUT</ALTX>	</AlarmItem>
+    <AlarmItem>      <ID>1110</ID>      <ALCD>5</ALCD><ALTX>LOCKER_REAR CYLINDER TIMEOUT</ALTX>	</AlarmItem>
+    <AlarmItem>      <ID>1111</ID>		<ALCD>5</ALCD><ALTX>POSITION CYLINDER TIMEOUT</ALTX>	</AlarmItem>	
+  </AlarmTrack>
+</AlarmManager>

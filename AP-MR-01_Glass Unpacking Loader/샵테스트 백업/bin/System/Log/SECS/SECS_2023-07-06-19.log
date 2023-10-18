@@ -1,0 +1,38 @@
+2023-07-06 19:12:17,612[INFO ]:Queued SECS2 Message : S1F13
+2023-07-06 19:12:17,640[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-06 19:12:17,642[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [1] "0">
+>
+2023-07-06 19:12:23,533[INFO ]:HSMS Timeout Occured : Type[6], TimeSec[5.922642], Header[SSID(0), B2(129), B3(13), P(0), S(0), SB(1)]
+2023-07-06 19:12:23,535[INFO ]:Queued SECS2 Message : S9F9
+2023-07-06 19:12:23,592[INFO ]:SENT SECS2 Message : SSID(0), B2(9), B3(9), P(0), S(0), SB(2)
+2023-07-06 19:12:23,593[INFO ]:>>>S9F9>>>  
+<B [10] 00 00 81 0D 00 00 00 00 00 01 >
+2023-07-06 19:12:43,070[INFO ]:Queued SECS2 Message : S1F13
+2023-07-06 19:12:43,070[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(4)
+2023-07-06 19:12:43,072[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [1] "0">
+>
+2023-07-06 19:12:43,091[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(4), Length[7]
+2023-07-06 19:12:43,091[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>
+2023-07-06 19:16:20,959[INFO ]:Queued SECS2 Message : S1F13
+2023-07-06 19:16:21,005[INFO ]:SENT SECS2 Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1)
+2023-07-06 19:16:21,007[INFO ]:>>>S1F13 W>>>  
+<L [2] 
+    <A [3] "UPK">
+    <A [1] "0">
+>
+2023-07-06 19:16:21,096[INFO ]:RECV SECS2 Message : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-07-06 19:16:21,097[DEBUG]:<<<S1F14<<<  
+<L [2] 
+    <B [1] 00 >
+    <L [0] >
+>

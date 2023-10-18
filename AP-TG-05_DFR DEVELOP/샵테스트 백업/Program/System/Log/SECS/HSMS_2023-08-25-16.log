@@ -1,0 +1,734 @@
+2023-08-25 16:37:55,746[INFO ]:Before Clear Queue.
+2023-08-25 16:37:55,753[INFO ]:Clear Queue.
+2023-08-25 16:37:55,753[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:37:55,753[INFO ]:Connection Mode : Passive
+2023-08-25 16:37:55,757[INFO ]:Thread State Changed : Working
+2023-08-25 16:37:55,758[INFO ]:Start RunThreadPassive()
+2023-08-25 16:37:55,758[INFO ]:Listening State Changed : Open
+2023-08-25 16:37:55,758[INFO ]:Socket Listener was Started.
+2023-08-25 16:37:55,758[INFO ]:Before Clear Queue.
+2023-08-25 16:37:55,758[INFO ]:Clear Queue.
+2023-08-25 16:37:55,758[INFO ]:Waiting New Connection...
+2023-08-25 16:38:04,596[INFO ]:Accept New Connection.
+2023-08-25 16:38:04,601[INFO ]:Listening State Changed : Close
+2023-08-25 16:38:04,601[INFO ]:Start New Connection.
+2023-08-25 16:38:04,601[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:38:04,605[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:38:04,605[INFO ]:Started Basic Timer.
+2023-08-25 16:38:04,608[INFO ]:Start Recv Thread.
+2023-08-25 16:38:04,609[INFO ]:Start RunThreadRecv()
+2023-08-25 16:38:04,613[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,470), Length[0]
+2023-08-25 16:38:04,613[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:38:04,613[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:38:04,614[INFO ]:Received Select Request.
+2023-08-25 16:38:04,614[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,470), Length[0]
+2023-08-25 16:38:04,615[INFO ]:Send LinkTest Request.
+2023-08-25 16:38:04,615[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:38:04,615[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:38:04,633[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:38:04,633[INFO ]:Message Stat : Queue[3], Sent[0], Recv[1]
+2023-08-25 16:38:04,673[INFO ]:Sent Select Response.
+2023-08-25 16:38:04,673[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,470), Length[0]
+2023-08-25 16:38:04,673[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:38:04,673[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:38:04,674[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-32-39  39-33-32
+2023-08-25 16:38:04,687[INFO ]:Received LinkTest Response.
+2023-08-25 16:38:04,687[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:38:04,691[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:38:04,691[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:38:35,331[INFO ]:Received LinkTest Request.
+2023-08-25 16:38:35,331[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(23,478), Length[0]
+2023-08-25 16:38:35,331[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,478), Length[0]
+2023-08-25 16:38:35,331[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-08-25 16:38:35,360[INFO ]:Sent LinkTest Response.
+2023-08-25 16:38:35,360[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,478), Length[0]
+2023-08-25 16:39:06,834[INFO ]:Received LinkTest Request.
+2023-08-25 16:39:06,834[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(23,482), Length[0]
+2023-08-25 16:39:06,834[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,482), Length[0]
+2023-08-25 16:39:06,834[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-08-25 16:39:06,878[INFO ]:Sent LinkTest Response.
+2023-08-25 16:39:06,878[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,482), Length[0]
+2023-08-25 16:39:38,396[INFO ]:Received LinkTest Request.
+2023-08-25 16:39:38,396[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(23,486), Length[0]
+2023-08-25 16:39:38,396[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,486), Length[0]
+2023-08-25 16:39:38,396[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-08-25 16:39:38,442[INFO ]:Sent LinkTest Response.
+2023-08-25 16:39:38,442[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,486), Length[0]
+2023-08-25 16:40:02,474[INFO ]:Before Clear Queue.
+2023-08-25 16:40:02,481[INFO ]:Clear Queue.
+2023-08-25 16:40:02,481[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:40:02,482[INFO ]:Connection Mode : Passive
+2023-08-25 16:40:02,486[INFO ]:Thread State Changed : Working
+2023-08-25 16:40:02,487[INFO ]:Start RunThreadPassive()
+2023-08-25 16:40:02,487[INFO ]:Listening State Changed : Open
+2023-08-25 16:40:02,487[INFO ]:Socket Listener was Started.
+2023-08-25 16:40:02,487[INFO ]:Before Clear Queue.
+2023-08-25 16:40:02,487[INFO ]:Clear Queue.
+2023-08-25 16:40:02,487[INFO ]:Waiting New Connection...
+2023-08-25 16:40:02,949[INFO ]:Accept New Connection.
+2023-08-25 16:40:02,949[INFO ]:Listening State Changed : Close
+2023-08-25 16:40:02,949[INFO ]:Start New Connection.
+2023-08-25 16:40:02,950[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:40:02,972[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:40:02,973[INFO ]:Started Basic Timer.
+2023-08-25 16:40:02,989[INFO ]:Start Recv Thread.
+2023-08-25 16:40:02,989[INFO ]:Start RunThreadRecv()
+2023-08-25 16:40:02,993[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,490), Length[0]
+2023-08-25 16:40:02,994[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:40:02,994[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:40:03,007[INFO ]:Received Select Request.
+2023-08-25 16:40:03,007[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,490), Length[0]
+2023-08-25 16:40:03,007[INFO ]:Send LinkTest Request.
+2023-08-25 16:40:03,007[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:40:03,007[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:40:03,042[INFO ]:Sent Select Response.
+2023-08-25 16:40:03,042[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,490), Length[0]
+2023-08-25 16:40:03,043[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:40:03,125[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:40:03,125[INFO ]:Message Stat : Queue[1], Sent[1], Recv[0]
+2023-08-25 16:40:03,162[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:40:03,162[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  30-30-30
+2023-08-25 16:40:03,222[INFO ]:Received LinkTest Response.
+2023-08-25 16:40:03,222[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:40:03,223[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:40:03,223[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:40:58,476[INFO ]:Before Clear Queue.
+2023-08-25 16:40:58,482[INFO ]:Clear Queue.
+2023-08-25 16:40:58,482[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:40:58,483[INFO ]:Connection Mode : Passive
+2023-08-25 16:40:58,487[INFO ]:Thread State Changed : Working
+2023-08-25 16:40:58,488[INFO ]:Start RunThreadPassive()
+2023-08-25 16:40:58,488[INFO ]:Listening State Changed : Open
+2023-08-25 16:40:58,488[INFO ]:Socket Listener was Started.
+2023-08-25 16:40:58,488[INFO ]:Before Clear Queue.
+2023-08-25 16:40:58,488[INFO ]:Clear Queue.
+2023-08-25 16:40:58,488[INFO ]:Waiting New Connection...
+2023-08-25 16:41:00,468[INFO ]:Accept New Connection.
+2023-08-25 16:41:00,469[INFO ]:Listening State Changed : Close
+2023-08-25 16:41:00,469[INFO ]:Start New Connection.
+2023-08-25 16:41:00,469[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:41:00,472[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:41:00,472[INFO ]:Started Basic Timer.
+2023-08-25 16:41:00,475[INFO ]:Start Recv Thread.
+2023-08-25 16:41:00,475[INFO ]:Start RunThreadRecv()
+2023-08-25 16:41:00,480[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,498), Length[0]
+2023-08-25 16:41:00,480[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:41:00,480[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:41:00,482[INFO ]:Received Select Request.
+2023-08-25 16:41:00,482[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,498), Length[0]
+2023-08-25 16:41:00,482[INFO ]:Send LinkTest Request.
+2023-08-25 16:41:00,482[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:41:00,482[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:41:00,500[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:41:00,501[INFO ]:Message Stat : Queue[3], Sent[0], Recv[1]
+2023-08-25 16:41:00,530[INFO ]:Sent Select Response.
+2023-08-25 16:41:00,530[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,498), Length[0]
+2023-08-25 16:41:00,530[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:41:00,530[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:41:00,531[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  30-32-37
+2023-08-25 16:41:00,544[INFO ]:Received LinkTest Response.
+2023-08-25 16:41:00,544[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:41:00,545[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:41:00,545[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:41:11,489[INFO ]:Before Clear Queue.
+2023-08-25 16:41:11,496[INFO ]:Clear Queue.
+2023-08-25 16:41:11,496[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:41:11,496[INFO ]:Connection Mode : Passive
+2023-08-25 16:41:11,500[INFO ]:Thread State Changed : Working
+2023-08-25 16:41:11,501[INFO ]:Start RunThreadPassive()
+2023-08-25 16:41:11,501[INFO ]:Listening State Changed : Open
+2023-08-25 16:41:11,501[INFO ]:Socket Listener was Started.
+2023-08-25 16:41:11,501[INFO ]:Before Clear Queue.
+2023-08-25 16:41:11,502[INFO ]:Clear Queue.
+2023-08-25 16:41:11,502[INFO ]:Waiting New Connection...
+2023-08-25 16:41:47,756[INFO ]:Before Clear Queue.
+2023-08-25 16:41:47,764[INFO ]:Clear Queue.
+2023-08-25 16:41:47,764[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:41:47,764[INFO ]:Connection Mode : Passive
+2023-08-25 16:41:47,768[INFO ]:Thread State Changed : Working
+2023-08-25 16:41:47,769[INFO ]:Start RunThreadPassive()
+2023-08-25 16:41:47,769[INFO ]:Listening State Changed : Open
+2023-08-25 16:41:47,769[INFO ]:Socket Listener was Started.
+2023-08-25 16:41:47,769[INFO ]:Before Clear Queue.
+2023-08-25 16:41:47,770[INFO ]:Clear Queue.
+2023-08-25 16:41:47,770[INFO ]:Waiting New Connection...
+2023-08-25 16:41:49,358[INFO ]:Accept New Connection.
+2023-08-25 16:41:49,358[INFO ]:Listening State Changed : Close
+2023-08-25 16:41:49,359[INFO ]:Start New Connection.
+2023-08-25 16:41:49,359[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:41:49,361[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:41:49,362[INFO ]:Started Basic Timer.
+2023-08-25 16:41:49,364[INFO ]:Start Recv Thread.
+2023-08-25 16:41:49,365[INFO ]:Start RunThreadRecv()
+2023-08-25 16:41:49,370[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,510), Length[0]
+2023-08-25 16:41:49,370[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:41:49,370[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:41:49,373[INFO ]:Received Select Request.
+2023-08-25 16:41:49,373[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,510), Length[0]
+2023-08-25 16:41:49,373[INFO ]:Send LinkTest Request.
+2023-08-25 16:41:49,373[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:41:49,373[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:41:49,392[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:41:49,392[INFO ]:Message Stat : Queue[3], Sent[0], Recv[1]
+2023-08-25 16:41:49,421[INFO ]:Sent Select Response.
+2023-08-25 16:41:49,421[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,510), Length[0]
+2023-08-25 16:41:49,422[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:41:49,422[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:41:49,422[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  30-32-37
+2023-08-25 16:41:49,434[INFO ]:Received LinkTest Response.
+2023-08-25 16:41:49,434[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:41:49,435[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:41:49,435[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:42:23,843[INFO ]:Before Clear Queue.
+2023-08-25 16:42:23,850[INFO ]:Clear Queue.
+2023-08-25 16:42:23,850[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:42:23,850[INFO ]:Connection Mode : Passive
+2023-08-25 16:42:23,855[INFO ]:Thread State Changed : Working
+2023-08-25 16:42:23,856[INFO ]:Start RunThreadPassive()
+2023-08-25 16:42:23,857[INFO ]:Listening State Changed : Open
+2023-08-25 16:42:23,857[INFO ]:Socket Listener was Started.
+2023-08-25 16:42:23,857[INFO ]:Before Clear Queue.
+2023-08-25 16:42:23,857[INFO ]:Clear Queue.
+2023-08-25 16:42:23,857[INFO ]:Waiting New Connection...
+2023-08-25 16:42:26,150[INFO ]:Accept New Connection.
+2023-08-25 16:42:26,150[INFO ]:Listening State Changed : Close
+2023-08-25 16:42:26,150[INFO ]:Start New Connection.
+2023-08-25 16:42:26,150[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:42:26,151[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:42:26,153[INFO ]:Started Basic Timer.
+2023-08-25 16:42:26,155[INFO ]:Start Recv Thread.
+2023-08-25 16:42:26,155[INFO ]:Start RunThreadRecv()
+2023-08-25 16:42:26,159[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,518), Length[0]
+2023-08-25 16:42:26,159[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:42:26,159[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:42:26,161[INFO ]:Received Select Request.
+2023-08-25 16:42:26,161[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,518), Length[0]
+2023-08-25 16:42:26,161[INFO ]:Send LinkTest Request.
+2023-08-25 16:42:26,161[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:42:26,161[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:42:26,200[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:42:26,200[INFO ]:Message Stat : Queue[3], Sent[0], Recv[1]
+2023-08-25 16:42:26,214[INFO ]:Sent Select Response.
+2023-08-25 16:42:26,214[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,518), Length[0]
+2023-08-25 16:42:26,214[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:42:26,214[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:42:26,214[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  30-32-37
+2023-08-25 16:42:26,227[INFO ]:Received LinkTest Response.
+2023-08-25 16:42:26,227[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:42:26,227[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:42:26,227[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:42:58,601[INFO ]:Received LinkTest Request.
+2023-08-25 16:42:58,601[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(23,526), Length[0]
+2023-08-25 16:42:58,601[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,526), Length[0]
+2023-08-25 16:42:58,601[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-08-25 16:43:19,398[INFO ]:Before Clear Queue.
+2023-08-25 16:43:19,404[INFO ]:Clear Queue.
+2023-08-25 16:43:19,404[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:43:19,404[INFO ]:Connection Mode : Passive
+2023-08-25 16:43:19,409[INFO ]:Thread State Changed : Working
+2023-08-25 16:43:19,409[INFO ]:Start RunThreadPassive()
+2023-08-25 16:43:19,411[INFO ]:Listening State Changed : Open
+2023-08-25 16:43:19,411[INFO ]:Socket Listener was Started.
+2023-08-25 16:43:19,411[INFO ]:Before Clear Queue.
+2023-08-25 16:43:19,411[INFO ]:Clear Queue.
+2023-08-25 16:43:19,411[INFO ]:Waiting New Connection...
+2023-08-25 16:43:20,783[INFO ]:Accept New Connection.
+2023-08-25 16:43:20,784[INFO ]:Listening State Changed : Close
+2023-08-25 16:43:20,784[INFO ]:Start New Connection.
+2023-08-25 16:43:20,784[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:43:20,786[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:43:20,787[INFO ]:Started Basic Timer.
+2023-08-25 16:43:20,789[INFO ]:Start Recv Thread.
+2023-08-25 16:43:20,789[INFO ]:Start RunThreadRecv()
+2023-08-25 16:43:20,794[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,530), Length[0]
+2023-08-25 16:43:20,795[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:43:20,795[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:43:20,796[INFO ]:Received Select Request.
+2023-08-25 16:43:20,796[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,530), Length[0]
+2023-08-25 16:43:20,796[INFO ]:Send LinkTest Request.
+2023-08-25 16:43:20,796[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:43:20,796[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:43:20,832[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:43:20,832[INFO ]:Message Stat : Queue[3], Sent[0], Recv[1]
+2023-08-25 16:43:20,846[INFO ]:Sent Select Response.
+2023-08-25 16:43:20,846[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,530), Length[0]
+2023-08-25 16:43:20,846[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:43:20,846[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:43:20,847[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  30-32-37
+2023-08-25 16:43:20,861[INFO ]:Received LinkTest Response.
+2023-08-25 16:43:20,861[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:43:20,862[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:43:20,862[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:44:01,282[INFO ]:Before Clear Queue.
+2023-08-25 16:44:01,288[INFO ]:Clear Queue.
+2023-08-25 16:44:01,288[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:44:01,288[INFO ]:Connection Mode : Passive
+2023-08-25 16:44:01,305[INFO ]:Thread State Changed : Working
+2023-08-25 16:44:01,305[INFO ]:Start RunThreadPassive()
+2023-08-25 16:44:01,306[INFO ]:Listening State Changed : Open
+2023-08-25 16:44:01,306[INFO ]:Socket Listener was Started.
+2023-08-25 16:44:01,306[INFO ]:Before Clear Queue.
+2023-08-25 16:44:01,306[INFO ]:Clear Queue.
+2023-08-25 16:44:01,306[INFO ]:Waiting New Connection...
+2023-08-25 16:44:05,256[INFO ]:Accept New Connection.
+2023-08-25 16:44:05,256[INFO ]:Listening State Changed : Close
+2023-08-25 16:44:05,256[INFO ]:Start New Connection.
+2023-08-25 16:44:05,256[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:44:05,257[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:44:05,259[INFO ]:Started Basic Timer.
+2023-08-25 16:44:05,262[INFO ]:Start Recv Thread.
+2023-08-25 16:44:05,262[INFO ]:Start RunThreadRecv()
+2023-08-25 16:44:05,266[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,538), Length[0]
+2023-08-25 16:44:05,266[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:44:05,266[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:44:05,267[INFO ]:Received Select Request.
+2023-08-25 16:44:05,267[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,538), Length[0]
+2023-08-25 16:44:05,268[INFO ]:Send LinkTest Request.
+2023-08-25 16:44:05,268[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:44:05,268[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:44:05,319[INFO ]:Sent Select Response.
+2023-08-25 16:44:05,319[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,538), Length[0]
+2023-08-25 16:44:05,319[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:44:05,333[INFO ]:Received LinkTest Response.
+2023-08-25 16:44:05,333[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:44:05,368[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:44:05,368[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:44:05,379[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:44:05,379[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  30-32-37
+2023-08-25 16:44:05,409[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:44:05,409[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:44:19,209[INFO ]:Before Clear Queue.
+2023-08-25 16:44:19,215[INFO ]:Clear Queue.
+2023-08-25 16:44:19,215[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:44:19,215[INFO ]:Connection Mode : Passive
+2023-08-25 16:44:19,220[INFO ]:Thread State Changed : Working
+2023-08-25 16:44:19,221[INFO ]:Start RunThreadPassive()
+2023-08-25 16:44:19,222[INFO ]:Listening State Changed : Open
+2023-08-25 16:44:19,222[INFO ]:Socket Listener was Started.
+2023-08-25 16:44:19,222[INFO ]:Before Clear Queue.
+2023-08-25 16:44:19,222[INFO ]:Clear Queue.
+2023-08-25 16:44:19,222[INFO ]:Waiting New Connection...
+2023-08-25 16:44:25,919[INFO ]:Accept New Connection.
+2023-08-25 16:44:25,920[INFO ]:Listening State Changed : Close
+2023-08-25 16:44:25,920[INFO ]:Start New Connection.
+2023-08-25 16:44:25,921[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:44:25,925[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:44:25,926[INFO ]:Started Basic Timer.
+2023-08-25 16:44:25,931[INFO ]:Start Recv Thread.
+2023-08-25 16:44:25,931[INFO ]:Start RunThreadRecv()
+2023-08-25 16:44:25,935[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,546), Length[0]
+2023-08-25 16:44:25,935[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:44:25,935[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:44:25,936[INFO ]:Received Select Request.
+2023-08-25 16:44:25,936[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,546), Length[0]
+2023-08-25 16:44:25,937[INFO ]:Send LinkTest Request.
+2023-08-25 16:44:25,937[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:44:25,937[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:44:25,996[INFO ]:Sent Select Response.
+2023-08-25 16:44:25,996[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,546), Length[0]
+2023-08-25 16:44:25,996[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:44:26,010[INFO ]:Received LinkTest Response.
+2023-08-25 16:44:26,011[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:44:26,044[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:44:26,044[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:44:26,056[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:44:26,057[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  30-32-37
+2023-08-25 16:44:26,086[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:44:26,086[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:44:57,358[INFO ]:Received LinkTest Request.
+2023-08-25 16:44:57,358[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(23,554), Length[0]
+2023-08-25 16:44:57,358[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,554), Length[0]
+2023-08-25 16:44:57,358[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-08-25 16:44:57,388[INFO ]:Sent LinkTest Response.
+2023-08-25 16:44:57,388[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,554), Length[0]
+2023-08-25 16:45:16,626[INFO ]:Before Clear Queue.
+2023-08-25 16:45:16,633[INFO ]:Clear Queue.
+2023-08-25 16:45:16,633[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:45:16,633[INFO ]:Connection Mode : Passive
+2023-08-25 16:45:16,638[INFO ]:Thread State Changed : Working
+2023-08-25 16:45:16,638[INFO ]:Start RunThreadPassive()
+2023-08-25 16:45:16,639[INFO ]:Listening State Changed : Open
+2023-08-25 16:45:16,639[INFO ]:Socket Listener was Started.
+2023-08-25 16:45:16,639[INFO ]:Before Clear Queue.
+2023-08-25 16:45:16,639[INFO ]:Clear Queue.
+2023-08-25 16:45:16,639[INFO ]:Waiting New Connection...
+2023-08-25 16:45:22,893[INFO ]:Accept New Connection.
+2023-08-25 16:45:22,893[INFO ]:Listening State Changed : Close
+2023-08-25 16:45:22,893[INFO ]:Start New Connection.
+2023-08-25 16:45:22,893[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:45:22,894[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:45:22,895[INFO ]:Started Basic Timer.
+2023-08-25 16:45:22,897[INFO ]:Start Recv Thread.
+2023-08-25 16:45:22,898[INFO ]:Start RunThreadRecv()
+2023-08-25 16:45:22,903[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,558), Length[0]
+2023-08-25 16:45:22,904[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:45:22,904[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:45:22,905[INFO ]:Received Select Request.
+2023-08-25 16:45:22,905[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,558), Length[0]
+2023-08-25 16:45:22,905[INFO ]:Send LinkTest Request.
+2023-08-25 16:45:22,906[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:45:22,906[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:45:22,955[INFO ]:Sent Select Response.
+2023-08-25 16:45:22,955[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,558), Length[0]
+2023-08-25 16:45:22,955[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:45:22,957[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:45:22,957[INFO ]:Message Stat : Queue[1], Sent[1], Recv[0]
+2023-08-25 16:45:22,969[INFO ]:Received LinkTest Response.
+2023-08-25 16:45:22,969[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:45:23,014[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:45:23,015[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  30-32-37
+2023-08-25 16:45:23,045[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:45:23,045[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:45:54,406[INFO ]:Received LinkTest Request.
+2023-08-25 16:45:54,406[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(23,566), Length[0]
+2023-08-25 16:45:54,406[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,566), Length[0]
+2023-08-25 16:45:54,406[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-08-25 16:45:54,422[INFO ]:Sent LinkTest Response.
+2023-08-25 16:45:54,422[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,566), Length[0]
+2023-08-25 16:46:20,725[INFO ]:Before Clear Queue.
+2023-08-25 16:46:20,731[INFO ]:Clear Queue.
+2023-08-25 16:46:20,731[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:46:20,731[INFO ]:Connection Mode : Passive
+2023-08-25 16:46:20,740[INFO ]:Thread State Changed : Working
+2023-08-25 16:46:20,740[INFO ]:Start RunThreadPassive()
+2023-08-25 16:46:20,741[INFO ]:Listening State Changed : Open
+2023-08-25 16:46:20,741[INFO ]:Socket Listener was Started.
+2023-08-25 16:46:20,741[INFO ]:Before Clear Queue.
+2023-08-25 16:46:20,741[INFO ]:Clear Queue.
+2023-08-25 16:46:20,741[INFO ]:Waiting New Connection...
+2023-08-25 16:46:27,273[INFO ]:Accept New Connection.
+2023-08-25 16:46:27,273[INFO ]:Listening State Changed : Close
+2023-08-25 16:46:27,273[INFO ]:Start New Connection.
+2023-08-25 16:46:27,274[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:46:27,277[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:46:27,278[INFO ]:Started Basic Timer.
+2023-08-25 16:46:27,281[INFO ]:Start Recv Thread.
+2023-08-25 16:46:27,281[INFO ]:Start RunThreadRecv()
+2023-08-25 16:46:27,288[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,570), Length[0]
+2023-08-25 16:46:27,288[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:46:27,288[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:46:27,290[INFO ]:Received Select Request.
+2023-08-25 16:46:27,290[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,570), Length[0]
+2023-08-25 16:46:27,290[INFO ]:Send LinkTest Request.
+2023-08-25 16:46:27,290[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:46:27,290[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:46:27,322[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:46:27,322[INFO ]:Message Stat : Queue[3], Sent[0], Recv[1]
+2023-08-25 16:46:27,349[INFO ]:Sent Select Response.
+2023-08-25 16:46:27,349[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,570), Length[0]
+2023-08-25 16:46:27,350[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:46:27,350[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:46:27,350[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  30-32-37
+2023-08-25 16:46:27,364[INFO ]:Received LinkTest Response.
+2023-08-25 16:46:27,364[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:46:27,377[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:46:27,377[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:46:47,099[INFO ]:Before Clear Queue.
+2023-08-25 16:46:47,105[INFO ]:Clear Queue.
+2023-08-25 16:46:47,105[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:46:47,105[INFO ]:Connection Mode : Passive
+2023-08-25 16:46:47,109[INFO ]:Thread State Changed : Working
+2023-08-25 16:46:47,110[INFO ]:Start RunThreadPassive()
+2023-08-25 16:46:47,110[INFO ]:Listening State Changed : Open
+2023-08-25 16:46:47,110[INFO ]:Socket Listener was Started.
+2023-08-25 16:46:47,110[INFO ]:Before Clear Queue.
+2023-08-25 16:46:47,110[INFO ]:Clear Queue.
+2023-08-25 16:46:47,110[INFO ]:Waiting New Connection...
+2023-08-25 16:46:53,678[INFO ]:Accept New Connection.
+2023-08-25 16:46:53,678[INFO ]:Listening State Changed : Close
+2023-08-25 16:46:53,679[INFO ]:Start New Connection.
+2023-08-25 16:46:53,679[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:46:53,683[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:46:53,684[INFO ]:Started Basic Timer.
+2023-08-25 16:46:53,687[INFO ]:Start Recv Thread.
+2023-08-25 16:46:53,687[INFO ]:Start RunThreadRecv()
+2023-08-25 16:46:53,696[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,578), Length[0]
+2023-08-25 16:46:53,696[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:46:53,696[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:46:53,698[INFO ]:Received Select Request.
+2023-08-25 16:46:53,698[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,578), Length[0]
+2023-08-25 16:46:53,699[INFO ]:Send LinkTest Request.
+2023-08-25 16:46:53,699[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:46:53,699[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:46:53,740[INFO ]:Sent Select Response.
+2023-08-25 16:46:53,740[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,578), Length[0]
+2023-08-25 16:46:53,740[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:46:53,770[INFO ]:Received LinkTest Response.
+2023-08-25 16:46:53,770[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:46:53,790[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:46:53,790[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:46:53,801[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:46:53,801[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  30-32-37
+2023-08-25 16:46:53,847[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:46:53,847[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:47:25,144[INFO ]:Received LinkTest Request.
+2023-08-25 16:47:25,144[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(23,586), Length[0]
+2023-08-25 16:47:25,144[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,586), Length[0]
+2023-08-25 16:47:25,144[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-08-25 16:47:25,160[INFO ]:Sent LinkTest Response.
+2023-08-25 16:47:25,160[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,586), Length[0]
+2023-08-25 16:47:56,616[INFO ]:Received LinkTest Request.
+2023-08-25 16:47:56,616[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(23,590), Length[0]
+2023-08-25 16:47:56,616[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,590), Length[0]
+2023-08-25 16:47:56,616[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-08-25 16:47:56,647[INFO ]:Sent LinkTest Response.
+2023-08-25 16:47:56,647[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,590), Length[0]
+2023-08-25 16:48:28,145[INFO ]:Received LinkTest Request.
+2023-08-25 16:48:28,145[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(23,594), Length[0]
+2023-08-25 16:48:28,145[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,594), Length[0]
+2023-08-25 16:48:28,145[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-08-25 16:48:28,161[INFO ]:Sent LinkTest Response.
+2023-08-25 16:48:28,161[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,594), Length[0]
+2023-08-25 16:50:31,369[INFO ]:Before Clear Queue.
+2023-08-25 16:50:31,376[INFO ]:Clear Queue.
+2023-08-25 16:50:31,376[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:50:31,376[INFO ]:Connection Mode : Passive
+2023-08-25 16:50:31,381[INFO ]:Thread State Changed : Working
+2023-08-25 16:50:31,382[INFO ]:Start RunThreadPassive()
+2023-08-25 16:50:31,382[INFO ]:Listening State Changed : Open
+2023-08-25 16:50:31,382[INFO ]:Socket Listener was Started.
+2023-08-25 16:50:31,382[INFO ]:Before Clear Queue.
+2023-08-25 16:50:31,382[INFO ]:Clear Queue.
+2023-08-25 16:50:31,382[INFO ]:Waiting New Connection...
+2023-08-25 16:50:34,126[INFO ]:Accept New Connection.
+2023-08-25 16:50:34,126[INFO ]:Listening State Changed : Close
+2023-08-25 16:50:34,126[INFO ]:Start New Connection.
+2023-08-25 16:50:34,127[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:50:34,128[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:50:34,129[INFO ]:Started Basic Timer.
+2023-08-25 16:50:34,131[INFO ]:Start Recv Thread.
+2023-08-25 16:50:34,131[INFO ]:Start RunThreadRecv()
+2023-08-25 16:50:34,135[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,598), Length[0]
+2023-08-25 16:50:34,135[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:50:34,135[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:50:34,137[INFO ]:Received Select Request.
+2023-08-25 16:50:34,137[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,598), Length[0]
+2023-08-25 16:50:34,137[INFO ]:Send LinkTest Request.
+2023-08-25 16:50:34,137[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:50:34,137[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:50:34,148[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:50:34,149[INFO ]:Message Stat : Queue[3], Sent[0], Recv[1]
+2023-08-25 16:50:34,188[INFO ]:Sent Select Response.
+2023-08-25 16:50:34,189[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,598), Length[0]
+2023-08-25 16:50:34,189[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:50:34,189[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:50:34,190[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  33-31-34
+2023-08-25 16:50:34,202[INFO ]:Received LinkTest Response.
+2023-08-25 16:50:34,202[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:50:34,279[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:50:34,279[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:50:42,023[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(2), Length[34]
+2023-08-25 16:50:42,023[INFO ]:Message Stat : Queue[1], Sent[0], Recv[2]
+2023-08-25 16:50:46,342[INFO ]:Before Clear Queue.
+2023-08-25 16:50:46,350[INFO ]:Clear Queue.
+2023-08-25 16:50:46,350[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:50:46,350[INFO ]:Connection Mode : Passive
+2023-08-25 16:50:46,355[INFO ]:Thread State Changed : Working
+2023-08-25 16:50:46,356[INFO ]:Start RunThreadPassive()
+2023-08-25 16:50:46,357[INFO ]:Listening State Changed : Open
+2023-08-25 16:50:46,357[INFO ]:Socket Listener was Started.
+2023-08-25 16:50:46,357[INFO ]:Before Clear Queue.
+2023-08-25 16:50:46,357[INFO ]:Clear Queue.
+2023-08-25 16:50:46,357[INFO ]:Waiting New Connection...
+2023-08-25 16:50:52,135[INFO ]:Accept New Connection.
+2023-08-25 16:50:52,136[INFO ]:Listening State Changed : Close
+2023-08-25 16:50:52,136[INFO ]:Start New Connection.
+2023-08-25 16:50:52,136[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:50:52,139[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:50:52,141[INFO ]:Started Basic Timer.
+2023-08-25 16:50:52,147[INFO ]:Start Recv Thread.
+2023-08-25 16:50:52,148[INFO ]:Start RunThreadRecv()
+2023-08-25 16:50:52,156[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,606), Length[0]
+2023-08-25 16:50:52,156[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:50:52,156[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:50:52,159[INFO ]:Received Select Request.
+2023-08-25 16:50:52,159[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,606), Length[0]
+2023-08-25 16:50:52,159[INFO ]:Send LinkTest Request.
+2023-08-25 16:50:52,159[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:50:52,159[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:50:52,188[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:50:52,188[INFO ]:Message Stat : Queue[3], Sent[0], Recv[1]
+2023-08-25 16:50:52,213[INFO ]:Sent Select Response.
+2023-08-25 16:50:52,213[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,606), Length[0]
+2023-08-25 16:50:52,213[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:50:52,213[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:50:52,214[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  33-31-34
+2023-08-25 16:50:52,226[INFO ]:Received LinkTest Response.
+2023-08-25 16:50:52,226[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:50:52,302[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:50:52,302[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:51:08,064[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(2), Length[34]
+2023-08-25 16:51:08,064[INFO ]:Message Stat : Queue[1], Sent[0], Recv[2]
+2023-08-25 16:51:08,089[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(2), Length[34]
+2023-08-25 16:51:08,089[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-1B-01-01
+    01-02-B1-04  00-00-04-1B  01-02-A9-02  00-00-A9-02
+    00-04
+2023-08-25 16:51:08,134[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(2), Length[3]
+2023-08-25 16:51:08,134[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-25 16:51:40,095[INFO ]:Received LinkTest Request.
+2023-08-25 16:51:40,095[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(23,616), Length[0]
+2023-08-25 16:51:40,095[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,616), Length[0]
+2023-08-25 16:51:40,095[INFO ]:Message Stat : Queue[1], Sent[0], Recv[4]
+2023-08-25 16:51:40,126[INFO ]:Sent LinkTest Response.
+2023-08-25 16:51:40,127[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,616), Length[0]
+2023-08-25 16:53:06,874[INFO ]:Received LinkTest Request.
+2023-08-25 16:53:06,875[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(5), SB(23,620), Length[0]
+2023-08-25 16:53:06,875[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(6), SB(23,620), Length[0]
+2023-08-25 16:53:06,875[INFO ]:Message Stat : Queue[1], Sent[0], Recv[4]
+2023-08-25 16:53:06,875[INFO ]:HSMS Connection State Is Changed : 3 -> 1
+2023-08-25 16:53:27,355[INFO ]:Before Clear Queue.
+2023-08-25 16:53:27,361[INFO ]:Clear Queue.
+2023-08-25 16:53:27,361[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:53:27,361[INFO ]:Connection Mode : Passive
+2023-08-25 16:53:27,366[INFO ]:Thread State Changed : Working
+2023-08-25 16:53:27,367[INFO ]:Start RunThreadPassive()
+2023-08-25 16:53:27,367[INFO ]:Listening State Changed : Open
+2023-08-25 16:53:27,367[INFO ]:Socket Listener was Started.
+2023-08-25 16:53:27,367[INFO ]:Before Clear Queue.
+2023-08-25 16:53:27,367[INFO ]:Clear Queue.
+2023-08-25 16:53:27,367[INFO ]:Waiting New Connection...
+2023-08-25 16:53:34,450[INFO ]:Accept New Connection.
+2023-08-25 16:53:34,450[INFO ]:Listening State Changed : Close
+2023-08-25 16:53:34,450[INFO ]:Start New Connection.
+2023-08-25 16:53:34,451[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:53:34,454[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:53:34,455[INFO ]:Started Basic Timer.
+2023-08-25 16:53:34,460[INFO ]:Start Recv Thread.
+2023-08-25 16:53:34,461[INFO ]:Start RunThreadRecv()
+2023-08-25 16:53:34,465[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,628), Length[0]
+2023-08-25 16:53:34,465[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:53:34,465[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:53:34,466[INFO ]:Received Select Request.
+2023-08-25 16:53:34,466[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,628), Length[0]
+2023-08-25 16:53:34,467[INFO ]:Send LinkTest Request.
+2023-08-25 16:53:34,467[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:53:34,467[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:53:34,526[INFO ]:Sent Select Response.
+2023-08-25 16:53:34,526[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,628), Length[0]
+2023-08-25 16:53:34,527[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:53:34,541[INFO ]:Received LinkTest Response.
+2023-08-25 16:53:34,541[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:53:34,619[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:53:34,619[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:53:34,646[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:53:34,647[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  33-31-34
+2023-08-25 16:53:34,692[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:53:34,692[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:54:25,412[INFO ]:Before Clear Queue.
+2023-08-25 16:54:25,418[INFO ]:Clear Queue.
+2023-08-25 16:54:25,418[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:54:25,418[INFO ]:Connection Mode : Passive
+2023-08-25 16:54:25,422[INFO ]:Thread State Changed : Working
+2023-08-25 16:54:25,423[INFO ]:Start RunThreadPassive()
+2023-08-25 16:54:25,423[INFO ]:Listening State Changed : Open
+2023-08-25 16:54:25,424[INFO ]:Socket Listener was Started.
+2023-08-25 16:54:25,424[INFO ]:Before Clear Queue.
+2023-08-25 16:54:25,424[INFO ]:Clear Queue.
+2023-08-25 16:54:25,424[INFO ]:Waiting New Connection...
+2023-08-25 16:54:32,879[INFO ]:Accept New Connection.
+2023-08-25 16:54:32,879[INFO ]:Listening State Changed : Close
+2023-08-25 16:54:32,879[INFO ]:Start New Connection.
+2023-08-25 16:54:32,879[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-25 16:54:32,881[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-25 16:54:32,881[INFO ]:Started Basic Timer.
+2023-08-25 16:54:32,884[INFO ]:Start Recv Thread.
+2023-08-25 16:54:32,884[INFO ]:Start RunThreadRecv()
+2023-08-25 16:54:32,888[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,636), Length[0]
+2023-08-25 16:54:32,888[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:54:32,888[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-25 16:54:32,889[INFO ]:Received Select Request.
+2023-08-25 16:54:32,889[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(1), SB(23,636), Length[0]
+2023-08-25 16:54:32,889[INFO ]:Send LinkTest Request.
+2023-08-25 16:54:32,890[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:54:32,890[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-25 16:54:32,941[INFO ]:Sent Select Response.
+2023-08-25 16:54:32,941[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(2), SB(23,636), Length[0]
+2023-08-25 16:54:32,941[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-25 16:54:32,955[INFO ]:Received LinkTest Response.
+2023-08-25 16:54:32,955[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-25 16:54:33,037[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:54:33,037[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-25 16:54:33,062[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-25 16:54:33,062[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  44-46-52-41  0E-31-2E-30  2E-38-36-33
+    37-2E-33-30  33-31-34
+2023-08-25 16:54:33,107[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[7]
+2023-08-25 16:54:33,107[DEBUG]:<<<< HSMS Data [7] <<<<
+    01-02-21-01  00-01-00
+2023-08-25 16:57:31,533[INFO ]:Before Clear Queue.
+2023-08-25 16:57:31,539[INFO ]:Clear Queue.
+2023-08-25 16:57:31,539[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:57:31,539[INFO ]:Connection Mode : Passive
+2023-08-25 16:57:31,543[INFO ]:Thread State Changed : Working
+2023-08-25 16:57:31,545[INFO ]:Start RunThreadPassive()
+2023-08-25 16:57:31,545[INFO ]:Listening State Changed : Open
+2023-08-25 16:57:31,545[INFO ]:Socket Listener was Started.
+2023-08-25 16:57:31,545[INFO ]:Before Clear Queue.
+2023-08-25 16:57:31,545[INFO ]:Clear Queue.
+2023-08-25 16:57:31,545[INFO ]:Waiting New Connection...
+2023-08-25 16:58:54,876[INFO ]:Before Clear Queue.
+2023-08-25 16:58:54,882[INFO ]:Clear Queue.
+2023-08-25 16:58:54,882[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:58:54,882[INFO ]:Connection Mode : Passive
+2023-08-25 16:58:54,886[INFO ]:Thread State Changed : Working
+2023-08-25 16:58:54,888[INFO ]:Start RunThreadPassive()
+2023-08-25 16:58:54,888[INFO ]:Listening State Changed : Open
+2023-08-25 16:58:54,888[INFO ]:Socket Listener was Started.
+2023-08-25 16:58:54,888[INFO ]:Before Clear Queue.
+2023-08-25 16:58:54,888[INFO ]:Clear Queue.
+2023-08-25 16:58:54,888[INFO ]:Waiting New Connection...
+2023-08-25 16:59:19,532[INFO ]:Before Clear Queue.
+2023-08-25 16:59:19,540[INFO ]:Clear Queue.
+2023-08-25 16:59:19,540[INFO ]:Reset System Bytes to Zero(0).
+2023-08-25 16:59:19,540[INFO ]:Connection Mode : Passive
+2023-08-25 16:59:19,545[INFO ]:Thread State Changed : Working
+2023-08-25 16:59:19,546[INFO ]:Start RunThreadPassive()
+2023-08-25 16:59:19,546[INFO ]:Listening State Changed : Open
+2023-08-25 16:59:19,546[INFO ]:Socket Listener was Started.
+2023-08-25 16:59:19,546[INFO ]:Before Clear Queue.
+2023-08-25 16:59:19,546[INFO ]:Clear Queue.
+2023-08-25 16:59:19,546[INFO ]:Waiting New Connection...

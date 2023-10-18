@@ -1,0 +1,763 @@
+2023-08-29 15:00:32,686[INFO ]:Send LinkTest Request.
+2023-08-29 15:00:32,734[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(100), Length[0]
+2023-08-29 15:00:32,734[INFO ]:Message Stat : Queue[1], Sent[0], Recv[50]
+2023-08-29 15:00:32,763[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(100), Length[0]
+2023-08-29 15:00:32,885[INFO ]:Received LinkTest Response.
+2023-08-29 15:00:32,885[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(100), Length[0]
+2023-08-29 15:02:34,738[INFO ]:Send LinkTest Request.
+2023-08-29 15:02:34,738[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(101), Length[0]
+2023-08-29 15:02:34,740[INFO ]:Message Stat : Queue[1], Sent[0], Recv[51]
+2023-08-29 15:02:34,784[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(101), Length[0]
+2023-08-29 15:02:34,939[INFO ]:Received LinkTest Response.
+2023-08-29 15:02:34,939[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(101), Length[0]
+2023-08-29 15:04:36,805[INFO ]:Send LinkTest Request.
+2023-08-29 15:04:36,805[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(102), Length[0]
+2023-08-29 15:04:36,805[INFO ]:Message Stat : Queue[1], Sent[0], Recv[52]
+2023-08-29 15:04:36,835[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(102), Length[0]
+2023-08-29 15:04:37,002[INFO ]:Received LinkTest Response.
+2023-08-29 15:04:37,002[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(102), Length[0]
+2023-08-29 15:06:38,746[INFO ]:Send LinkTest Request.
+2023-08-29 15:06:38,746[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(103), Length[0]
+2023-08-29 15:06:38,746[INFO ]:Message Stat : Queue[1], Sent[0], Recv[53]
+2023-08-29 15:06:38,761[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(103), Length[0]
+2023-08-29 15:06:38,884[INFO ]:Received LinkTest Response.
+2023-08-29 15:06:38,884[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(103), Length[0]
+2023-08-29 15:08:40,825[INFO ]:Send LinkTest Request.
+2023-08-29 15:08:40,825[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(104), Length[0]
+2023-08-29 15:08:40,825[INFO ]:Message Stat : Queue[1], Sent[0], Recv[54]
+2023-08-29 15:08:40,870[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(104), Length[0]
+2023-08-29 15:08:40,992[INFO ]:Received LinkTest Response.
+2023-08-29 15:08:40,992[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(104), Length[0]
+2023-08-29 15:10:43,040[INFO ]:Send LinkTest Request.
+2023-08-29 15:10:43,040[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(105), Length[0]
+2023-08-29 15:10:43,040[INFO ]:Message Stat : Queue[1], Sent[0], Recv[55]
+2023-08-29 15:10:43,055[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(105), Length[0]
+2023-08-29 15:10:43,163[INFO ]:Received LinkTest Response.
+2023-08-29 15:10:43,163[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(105), Length[0]
+2023-08-29 15:12:45,346[INFO ]:Send LinkTest Request.
+2023-08-29 15:12:45,346[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(106), Length[0]
+2023-08-29 15:12:45,346[INFO ]:Message Stat : Queue[1], Sent[0], Recv[56]
+2023-08-29 15:12:45,408[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(106), Length[0]
+2023-08-29 15:12:45,562[INFO ]:Received LinkTest Response.
+2023-08-29 15:12:45,562[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(106), Length[0]
+2023-08-29 15:14:47,655[INFO ]:Send LinkTest Request.
+2023-08-29 15:14:47,655[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(107), Length[0]
+2023-08-29 15:14:47,655[INFO ]:Message Stat : Queue[1], Sent[0], Recv[57]
+2023-08-29 15:14:47,671[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(107), Length[0]
+2023-08-29 15:14:47,808[INFO ]:Received LinkTest Response.
+2023-08-29 15:14:47,808[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(107), Length[0]
+2023-08-29 15:16:13,368[INFO ]:Before Clear Queue.
+2023-08-29 15:16:13,374[INFO ]:Clear Queue.
+2023-08-29 15:16:13,374[INFO ]:Reset System Bytes to Zero(0).
+2023-08-29 15:16:13,374[INFO ]:Connection Mode : Passive
+2023-08-29 15:16:13,378[INFO ]:Thread State Changed : Working
+2023-08-29 15:16:13,380[INFO ]:Start RunThreadPassive()
+2023-08-29 15:16:13,380[INFO ]:Listening State Changed : Open
+2023-08-29 15:16:13,380[INFO ]:Socket Listener was Started.
+2023-08-29 15:16:13,380[INFO ]:Before Clear Queue.
+2023-08-29 15:16:13,380[INFO ]:Clear Queue.
+2023-08-29 15:16:13,380[INFO ]:Waiting New Connection...
+2023-08-29 15:16:20,262[INFO ]:Accept New Connection.
+2023-08-29 15:16:20,262[INFO ]:Listening State Changed : Close
+2023-08-29 15:16:20,262[INFO ]:Start New Connection.
+2023-08-29 15:16:20,263[INFO ]:HSMS Connection State Is Changed : 0 -> 1
+2023-08-29 15:16:20,264[INFO ]:Start Basic Timer Due(1000), Period(1000)
+2023-08-29 15:16:20,264[INFO ]:Started Basic Timer.
+2023-08-29 15:16:20,268[INFO ]:Start Recv Thread.
+2023-08-29 15:16:20,268[INFO ]:Start RunThreadRecv()
+2023-08-29 15:16:20,326[INFO ]:Queued HSMS Message : SSID(0), B2(0), B3(0), P(0), S(2), SB(136), Length[0]
+2023-08-29 15:16:20,326[INFO ]:Message Stat : Queue[1], Sent[0], Recv[1]
+2023-08-29 15:16:20,326[INFO ]:HSMS Connection State Is Changed : 1 -> 3
+2023-08-29 15:16:20,328[INFO ]:Received Select Request.
+2023-08-29 15:16:20,328[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(0), B3(0), P(0), S(1), SB(136), Length[0]
+2023-08-29 15:16:20,329[INFO ]:Send LinkTest Request.
+2023-08-29 15:16:20,329[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-29 15:16:20,329[INFO ]:Message Stat : Queue[2], Sent[0], Recv[1]
+2023-08-29 15:16:20,385[INFO ]:Sent Select Response.
+2023-08-29 15:16:20,385[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(0), B3(0), P(0), S(2), SB(136), Length[0]
+2023-08-29 15:16:20,385[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(0), Length[0]
+2023-08-29 15:16:20,448[INFO ]:Queued HSMS Message : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-29 15:16:20,448[INFO ]:Message Stat : Queue[1], Sent[1], Recv[0]
+2023-08-29 15:16:20,508[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(129), B3(13), P(0), S(0), SB(1), Length[23]
+2023-08-29 15:16:20,508[DEBUG]:>>>> HSMS Data [23] >>>>
+    01-02-41-03  55-50-4B-41  0E-31-2E-30  2E-38-36-34
+    31-2E-32-37  34-38-34
+2023-08-29 15:16:20,539[INFO ]:Received LinkTest Response.
+2023-08-29 15:16:20,539[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(0), Length[0]
+2023-08-29 15:16:20,677[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(1), B3(14), P(0), S(0), SB(1), Length[11]
+2023-08-29 15:16:20,677[DEBUG]:<<<< HSMS Data [11] <<<<
+    01-02-21-01  00-01-02-41  00-41-00
+2023-08-29 15:18:21,390[INFO ]:Send LinkTest Request.
+2023-08-29 15:18:21,390[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(2), Length[0]
+2023-08-29 15:18:21,390[INFO ]:Message Stat : Queue[1], Sent[0], Recv[2]
+2023-08-29 15:18:21,405[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(2), Length[0]
+2023-08-29 15:18:21,542[INFO ]:Received LinkTest Response.
+2023-08-29 15:18:21,542[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(2), Length[0]
+2023-08-29 15:20:23,682[INFO ]:Send LinkTest Request.
+2023-08-29 15:20:23,682[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(3), Length[0]
+2023-08-29 15:20:23,682[INFO ]:Message Stat : Queue[1], Sent[0], Recv[3]
+2023-08-29 15:20:23,728[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(3), Length[0]
+2023-08-29 15:20:23,896[INFO ]:Received LinkTest Response.
+2023-08-29 15:20:23,896[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(3), Length[0]
+2023-08-29 15:22:26,008[INFO ]:Send LinkTest Request.
+2023-08-29 15:22:26,008[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(4), Length[0]
+2023-08-29 15:22:26,008[INFO ]:Message Stat : Queue[1], Sent[0], Recv[4]
+2023-08-29 15:22:26,038[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(4), Length[0]
+2023-08-29 15:22:26,193[INFO ]:Received LinkTest Response.
+2023-08-29 15:22:26,193[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(4), Length[0]
+2023-08-29 15:24:28,123[INFO ]:Send LinkTest Request.
+2023-08-29 15:24:28,123[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(5), Length[0]
+2023-08-29 15:24:28,123[INFO ]:Message Stat : Queue[1], Sent[0], Recv[5]
+2023-08-29 15:24:28,170[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(5), Length[0]
+2023-08-29 15:24:28,292[INFO ]:Received LinkTest Response.
+2023-08-29 15:24:28,292[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(5), Length[0]
+2023-08-29 15:26:30,161[INFO ]:Send LinkTest Request.
+2023-08-29 15:26:30,161[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(6), Length[0]
+2023-08-29 15:26:30,161[INFO ]:Message Stat : Queue[1], Sent[0], Recv[6]
+2023-08-29 15:26:30,207[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(6), Length[0]
+2023-08-29 15:26:30,331[INFO ]:Received LinkTest Response.
+2023-08-29 15:26:30,331[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(6), Length[0]
+2023-08-29 15:28:32,274[INFO ]:Send LinkTest Request.
+2023-08-29 15:28:32,274[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(7), Length[0]
+2023-08-29 15:28:32,274[INFO ]:Message Stat : Queue[1], Sent[0], Recv[7]
+2023-08-29 15:28:32,305[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(7), Length[0]
+2023-08-29 15:28:32,428[INFO ]:Received LinkTest Response.
+2023-08-29 15:28:32,428[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(7), Length[0]
+2023-08-29 15:30:34,339[INFO ]:Send LinkTest Request.
+2023-08-29 15:30:34,339[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(8), Length[0]
+2023-08-29 15:30:34,339[INFO ]:Message Stat : Queue[1], Sent[0], Recv[8]
+2023-08-29 15:30:34,370[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(8), Length[0]
+2023-08-29 15:30:34,525[INFO ]:Received LinkTest Response.
+2023-08-29 15:30:34,525[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(8), Length[0]
+2023-08-29 15:32:36,373[INFO ]:Send LinkTest Request.
+2023-08-29 15:32:36,373[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(9), Length[0]
+2023-08-29 15:32:36,373[INFO ]:Message Stat : Queue[1], Sent[0], Recv[9]
+2023-08-29 15:32:36,388[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(9), Length[0]
+2023-08-29 15:32:36,572[INFO ]:Received LinkTest Response.
+2023-08-29 15:32:36,572[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(9), Length[0]
+2023-08-29 15:34:38,442[INFO ]:Send LinkTest Request.
+2023-08-29 15:34:38,442[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(10), Length[0]
+2023-08-29 15:34:38,442[INFO ]:Message Stat : Queue[1], Sent[0], Recv[10]
+2023-08-29 15:34:38,503[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(10), Length[0]
+2023-08-29 15:34:38,654[INFO ]:Received LinkTest Response.
+2023-08-29 15:34:38,654[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(10), Length[0]
+2023-08-29 15:36:40,696[INFO ]:Send LinkTest Request.
+2023-08-29 15:36:40,696[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(11), Length[0]
+2023-08-29 15:36:40,696[INFO ]:Message Stat : Queue[1], Sent[0], Recv[11]
+2023-08-29 15:36:40,758[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(11), Length[0]
+2023-08-29 15:36:40,897[INFO ]:Received LinkTest Response.
+2023-08-29 15:36:40,897[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(11), Length[0]
+2023-08-29 15:38:42,824[INFO ]:Send LinkTest Request.
+2023-08-29 15:38:42,824[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(12), Length[0]
+2023-08-29 15:38:42,824[INFO ]:Message Stat : Queue[1], Sent[0], Recv[12]
+2023-08-29 15:38:42,870[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(12), Length[0]
+2023-08-29 15:38:42,993[INFO ]:Received LinkTest Response.
+2023-08-29 15:38:42,993[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(12), Length[0]
+2023-08-29 15:40:45,014[INFO ]:Send LinkTest Request.
+2023-08-29 15:40:45,014[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(13), Length[0]
+2023-08-29 15:40:45,014[INFO ]:Message Stat : Queue[1], Sent[0], Recv[13]
+2023-08-29 15:40:45,045[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(13), Length[0]
+2023-08-29 15:40:45,152[INFO ]:Received LinkTest Response.
+2023-08-29 15:40:45,152[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(13), Length[0]
+2023-08-29 15:42:43,916[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(14), Length[36]
+2023-08-29 15:42:43,916[INFO ]:Message Stat : Queue[1], Sent[0], Recv[14]
+2023-08-29 15:42:43,918[INFO ]:Queued HSMS Message : SSID(0), B2(133), B3(1), P(0), S(0), SB(15), Length[37]
+2023-08-29 15:42:43,918[INFO ]:Message Stat : Queue[2], Sent[0], Recv[14]
+2023-08-29 15:42:43,920[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(16), Length[16]
+2023-08-29 15:42:43,920[INFO ]:Message Stat : Queue[3], Sent[0], Recv[14]
+2023-08-29 15:42:43,946[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(14), Length[36]
+2023-08-29 15:42:43,946[DEBUG]:>>>> HSMS Data [36] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  05-E7-01-01
+    01-02-B1-04  00-00-05-E7  01-04-A9-02  00-02-41-00
+    41-00-41-00
+2023-08-29 15:42:43,948[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(133), B3(1), P(0), S(0), SB(15), Length[37]
+2023-08-29 15:42:43,948[DEBUG]:>>>> HSMS Data [37] >>>>
+    01-03-21-01  82-B1-04-00  00-01-51-41  18-4F-50-20
+    54-72-61-79  20-44-65-74  65-63-74-20  20-54-69-6D
+    65-4F-76-65  72
+2023-08-29 15:42:43,949[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(16), Length[16]
+2023-08-29 15:42:43,949[DEBUG]:>>>> HSMS Data [16] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-07-01-00
+2023-08-29 15:42:44,097[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(14), Length[3]
+2023-08-29 15:42:44,097[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:42:44,099[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(5), B3(2), P(0), S(0), SB(15), Length[3]
+2023-08-29 15:42:44,099[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:42:44,173[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(16), Length[3]
+2023-08-29 15:42:44,173[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:42:47,104[INFO ]:Send LinkTest Request.
+2023-08-29 15:42:47,104[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(17), Length[0]
+2023-08-29 15:42:47,104[INFO ]:Message Stat : Queue[1], Sent[0], Recv[17]
+2023-08-29 15:42:47,119[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(17), Length[0]
+2023-08-29 15:42:47,226[INFO ]:Received LinkTest Response.
+2023-08-29 15:42:47,226[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(17), Length[0]
+2023-08-29 15:43:02,740[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(18), Length[36]
+2023-08-29 15:43:02,741[INFO ]:Message Stat : Queue[1], Sent[0], Recv[18]
+2023-08-29 15:43:02,743[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(19), Length[32]
+2023-08-29 15:43:02,743[INFO ]:Message Stat : Queue[2], Sent[0], Recv[18]
+2023-08-29 15:43:02,800[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(18), Length[36]
+2023-08-29 15:43:02,800[DEBUG]:>>>> HSMS Data [36] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  05-E7-01-01
+    01-02-B1-04  00-00-05-E7  01-04-A9-02  00-02-41-00
+    41-00-41-00
+2023-08-29 15:43:02,800[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(19), Length[32]
+2023-08-29 15:43:02,801[DEBUG]:>>>> HSMS Data [32] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  05-DE-01-01
+    01-02-B1-04  00-00-05-DE  01-02-A9-02  00-01-41-00
+2023-08-29 15:43:03,000[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(18), Length[3]
+2023-08-29 15:43:03,000[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:43:03,001[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(19), Length[3]
+2023-08-29 15:43:03,001[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:43:04,462[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(20), Length[34]
+2023-08-29 15:43:04,462[INFO ]:Message Stat : Queue[1], Sent[0], Recv[20]
+2023-08-29 15:43:04,463[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(21), Length[36]
+2023-08-29 15:43:04,463[INFO ]:Message Stat : Queue[2], Sent[0], Recv[20]
+2023-08-29 15:43:04,508[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(20), Length[34]
+2023-08-29 15:43:04,508[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-1B-01-01
+    01-02-B1-04  00-00-04-1B  01-02-A9-02  00-01-A9-02
+    00-02
+2023-08-29 15:43:04,508[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(21), Length[36]
+2023-08-29 15:43:04,508[DEBUG]:>>>> HSMS Data [36] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  05-E7-01-01
+    01-02-B1-04  00-00-05-E7  01-04-A9-02  00-02-41-00
+    41-00-41-00
+2023-08-29 15:43:04,661[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(20), Length[3]
+2023-08-29 15:43:04,661[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:43:04,662[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(21), Length[3]
+2023-08-29 15:43:04,662[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:43:18,173[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(22), Length[32]
+2023-08-29 15:43:18,173[INFO ]:Message Stat : Queue[1], Sent[0], Recv[22]
+2023-08-29 15:43:18,218[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(22), Length[32]
+2023-08-29 15:43:18,218[DEBUG]:>>>> HSMS Data [32] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  05-DF-01-01
+    01-02-B1-04  00-00-05-DF  01-02-A9-02  00-01-41-00
+2023-08-29 15:43:18,416[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(22), Length[3]
+2023-08-29 15:43:18,416[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:43:19,897[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(23), Length[34]
+2023-08-29 15:43:19,897[INFO ]:Message Stat : Queue[1], Sent[0], Recv[23]
+2023-08-29 15:43:19,928[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(23), Length[34]
+2023-08-29 15:43:19,928[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-1B-01-01
+    01-02-B1-04  00-00-04-1B  01-02-A9-02  00-02-A9-02
+    00-01
+2023-08-29 15:43:20,081[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(23), Length[3]
+2023-08-29 15:43:20,081[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:44:52,208[INFO ]:Send LinkTest Request.
+2023-08-29 15:44:52,208[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(24), Length[0]
+2023-08-29 15:44:52,208[INFO ]:Message Stat : Queue[1], Sent[0], Recv[24]
+2023-08-29 15:44:52,224[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(24), Length[0]
+2023-08-29 15:44:52,347[INFO ]:Received LinkTest Response.
+2023-08-29 15:44:52,347[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(24), Length[0]
+2023-08-29 15:46:54,572[INFO ]:Send LinkTest Request.
+2023-08-29 15:46:54,572[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(25), Length[0]
+2023-08-29 15:46:54,572[INFO ]:Message Stat : Queue[1], Sent[0], Recv[25]
+2023-08-29 15:46:54,618[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(25), Length[0]
+2023-08-29 15:46:54,788[INFO ]:Received LinkTest Response.
+2023-08-29 15:46:54,788[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(25), Length[0]
+2023-08-29 15:47:32,121[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(26), Length[32]
+2023-08-29 15:47:32,121[INFO ]:Message Stat : Queue[1], Sent[0], Recv[26]
+2023-08-29 15:47:32,136[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(26), Length[32]
+2023-08-29 15:47:32,136[DEBUG]:>>>> HSMS Data [32] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  05-DE-01-01
+    01-02-B1-04  00-00-05-DE  01-02-A9-02  00-01-41-00
+2023-08-29 15:47:32,290[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(26), Length[3]
+2023-08-29 15:47:32,290[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:47:37,267[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(27), Length[42]
+2023-08-29 15:47:37,267[INFO ]:Message Stat : Queue[1], Sent[0], Recv[27]
+2023-08-29 15:47:37,280[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(27), Length[42]
+2023-08-29 15:47:37,280[DEBUG]:>>>> HSMS Data [42] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4E-01-01
+    01-02-B1-04  00-00-04-4E  01-05-41-04  54-4D-30-31
+    41-00-A9-02  00-00-41-00  41-00
+2023-08-29 15:47:37,479[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(27), Length[3]
+2023-08-29 15:47:37,479[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:47:39,006[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(28), Length[48]
+2023-08-29 15:47:39,006[INFO ]:Message Stat : Queue[1], Sent[0], Recv[28]
+2023-08-29 15:47:39,051[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(28), Length[48]
+2023-08-29 15:47:39,051[DEBUG]:>>>> HSMS Data [48] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4D-01-01
+    01-02-B1-04  00-00-04-4D  01-07-41-04  42-46-30-31
+    A9-02-00-01  41-00-41-00  A9-02-00-00  41-00-41-00
+2023-08-29 15:47:39,220[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(28), Length[3]
+2023-08-29 15:47:39,220[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:47:40,747[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(29), Length[49]
+2023-08-29 15:47:40,747[INFO ]:Message Stat : Queue[1], Sent[0], Recv[29]
+2023-08-29 15:47:40,762[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(29), Length[49]
+2023-08-29 15:47:40,762[DEBUG]:>>>> HSMS Data [49] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4D-01-01
+    01-02-B1-04  00-00-04-4D  01-07-41-05  55-53-43-30
+    31-A9-02-00  01-41-00-41  00-A9-02-00  00-41-00-41
+    00
+2023-08-29 15:47:40,961[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(29), Length[3]
+2023-08-29 15:47:40,961[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:47:45,968[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(30), Length[35]
+2023-08-29 15:47:45,968[INFO ]:Message Stat : Queue[1], Sent[0], Recv[30]
+2023-08-29 15:47:45,968[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(31), Length[47]
+2023-08-29 15:47:45,969[INFO ]:Message Stat : Queue[2], Sent[0], Recv[30]
+2023-08-29 15:47:45,983[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(32), Length[43]
+2023-08-29 15:47:45,983[INFO ]:Message Stat : Queue[3], Sent[0], Recv[30]
+2023-08-29 15:47:46,013[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(30), Length[35]
+2023-08-29 15:47:46,013[DEBUG]:>>>> HSMS Data [35] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B1-01-01
+    01-02-B1-04  00-00-04-B1  01-02-41-05  55-53-43-30
+    31-41-00
+2023-08-29 15:47:46,013[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(31), Length[47]
+2023-08-29 15:47:46,013[DEBUG]:>>>> HSMS Data [47] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  06-4B-01-01
+    01-02-B1-04  00-00-06-4B  01-06-41-05  55-53-43-30
+    31-41-00-A9  02-00-00-41  00-A9-02-00  00-41-00
+2023-08-29 15:47:46,014[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(32), Length[43]
+2023-08-29 15:47:46,014[DEBUG]:>>>> HSMS Data [43] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4E-01-01
+    01-02-B1-04  00-00-04-4E  01-05-41-05  55-53-43-30
+    31-41-00-A9  02-00-00-41  00-41-00
+2023-08-29 15:47:46,212[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(30), Length[3]
+2023-08-29 15:47:46,212[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:47:46,213[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(31), Length[3]
+2023-08-29 15:47:46,213[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:47:46,213[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(32), Length[3]
+2023-08-29 15:47:46,213[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:48:56,804[INFO ]:Send LinkTest Request.
+2023-08-29 15:48:56,804[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(33), Length[0]
+2023-08-29 15:48:56,804[INFO ]:Message Stat : Queue[1], Sent[0], Recv[33]
+2023-08-29 15:48:56,819[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(33), Length[0]
+2023-08-29 15:48:56,957[INFO ]:Received LinkTest Response.
+2023-08-29 15:48:56,957[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(33), Length[0]
+2023-08-29 15:49:03,353[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(34), Length[36]
+2023-08-29 15:49:03,353[INFO ]:Message Stat : Queue[1], Sent[0], Recv[34]
+2023-08-29 15:49:03,353[INFO ]:Queued HSMS Message : SSID(0), B2(133), B3(1), P(0), S(0), SB(35), Length[37]
+2023-08-29 15:49:03,353[INFO ]:Message Stat : Queue[2], Sent[0], Recv[34]
+2023-08-29 15:49:03,354[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(36), Length[16]
+2023-08-29 15:49:03,354[INFO ]:Message Stat : Queue[3], Sent[0], Recv[34]
+2023-08-29 15:49:03,368[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(34), Length[36]
+2023-08-29 15:49:03,368[DEBUG]:>>>> HSMS Data [36] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  05-E7-01-01
+    01-02-B1-04  00-00-05-E7  01-04-A9-02  00-02-41-00
+    41-00-41-00
+2023-08-29 15:49:03,368[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(133), B3(1), P(0), S(0), SB(35), Length[37]
+2023-08-29 15:49:03,368[DEBUG]:>>>> HSMS Data [37] >>>>
+    01-03-21-01  02-B1-04-00  00-01-51-41  18-4F-50-20
+    54-72-61-79  20-44-65-74  65-63-74-20  20-54-69-6D
+    65-4F-76-65  72
+2023-08-29 15:49:03,368[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(36), Length[16]
+2023-08-29 15:49:03,368[DEBUG]:>>>> HSMS Data [16] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-08-01-00
+2023-08-29 15:49:03,597[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(34), Length[3]
+2023-08-29 15:49:03,597[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:49:03,598[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(5), B3(2), P(0), S(0), SB(35), Length[3]
+2023-08-29 15:49:03,598[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:49:03,599[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(36), Length[3]
+2023-08-29 15:49:03,599[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:49:05,165[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(37), Length[34]
+2023-08-29 15:49:05,165[INFO ]:Message Stat : Queue[1], Sent[0], Recv[37]
+2023-08-29 15:49:05,211[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(37), Length[34]
+2023-08-29 15:49:05,211[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-1B-01-01
+    01-02-B1-04  00-00-04-1B  01-02-A9-02  00-01-A9-02
+    00-02
+2023-08-29 15:49:05,349[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(37), Length[3]
+2023-08-29 15:49:05,349[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:50:59,148[INFO ]:Send LinkTest Request.
+2023-08-29 15:50:59,148[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(38), Length[0]
+2023-08-29 15:50:59,148[INFO ]:Message Stat : Queue[1], Sent[0], Recv[38]
+2023-08-29 15:50:59,193[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(38), Length[0]
+2023-08-29 15:50:59,300[INFO ]:Received LinkTest Response.
+2023-08-29 15:50:59,300[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(38), Length[0]
+2023-08-29 15:53:01,511[INFO ]:Send LinkTest Request.
+2023-08-29 15:53:01,511[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(39), Length[0]
+2023-08-29 15:53:01,511[INFO ]:Message Stat : Queue[1], Sent[0], Recv[39]
+2023-08-29 15:53:01,572[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(39), Length[0]
+2023-08-29 15:53:01,711[INFO ]:Received LinkTest Response.
+2023-08-29 15:53:01,711[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(39), Length[0]
+2023-08-29 15:54:57,456[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(40), Length[32]
+2023-08-29 15:54:57,456[INFO ]:Message Stat : Queue[1], Sent[0], Recv[40]
+2023-08-29 15:54:57,502[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(40), Length[32]
+2023-08-29 15:54:57,502[DEBUG]:>>>> HSMS Data [32] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  05-DF-01-01
+    01-02-B1-04  00-00-05-DF  01-02-A9-02  00-01-41-00
+2023-08-29 15:54:57,656[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(40), Length[3]
+2023-08-29 15:54:57,656[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:54:59,192[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(41), Length[34]
+2023-08-29 15:54:59,192[INFO ]:Message Stat : Queue[1], Sent[0], Recv[41]
+2023-08-29 15:54:59,193[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(42), Length[48]
+2023-08-29 15:54:59,193[INFO ]:Message Stat : Queue[2], Sent[0], Recv[41]
+2023-08-29 15:54:59,223[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(41), Length[34]
+2023-08-29 15:54:59,223[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-1B-01-01
+    01-02-B1-04  00-00-04-1B  01-02-A9-02  00-02-A9-02
+    00-01
+2023-08-29 15:54:59,223[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(42), Length[48]
+2023-08-29 15:54:59,223[DEBUG]:>>>> HSMS Data [48] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  05-83-01-01
+    01-02-B1-04  00-00-05-83  01-04-A9-02  00-01-41-06
+    54-52-41-59  2D-31-41-06  54-52-41-59  2D-31-41-00
+2023-08-29 15:54:59,406[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(41), Length[3]
+2023-08-29 15:54:59,406[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:54:59,407[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(42), Length[3]
+2023-08-29 15:54:59,407[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:55:03,948[INFO ]:Send LinkTest Request.
+2023-08-29 15:55:03,948[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(43), Length[0]
+2023-08-29 15:55:03,948[INFO ]:Message Stat : Queue[1], Sent[0], Recv[43]
+2023-08-29 15:55:04,010[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(43), Length[0]
+2023-08-29 15:55:04,132[INFO ]:Received LinkTest Response.
+2023-08-29 15:55:04,132[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(43), Length[0]
+2023-08-29 15:55:08,553[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(131), B3(41), P(0), S(0), SB(138), Length[553]
+2023-08-29 15:55:08,553[DEBUG]:<<<< HSMS Data [553] <<<<
+    01-03-41-09  57-6F-72-6B  4F-72-64-65  72-41-0A-54
+    6F-6F-6C-54  65-73-74-2D  31-01-01-01  02-41-01-31
+    01-01-01-06  01-02-41-0A  73-6F-72-74  65-72-54-79
+    70-65-41-00  01-02-41-08  69-6E-50-6F  72-74-49-64
+    41-01-31-01  02-41-08-69  6E-43-61-72  72-49-64-41
+    06-54-52-41  59-2D-31-01  02-41-09-6F  75-74-50-6F
+    72-74-49-64  41-01-31-01  02-41-09-6F  75-74-43-61
+    72-72-49-64  41-06-43-53  54-30-30-31  01-01-01-02
+    01-02-41-04  50-50-49-44  41-04-50-50  49-44-01-02
+    41-09-53-4C  4F-54-5F-44  41-54-41-01  03-01-07-01
+    02-41-0C-69  6E-43-61-72  72-53-6C-6F  74-4E-6F-41
+    01-31-01-02  41-0A-6D-61  6E-75-61-6C  49-6E-73-70
+    41-01-4E-01  02-41-0A-70  72-6F-64-4D  74-72-6C-49
+    64-41-07-47  4C-41-53-53  30-31-01-02  41-09-73-6C
+    6F-74-53-74  61-74-65-41  01-31-01-02  41-0D-6F-75
+    74-43-61-72  72-53-6C-6F  74-4E-6F-41  01-31-01-02
+    41-05-6C-6F  74-49-64-41  07-4C-4F-54  5F-30-30-31
+    01-02-41-08  6D-74-72-6C  46-61-63-65  41-03-54-54
+    54-01-07-01  02-41-0C-69  6E-43-61-72  72-53-6C-6F
+    74-4E-6F-41  01-32-01-02  41-0A-6D-61  6E-75-61-6C
+    49-6E-73-70  41-01-4E-01  02-41-0A-70  72-6F-64-4D
+    74-72-6C-49  64-41-07-47  4C-41-53-53  30-32-01-02
+    41-09-73-6C  6F-74-53-74  61-74-65-41  01-31-01-02
+    41-0D-6F-75  74-43-61-72  72-53-6C-6F  74-4E-6F-41
+    01-32-01-02  41-05-6C-6F  74-49-64-41  07-4C-4F-54
+    5F-30-30-31  01-02-41-08  6D-74-72-6C  46-61-63-65
+    41-03-54-54  54-01-07-01  02-41-0C-69  6E-43-61-72
+    72-53-6C-6F  74-4E-6F-41  01-33-01-02  41-0A-6D-61
+    6E-75-61-6C  49-6E-73-70  41-01-4E-01  02-41-0A-70
+    72-6F-64-4D  74-72-6C-49  64-41-07-47  4C-41-53-53
+    30-33-01-02  41-09-73-6C  6F-74-53-74  61-74-65-41
+    01-31-01-02  41-0D-6F-75  74-43-61-72  72-53-6C-6F
+    74-4E-6F-41  01-33-01-02  41-05-6C-6F  74-49-64-41
+    07-4C-4F-54  5F-30-30-31  01-02-41-08  6D-74-72-6C
+    46-61-63-65  41-03-54-54  54
+2023-08-29 15:55:08,568[INFO ]:Queued HSMS Message : SSID(0), B2(3), B3(42), P(0), S(0), SB(138), Length[3]
+2023-08-29 15:55:08,568[INFO ]:Message Stat : Queue[1], Sent[0], Recv[45]
+2023-08-29 15:55:08,614[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(3), B3(42), P(0), S(0), SB(138), Length[3]
+2023-08-29 15:55:08,614[DEBUG]:>>>> HSMS Data [3] >>>>
+    21-01-00
+2023-08-29 15:56:39,267[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(130), B3(41), P(0), S(0), SB(140), Length[45]
+2023-08-29 15:56:39,267[DEBUG]:<<<< HSMS Data [45] <<<<
+    01-02-41-0A  57-4F-52-4B  5F-53-54-41  52-54-01-01
+    01-02-41-07  57-4F-52-4B  5F-49-44-41  10-77-6F-72
+    6B-32-30-32  33-30-36-33  30-31-33-33  31
+2023-08-29 15:56:39,273[INFO ]:Queued HSMS Message : SSID(0), B2(2), B3(42), P(0), S(0), SB(140), Length[7]
+2023-08-29 15:56:39,274[INFO ]:Message Stat : Queue[1], Sent[0], Recv[45]
+2023-08-29 15:56:39,313[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(2), B3(42), P(0), S(0), SB(140), Length[7]
+2023-08-29 15:56:39,313[DEBUG]:>>>> HSMS Data [7] >>>>
+    01-02-21-01  04-01-00
+2023-08-29 15:56:44,147[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(44), Length[62]
+2023-08-29 15:56:44,147[INFO ]:Message Stat : Queue[1], Sent[0], Recv[44]
+2023-08-29 15:56:44,161[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(44), Length[62]
+2023-08-29 15:56:44,161[DEBUG]:>>>> HSMS Data [62] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  05-15-01-01
+    01-02-B1-04  00-00-05-15  01-04-41-04  49-50-30-31
+    A9-02-00-01  41-06-54-52  41-59-2D-31  41-10-77-6F
+    72-6B-32-30  32-33-30-36  33-30-31-33  33-31
+2023-08-29 15:56:44,315[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(44), Length[3]
+2023-08-29 15:56:44,315[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:56:49,337[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(45), Length[16]
+2023-08-29 15:56:49,337[INFO ]:Message Stat : Queue[1], Sent[0], Recv[45]
+2023-08-29 15:56:49,382[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(45), Length[16]
+2023-08-29 15:56:49,382[DEBUG]:>>>> HSMS Data [16] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  05-1F-01-00
+2023-08-29 15:56:49,522[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(45), Length[3]
+2023-08-29 15:56:49,522[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:56:52,895[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(46), Length[61]
+2023-08-29 15:56:52,895[INFO ]:Message Stat : Queue[1], Sent[0], Recv[46]
+2023-08-29 15:56:52,942[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(46), Length[61]
+2023-08-29 15:56:52,942[DEBUG]:>>>> HSMS Data [61] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4D-01-01
+    01-02-B1-04  00-00-04-4D  01-07-41-04  54-4D-30-31
+    A9-02-00-01  41-06-54-52  41-59-2D-31  41-07-4C-4F
+    54-5F-30-30  31-A9-02-00  00-41-00-41  00
+2023-08-29 15:56:53,111[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(46), Length[3]
+2023-08-29 15:56:53,111[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:56:59,815[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(47), Length[34]
+2023-08-29 15:56:59,815[INFO ]:Message Stat : Queue[1], Sent[0], Recv[47]
+2023-08-29 15:56:59,877[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(47), Length[34]
+2023-08-29 15:56:59,877[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B1-01-01
+    01-02-B1-04  00-00-04-B1  01-02-41-04  54-4D-30-31
+    41-00
+2023-08-29 15:57:00,075[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(47), Length[3]
+2023-08-29 15:57:00,075[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:06,306[INFO ]:Send LinkTest Request.
+2023-08-29 15:57:06,306[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(48), Length[0]
+2023-08-29 15:57:06,306[INFO ]:Message Stat : Queue[1], Sent[0], Recv[48]
+2023-08-29 15:57:06,320[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(48), Length[0]
+2023-08-29 15:57:06,444[INFO ]:Received LinkTest Response.
+2023-08-29 15:57:06,444[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(48), Length[0]
+2023-08-29 15:57:06,738[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(49), Length[34]
+2023-08-29 15:57:06,738[INFO ]:Message Stat : Queue[1], Sent[0], Recv[49]
+2023-08-29 15:57:06,738[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(50), Length[61]
+2023-08-29 15:57:06,738[INFO ]:Message Stat : Queue[2], Sent[0], Recv[49]
+2023-08-29 15:57:06,753[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(49), Length[34]
+2023-08-29 15:57:06,753[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B2-01-01
+    01-02-B1-04  00-00-04-B2  01-02-41-04  54-4D-30-31
+    41-00
+2023-08-29 15:57:06,753[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(50), Length[61]
+2023-08-29 15:57:06,753[DEBUG]:>>>> HSMS Data [61] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4D-01-01
+    01-02-B1-04  00-00-04-4D  01-07-41-04  42-46-30-31
+    A9-02-00-01  41-06-54-52  41-59-2D-31  41-07-4C-4F
+    54-5F-30-30  31-A9-02-00  00-41-00-41  00
+2023-08-29 15:57:06,954[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(49), Length[3]
+2023-08-29 15:57:06,954[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:06,954[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(50), Length[3]
+2023-08-29 15:57:06,954[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:08,489[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(51), Length[34]
+2023-08-29 15:57:08,489[INFO ]:Message Stat : Queue[1], Sent[0], Recv[51]
+2023-08-29 15:57:08,534[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(51), Length[34]
+2023-08-29 15:57:08,534[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B2-01-01
+    01-02-B1-04  00-00-04-B2  01-02-41-04  54-4D-30-31
+    41-00
+2023-08-29 15:57:08,702[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(51), Length[3]
+2023-08-29 15:57:08,702[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:10,203[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(52), Length[49]
+2023-08-29 15:57:10,203[INFO ]:Message Stat : Queue[1], Sent[0], Recv[52]
+2023-08-29 15:57:10,248[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(52), Length[49]
+2023-08-29 15:57:10,248[DEBUG]:>>>> HSMS Data [49] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4E-01-01
+    01-02-B1-04  00-00-04-4E  01-05-41-04  54-4D-30-31
+    41-07-4C-4F  54-5F-30-30  31-A9-02-00  00-41-00-41
+    00
+2023-08-29 15:57:10,446[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(52), Length[3]
+2023-08-29 15:57:10,446[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:15,427[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(53), Length[43]
+2023-08-29 15:57:15,427[INFO ]:Message Stat : Queue[1], Sent[0], Recv[53]
+2023-08-29 15:57:15,473[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(53), Length[43]
+2023-08-29 15:57:15,473[DEBUG]:>>>> HSMS Data [43] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  06-41-01-01
+    01-02-B1-04  00-00-06-41  01-02-41-06  54-52-41-59
+    2D-31-41-07  47-4C-41-53  53-30-31
+2023-08-29 15:57:15,655[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(53), Length[3]
+2023-08-29 15:57:15,655[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:17,251[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(54), Length[68]
+2023-08-29 15:57:17,251[INFO ]:Message Stat : Queue[1], Sent[0], Recv[54]
+2023-08-29 15:57:17,264[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(55), Length[41]
+2023-08-29 15:57:17,264[INFO ]:Message Stat : Queue[2], Sent[0], Recv[54]
+2023-08-29 15:57:17,310[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(54), Length[68]
+2023-08-29 15:57:17,310[DEBUG]:>>>> HSMS Data [68] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4D-01-01
+    01-02-B1-04  00-00-04-4D  01-07-41-04  54-4D-30-31
+    A9-02-00-01  41-06-54-52  41-59-2D-31  41-07-4C-4F
+    54-5F-30-30  31-A9-02-00  00-41-07-47  4C-41-53-53
+    30-31-41-00
+2023-08-29 15:57:17,310[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(55), Length[41]
+2023-08-29 15:57:17,310[DEBUG]:>>>> HSMS Data [41] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B1-01-01
+    01-02-B1-04  00-00-04-B1  01-02-41-04  42-46-30-31
+    41-07-47-4C  41-53-53-30  31
+2023-08-29 15:57:17,479[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(54), Length[3]
+2023-08-29 15:57:17,479[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:17,479[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(55), Length[3]
+2023-08-29 15:57:17,479[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:24,231[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(56), Length[34]
+2023-08-29 15:57:24,231[INFO ]:Message Stat : Queue[1], Sent[0], Recv[56]
+2023-08-29 15:57:24,247[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(56), Length[34]
+2023-08-29 15:57:24,247[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B1-01-01
+    01-02-B1-04  00-00-04-B1  01-02-41-04  54-4D-30-31
+    41-00
+2023-08-29 15:57:24,447[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(56), Length[3]
+2023-08-29 15:57:24,447[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:25,982[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(57), Length[41]
+2023-08-29 15:57:25,982[INFO ]:Message Stat : Queue[1], Sent[0], Recv[57]
+2023-08-29 15:57:25,983[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(58), Length[69]
+2023-08-29 15:57:25,983[INFO ]:Message Stat : Queue[2], Sent[0], Recv[57]
+2023-08-29 15:57:26,028[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(57), Length[41]
+2023-08-29 15:57:26,028[DEBUG]:>>>> HSMS Data [41] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B2-01-01
+    01-02-B1-04  00-00-04-B2  01-02-41-04  42-46-30-31
+    41-07-47-4C  41-53-53-30  31
+2023-08-29 15:57:26,028[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(58), Length[69]
+2023-08-29 15:57:26,028[DEBUG]:>>>> HSMS Data [69] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4D-01-01
+    01-02-B1-04  00-00-04-4D  01-07-41-05  55-53-43-30
+    31-A9-02-00  01-41-06-54  52-41-59-2D  31-41-07-4C
+    4F-54-5F-30  30-31-A9-02  00-00-41-07  47-4C-41-53
+    53-30-31-41  00
+2023-08-29 15:57:26,197[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(57), Length[3]
+2023-08-29 15:57:26,197[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:26,198[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(58), Length[3]
+2023-08-29 15:57:26,198[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:27,749[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(59), Length[34]
+2023-08-29 15:57:27,749[INFO ]:Message Stat : Queue[1], Sent[0], Recv[59]
+2023-08-29 15:57:27,810[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(59), Length[34]
+2023-08-29 15:57:27,810[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B2-01-01
+    01-02-B1-04  00-00-04-B2  01-02-41-04  42-46-30-31
+    41-00
+2023-08-29 15:57:27,961[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(59), Length[3]
+2023-08-29 15:57:27,961[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:29,462[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(60), Length[49]
+2023-08-29 15:57:29,463[INFO ]:Message Stat : Queue[1], Sent[0], Recv[60]
+2023-08-29 15:57:29,523[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(60), Length[49]
+2023-08-29 15:57:29,523[DEBUG]:>>>> HSMS Data [49] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4E-01-01
+    01-02-B1-04  00-00-04-4E  01-05-41-04  42-46-30-31
+    41-07-4C-4F  54-5F-30-30  31-A9-02-00  00-41-00-41
+    00
+2023-08-29 15:57:29,707[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(60), Length[3]
+2023-08-29 15:57:29,707[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:29,707[INFO ]:clear RecvQueue's items that over the life time.
+2023-08-29 15:57:31,229[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(61), Length[34]
+2023-08-29 15:57:31,229[INFO ]:Message Stat : Queue[1], Sent[0], Recv[17]
+2023-08-29 15:57:31,243[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(61), Length[34]
+2023-08-29 15:57:31,243[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(62), Length[42]
+2023-08-29 15:57:31,243[INFO ]:Message Stat : Queue[1], Sent[1], Recv[17]
+2023-08-29 15:57:31,243[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B2-01-01
+    01-02-B1-04  00-00-04-B2  01-02-41-04  54-4D-30-31
+    41-00
+2023-08-29 15:57:31,243[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(62), Length[42]
+2023-08-29 15:57:31,243[DEBUG]:>>>> HSMS Data [42] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B1-01-01
+    01-02-B1-04  00-00-04-B1  01-02-41-05  55-53-43-30
+    31-41-07-47  4C-41-53-53  30-31
+2023-08-29 15:57:31,244[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(63), Length[67]
+2023-08-29 15:57:31,244[INFO ]:Message Stat : Queue[1], Sent[2], Recv[17]
+2023-08-29 15:57:31,304[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(63), Length[67]
+2023-08-29 15:57:31,304[DEBUG]:>>>> HSMS Data [67] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  06-4B-01-01
+    01-02-B1-04  00-00-06-4B  01-06-41-05  55-53-43-30
+    31-41-07-47  4C-41-53-53  30-31-A9-02  00-01-41-06
+    54-52-41-59  2D-31-A9-02  00-01-41-07  4C-4F-54-5F
+    30-30-31
+2023-08-29 15:57:31,381[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(61), Length[3]
+2023-08-29 15:57:31,381[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:31,382[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(62), Length[3]
+2023-08-29 15:57:31,382[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:31,459[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(63), Length[3]
+2023-08-29 15:57:31,459[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:32,996[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(64), Length[34]
+2023-08-29 15:57:32,996[INFO ]:Message Stat : Queue[1], Sent[0], Recv[20]
+2023-08-29 15:57:33,025[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(64), Length[34]
+2023-08-29 15:57:33,025[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B2-01-01
+    01-02-B1-04  00-00-04-B2  01-02-41-04  54-4D-30-31
+    41-00
+2023-08-29 15:57:33,210[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(64), Length[3]
+2023-08-29 15:57:33,210[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:34,727[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(65), Length[49]
+2023-08-29 15:57:34,727[INFO ]:Message Stat : Queue[1], Sent[0], Recv[21]
+2023-08-29 15:57:34,741[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(65), Length[49]
+2023-08-29 15:57:34,741[DEBUG]:>>>> HSMS Data [49] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4E-01-01
+    01-02-B1-04  00-00-04-4E  01-05-41-04  54-4D-30-31
+    41-07-4C-4F  54-5F-30-30  31-A9-02-00  01-41-00-41
+    00
+2023-08-29 15:57:34,895[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(65), Length[3]
+2023-08-29 15:57:34,895[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:36,488[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(66), Length[61]
+2023-08-29 15:57:36,488[INFO ]:Message Stat : Queue[1], Sent[0], Recv[22]
+2023-08-29 15:57:36,518[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(66), Length[61]
+2023-08-29 15:57:36,518[DEBUG]:>>>> HSMS Data [61] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4D-01-01
+    01-02-B1-04  00-00-04-4D  01-07-41-04  42-46-30-31
+    A9-02-00-01  41-06-54-52  41-59-2D-31  41-07-4C-4F
+    54-5F-30-30  31-A9-02-00  01-41-00-41  00
+2023-08-29 15:57:36,717[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(66), Length[3]
+2023-08-29 15:57:36,717[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:41,779[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(67), Length[61]
+2023-08-29 15:57:41,779[INFO ]:Message Stat : Queue[1], Sent[0], Recv[23]
+2023-08-29 15:57:41,794[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(67), Length[61]
+2023-08-29 15:57:41,794[DEBUG]:>>>> HSMS Data [61] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-4D-01-01
+    01-02-B1-04  00-00-04-4D  01-07-41-04  54-4D-30-31
+    A9-02-00-01  41-06-54-52  41-59-2D-31  41-07-4C-4F
+    54-5F-30-30  31-A9-02-00  01-41-00-41  00
+2023-08-29 15:57:41,993[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(67), Length[3]
+2023-08-29 15:57:41,993[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:45,260[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(68), Length[43]
+2023-08-29 15:57:45,260[INFO ]:Message Stat : Queue[1], Sent[0], Recv[24]
+2023-08-29 15:57:45,291[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(68), Length[43]
+2023-08-29 15:57:45,291[DEBUG]:>>>> HSMS Data [43] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  06-41-01-01
+    01-02-B1-04  00-00-06-41  01-02-41-06  54-52-41-59
+    2D-31-41-07  47-4C-41-53  53-30-32
+2023-08-29 15:57:45,429[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(68), Length[3]
+2023-08-29 15:57:45,429[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:46,993[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(69), Length[41]
+2023-08-29 15:57:46,993[INFO ]:Message Stat : Queue[1], Sent[0], Recv[25]
+2023-08-29 15:57:47,007[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(69), Length[41]
+2023-08-29 15:57:47,007[DEBUG]:>>>> HSMS Data [41] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B1-01-01
+    01-02-B1-04  00-00-04-B1  01-02-41-04  42-46-30-31
+    41-07-47-4C  41-53-53-30  32
+2023-08-29 15:57:47,175[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(69), Length[3]
+2023-08-29 15:57:47,175[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:57:48,741[INFO ]:Queued HSMS Message : SSID(0), B2(134), B3(11), P(0), S(0), SB(70), Length[34]
+2023-08-29 15:57:48,741[INFO ]:Message Stat : Queue[1], Sent[0], Recv[26]
+2023-08-29 15:57:48,787[INFO ]:>>> Sent HSMS Message >>> : SSID(0), B2(134), B3(11), P(0), S(0), SB(70), Length[34]
+2023-08-29 15:57:48,787[DEBUG]:>>>> HSMS Data [34] >>>>
+    01-03-B1-04  00-00-00-00  B1-04-00-00  04-B1-01-01
+    01-02-B1-04  00-00-04-B1  01-02-41-04  54-4D-30-31
+    41-00
+2023-08-29 15:57:48,986[INFO ]:<<< Received HSMS Message <<< : SSID(0), B2(6), B3(12), P(0), S(0), SB(70), Length[3]
+2023-08-29 15:57:48,986[DEBUG]:<<<< HSMS Data [3] <<<<
+    21-01-00
+2023-08-29 15:59:08,710[INFO ]:Send LinkTest Request.
+2023-08-29 15:59:08,710[INFO ]:Queued HSMS Message : SSID(65535), B2(0), B3(0), P(0), S(5), SB(71), Length[0]
+2023-08-29 15:59:08,710[INFO ]:Message Stat : Queue[1], Sent[0], Recv[27]
+2023-08-29 15:59:08,741[INFO ]:>>> Sent HSMS Message >>> : SSID(65535), B2(0), B3(0), P(0), S(5), SB(71), Length[0]
+2023-08-29 15:59:08,878[INFO ]:Received LinkTest Response.
+2023-08-29 15:59:08,878[INFO ]:<<< Received HSMS Message <<< : SSID(65535), B2(0), B3(0), P(0), S(6), SB(71), Length[0]

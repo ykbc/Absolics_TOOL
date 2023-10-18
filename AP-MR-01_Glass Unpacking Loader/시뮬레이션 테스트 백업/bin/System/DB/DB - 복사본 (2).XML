@@ -1,0 +1,232 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msdata:EnforceConstraints="False">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="EFEM_Socket">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="IP" type="xs:string" minOccurs="0" />
+                <xs:element name="Port" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="BOOTH">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="MemType" type="xs:int" minOccurs="0" />
+                <xs:element name="Address" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="PortManager">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="IP" type="xs:string" minOccurs="0" />
+                <xs:element name="Port" type="xs:int" minOccurs="0" />
+                <xs:element name="PIOMemType" type="xs:int" minOccurs="0" />
+                <xs:element name="PIOAddress" type="xs:int" minOccurs="0" />
+                <xs:element name="GlassInfoMemType" type="xs:int" minOccurs="0" />
+                <xs:element name="GlassInfoAddress" type="xs:int" minOccurs="0" />
+                <xs:element name="UnpackingPort" type="xs:string" minOccurs="0" />
+                <xs:element name="PIOUnloadPort" type="xs:string" minOccurs="0" />
+                <xs:element name="PIOUnloadPortHandOverPort" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Port">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="UnitID" type="xs:string" minOccurs="0" />
+                <xs:element name="PortType" type="xs:string" minOccurs="0" />
+                <xs:element name="PortNO" type="xs:int" minOccurs="0" />
+                <xs:element name="MemType" type="xs:int" minOccurs="0" />
+                <xs:element name="Address" type="xs:int" minOccurs="0" />
+                <xs:element name="PosL" type="xs:int" minOccurs="0" />
+                <xs:element name="PosT" type="xs:int" minOccurs="0" />
+                <xs:element name="PosW" type="xs:int" minOccurs="0" />
+                <xs:element name="PosH" type="xs:int" minOccurs="0" />
+                <xs:element name="StoHS" type="xs:string" minOccurs="0" />
+                <xs:element name="RetHS" type="xs:string" minOccurs="0" />
+                <xs:element name="ContainPos" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="HELP_TEXT">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DisplayForm" type="xs:string" minOccurs="0" />
+                <xs:element name="Text" type="xs:string" minOccurs="0" />
+                <xs:element name="FontName" type="xs:string" minOccurs="0" />
+                <xs:element name="FontSize" type="xs:int" minOccurs="0" />
+                <xs:element name="FontBold" type="xs:boolean" minOccurs="0" />
+                <xs:element name="PosOffX" type="xs:int" minOccurs="0" />
+                <xs:element name="PosOffY" type="xs:int" minOccurs="0" />
+                <xs:element name="PosLenX" type="xs:int" minOccurs="0" />
+                <xs:element name="PosLenY" type="xs:int" minOccurs="0" />
+                <xs:element name="ForeColorR" type="xs:int" minOccurs="0" />
+                <xs:element name="ForeColorG" type="xs:int" minOccurs="0" />
+                <xs:element name="ForeColorB" type="xs:int" minOccurs="0" />
+                <xs:element name="BackColorR" type="xs:int" minOccurs="0" />
+                <xs:element name="BackColorG" type="xs:int" minOccurs="0" />
+                <xs:element name="BackColorB" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="SV">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="SVID" type="xs:int" minOccurs="0" />
+                <xs:element name="SVName" type="xs:string" minOccurs="0" />
+                <xs:element name="DivideValue" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="GlassInfo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="SeqNo" type="xs:int" minOccurs="0" />
+                <xs:element name="GlassID" type="xs:string" minOccurs="0" />
+                <xs:element name="PortID" type="xs:int" minOccurs="0" />
+                <xs:element name="TrayID" type="xs:string" minOccurs="0" />
+                <xs:element name="SlotNo" type="xs:int" minOccurs="0" />
+                <xs:element name="EFEM_PortID" type="xs:int" minOccurs="0" />
+                <xs:element name="EFEM_CarrierID" type="xs:string" minOccurs="0" />
+                <xs:element name="EFEM_LotID" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <EFEM_Socket>
+    <IP>127.0.0.1</IP>
+    <Port>4000</Port>
+  </EFEM_Socket>
+  <BOOTH>
+    <MemType>168</MemType>
+    <Address>1000</Address>
+  </BOOTH>
+  <PortManager>
+    <IP>100.100.100.10</IP>
+    <Port>8192</Port>
+    <PIOMemType>168</PIOMemType>
+    <PIOAddress>1902</PIOAddress>
+    <GlassInfoMemType>168</GlassInfoMemType>
+    <GlassInfoAddress>3000</GlassInfoAddress>
+    <UnpackingPort>IP01</UnpackingPort>
+    <PIOUnloadPort>USC01</PIOUnloadPort>
+    <PIOUnloadPortHandOverPort>port1</PIOUnloadPortHandOverPort>
+  </PortManager>
+  <Port>
+    <UnitID>IP01</UnitID>
+    <PortNO>1</PortNO>
+    <MemType>168</MemType>
+    <Address>2000</Address>
+    <PosL>73</PosL>
+    <PosT>263</PosT>
+    <PosW>81</PosW>
+    <PosH>42</PosH>
+    <StoHS>3,2,3,8,8</StoHS>
+    <RetHS>4,10,3,8,8</RetHS>
+    <ContainPos>2</ContainPos>
+  </Port>
+  <Port>
+    <UnitID>OP01</UnitID>
+    <MemType>168</MemType>
+    <Address>2200</Address>
+    <PortNO>2</PortNO>
+    <PosL>73</PosL>
+    <PosT>305</PosT>
+    <PosW>81</PosW>
+    <PosH>42</PosH>
+    <StoHS>3,2,3,8,8</StoHS>
+    <RetHS>4,10,3,8,8</RetHS>
+    <ContainPos>2</ContainPos>
+  </Port>
+  <Port>
+    <UnitID>TM01</UnitID>
+    <MemType>168</MemType>
+    <Address>2400</Address>
+    <PosL>154</PosL>
+    <PosT>197</PosT>
+    <PosW>81</PosW>
+    <PosH>150</PosH>
+    <StoHS>3,2,3,8,8</StoHS>
+    <RetHS>4,10,3,8,8</RetHS>
+    <ContainPos>2</ContainPos>
+  </Port>
+  <Port>
+    <UnitID>BF01</UnitID>
+    <MemType>168</MemType>
+    <Address>2600</Address>
+    <PosL>154</PosL>
+    <PosT>155</PosT>
+    <PosW>81</PosW>
+    <PosH>42</PosH>
+    <StoHS>3,2,3,8,8</StoHS>
+    <RetHS>4,10,3,8,8</RetHS>
+    <ContainPos>2</ContainPos>
+  </Port>
+  <Port>
+    <UnitID>USC01</UnitID>
+    <MemType>168</MemType>
+    <Address>2800</Address>
+    <PosL>154</PosL>
+    <PosT>113</PosT>
+    <PosW>81</PosW>
+    <PosH>42</PosH>
+    <StoHS>3,2,3,8,8</StoHS>
+    <RetHS>4,10,3,8,8</RetHS>
+    <ContainPos>2</ContainPos>
+  </Port>
+  <HELP_TEXT>
+    <Text>EFEM</Text>
+    <PosOffX>147</PosOffX>
+    <PosOffY>65</PosOffY>
+    <PosLenX>100</PosLenX>
+    <PosLenY>40</PosLenY>
+  </HELP_TEXT>
+  <SV>
+    <SVID>11001</SVID>
+    <SVName>Temp_Sensor_1</SVName>
+    <DivideValue>100</DivideValue>
+  </SV>
+  <SV>
+    <SVID>11002</SVID>
+    <SVName>Main_power_voltage</SVName>
+    <DivideValue>10</DivideValue>
+  </SV>
+  <SV>
+    <SVID>11003</SVID>
+    <SVName>Travel_servo_torque</SVName>
+    <DivideValue>1</DivideValue>
+  </SV>
+  <SV>
+    <SVID>11004</SVID>
+    <SVName>Travel_servo_speed</SVName>
+    <DivideValue>100</DivideValue>
+  </SV>
+  <SV>
+    <SVID>11005</SVID>
+    <SVName>Hoist#1_servo_torque</SVName>
+    <DivideValue>1</DivideValue>
+  </SV>
+  <SV>
+    <SVID>11006</SVID>
+    <SVName>Hoist#1_servo_speed</SVName>
+    <DivideValue>100</DivideValue>
+  </SV>
+  <SV>
+    <SVID>11007</SVID>
+    <SVName>Hoist#2_servo_torque</SVName>
+    <DivideValue>1</DivideValue>
+  </SV>
+  <SV>
+    <SVID>11008</SVID>
+    <SVName>Hoist#2_servo_speed</SVName>
+    <DivideValue>100</DivideValue>
+  </SV>
+</NewDataSet>
